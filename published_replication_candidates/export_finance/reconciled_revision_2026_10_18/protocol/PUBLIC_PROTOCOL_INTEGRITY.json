@@ -1,0 +1,12 @@
+{
+  "sha256": "7834022e03efc32a3b6b6bfdab74c8651c65b73d7b98ae177d98221ca3126382",
+  "amendment_sha256": "598f9b2fe6dbc55c9345477748344485a0de3209a9e44e99808891b25b7f380f",
+  "reviewed_source_ids": [
+    1976,
+    8176,
+    9180,
+    9622
+  ],
+  "original_protocol_sha256": "171a82601f70cc9f0cc35917fc37205f8f9bce2e6cd76c318e1a3d4c62d375b6",
+  "original_amendment_sha256": "ecb04ed731402105eb1a93b0fc2dd6035a19802c0a65ccc1c127fd867740e941"
+}

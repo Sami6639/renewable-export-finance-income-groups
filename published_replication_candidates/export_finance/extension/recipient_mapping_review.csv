@@ -1,0 +1,160 @@
+country,CC,recipient_unallocable,recipient_iso3,mapping_method,wb_name,income_FY2013,income_FY2023,iso3_from_raw_CC,raw_CC_name_conflict
+United Kingdom,UK,False,GBR,Exact WB country name,United Kingdom,H,H,GBR,False
+Brazil,BR,False,BRA,Exact WB country name,Brazil,UM,UM,BRA,False
+Uruguay,UY,False,URY,Exact WB country name,Uruguay,UM,H,URY,False
+Spain,ES,False,ESP,Exact WB country name,Spain,H,H,ESP,False
+Mexico,MX,False,MEX,Exact WB country name,Mexico,UM,UM,MEX,False
+Australia,AU,False,AUS,Exact WB country name,Australia,H,H,AUS,False
+Global,GL,True,,Unallocable geography,,,,GRL,False
+Uganda,UG,False,UGA,Exact WB country name,Uganda,L,L,UGA,False
+Norway,NO,False,NOR,Exact WB country name,Norway,H,H,NOR,False
+Sweden,SE,False,SWE,Exact WB country name,Sweden,H,H,SWE,False
+Nigeria,NG,False,NGA,Exact WB country name,Nigeria,LM,LM,NGA,False
+Russia,RU,False,RUS,Explicit name alias,Russian Federation,UM,UM,RUS,False
+Indonesia,ID,False,IDN,Exact WB country name,Indonesia,LM,LM,IDN,False
+Morocco,MA,False,MAR,Exact WB country name,Morocco,LM,LM,MAR,False
+Honduras,HN,False,HND,Exact WB country name,Honduras,LM,LM,HND,False
+Zambia,ZM,False,ZMB,Exact WB country name,Zambia,LM,L,ZMB,False
+Kazakhstan,KZ,False,KAZ,Exact WB country name,Kazakhstan,UM,UM,KAZ,False
+United Arab Emirates,AE,False,ARE,Exact WB country name,United Arab Emirates,H,H,ARE,False
+India,IN,False,IND,Exact WB country name,India,LM,LM,IND,False
+Greece,GR,False,GRC,Exact WB country name,Greece,H,H,GRC,False
+Ghana,GH,False,GHA,Exact WB country name,Ghana,LM,LM,GHA,False
+Multiple Countries,,True,,Unallocable geography,,,,,False
+Italy,IT,False,ITA,Exact WB country name,Italy,H,H,ITA,False
+Romania,RO,False,ROU,Exact WB country name,Romania,UM,H,ROU,False
+"Latin America & Caribbean, regional",,True,,Unallocable geography,,,,,False
+Saudi Arabia,SA,False,SAU,Exact WB country name,Saudi Arabia,H,H,SAU,False
+United States,US,False,USA,Exact WB country name,United States,H,H,USA,False
+South Africa,ZA,False,ZAF,Exact WB country name,South Africa,UM,UM,ZAF,False
+Viet Nam,VN,False,VNM,Exact WB country name,Viet Nam,LM,LM,VNM,False
+Turkey,TR,False,TUR,Explicit name alias,Türkiye,UM,UM,TUR,False
+Ethiopia,ET,False,ETH,Exact WB country name,Ethiopia,L,L,ETH,False
+Ireland,IE,False,IRL,Exact WB country name,Ireland,H,H,IRL,False
+Peru,PE,False,PER,Exact WB country name,Peru,UM,UM,PER,False
+Luxembourg,LU,False,LUX,Exact WB country name,Luxembourg,H,H,LUX,False
+Germany,DE,False,DEU,Exact WB country name,Germany,H,H,DEU,False
+Occupied Palestinian Territories,IL,False,PSE,Explicit name alias,West Bank and Gaza,LM,LM,ISR,True
+Uzbekistan,UZ,False,UZB,Exact WB country name,Uzbekistan,LM,LM,UZB,False
+Kyrgyzstan,KG,False,KGZ,Explicit name alias,Kyrgyz Republic,L,LM,KGZ,False
+Costa Rica,CR,False,CRI,Exact WB country name,Costa Rica,UM,UM,CRI,False
+Iraq,IQ,False,IRQ,Exact WB country name,Iraq,LM,UM,IRQ,False
+Venezuela,VE,False,VEN,Explicit name alias,"Venezuela, RB",UM,,VEN,False
+Tunisia,TN,False,TUN,Exact WB country name,Tunisia,UM,LM,TUN,False
+Japan,JP,False,JPN,Exact WB country name,Japan,H,H,JPN,False
+Switzerland,CH,False,CHE,Exact WB country name,Switzerland,H,H,CHE,False
+Belarus,BY,False,BLR,Exact WB country name,Belarus,UM,UM,BLR,False
+Panama,PA,False,PAN,Exact WB country name,Panama,UM,H,PAN,False
+Bulgaria,BG,False,BGR,Exact WB country name,Bulgaria,UM,UM,BGR,False
+China,CN,False,CHN,Exact WB country name,China,UM,UM,CHN,False
+Finland,FI,False,FIN,Exact WB country name,Finland,H,H,FIN,False
+Thailand,TH,False,THA,Exact WB country name,Thailand,UM,UM,THA,False
+Kuwait,KW,False,KWT,Exact WB country name,Kuwait,H,H,KWT,False
+Egypt,EG,False,EGY,Explicit name alias,"Egypt, Arab Rep.",LM,LM,EGY,False
+Netherlands,NL,False,NLD,Exact WB country name,Netherlands,H,H,NLD,False
+Singapore,SG,False,SGP,Exact WB country name,Singapore,H,H,SGP,False
+Oman,OM,False,OMN,Exact WB country name,Oman,H,H,OMN,False
+Yemen,YE,False,YEM,Explicit name alias,"Yemen, Rep.",LM,L,YEM,False
+South Korea,KR,False,KOR,Explicit name alias,"Korea, Rep.",H,H,KOR,False
+Bosnia and Herzegovina,BA,False,BIH,Exact WB country name,Bosnia and Herzegovina,UM,UM,BIH,False
+Tanzania,TZ,False,TZA,Exact WB country name,Tanzania,L,LM,TZA,False
+Canada,CA,False,CAN,Exact WB country name,Canada,H,H,CAN,False
+Jordan,JO,False,JOR,Exact WB country name,Jordan,UM,UM,JOR,False
+Denmark,DK,False,DNK,Exact WB country name,Denmark,H,H,DNK,False
+Czech Republic,CZ,False,CZE,Explicit name alias,Czechia,H,H,CZE,False
+Colombia,CO,False,COL,Exact WB country name,Colombia,UM,UM,COL,False
+Chile,CL,False,CHL,Exact WB country name,Chile,UM,H,CHL,False
+Mozambique,MZ,False,MOZ,Exact WB country name,Mozambique,L,L,MOZ,False
+Papua New Guinea,PG,False,PNG,Exact WB country name,Papua New Guinea,LM,LM,PNG,False
+Pakistan,PK,False,PAK,Exact WB country name,Pakistan,LM,LM,PAK,False
+Malaysia,MY,False,MYS,Exact WB country name,Malaysia,UM,UM,MYS,False
+Azerbaijan,AZ,False,AZE,Exact WB country name,Azerbaijan,UM,UM,AZE,False
+Argentina,AR,False,ARG,Exact WB country name,Argentina,UM,UM,ARG,False
+Turkmenistan,TM,False,TKM,Exact WB country name,Turkmenistan,UM,UM,TKM,False
+Slovakia,SK,False,SVK,Explicit name alias,Slovak Republic,H,H,SVK,False
+Togo,TG,False,TGO,Exact WB country name,Togo,L,L,TGO,False
+Philippines,PH,False,PHL,Exact WB country name,Philippines,LM,LM,PHL,False
+Multiple Countries,"US,NG",True,,Unallocable geography,,,,,False
+Lao People's Democratic Republic,LA,False,LAO,Explicit name alias,Lao PDR,LM,LM,LAO,False
+Poland,PL,False,POL,Exact WB country name,Poland,H,H,POL,False
+Tajikistan,TJ,False,TJK,Exact WB country name,Tajikistan,L,LM,TJK,False
+Ecuador,EC,False,ECU,Exact WB country name,Ecuador,UM,UM,ECU,False
+Trinidad and Tobago,TT,False,TTO,Exact WB country name,Trinidad and Tobago,H,H,TTO,False
+"North America, regional","US,CA",True,,Unallocable geography,,,,,False
+Serbia,RS,False,SRB,Exact WB country name,Serbia,UM,UM,SRB,False
+El Salvador,SV,False,SLV,Exact WB country name,El Salvador,LM,LM,SLV,False
+Fiji,FJ,False,FJI,Exact WB country name,Fiji,LM,UM,FJI,False
+Angola,AO,False,AGO,Exact WB country name,Angola,UM,LM,AGO,False
+"East Asia & Pacific,regional","TH,ID",True,,Unallocable geography,,,,,False
+Kenya,KE,False,KEN,Exact WB country name,Kenya,L,LM,KEN,False
+Cuba,CU,False,CUB,Exact WB country name,Cuba,UM,UM,CUB,False
+Marshall Islands,MH,False,MHL,Exact WB country name,Marshall Islands,LM,UM,MHL,False
+Liberia,LR,False,LBR,Exact WB country name,Liberia,L,L,LBR,False
+Lithuania,LT,False,LTU,Exact WB country name,Lithuania,UM,H,LTU,False
+Georgia,GE,False,GEO,Exact WB country name,Georgia,LM,UM,GEO,False
+"Congo,the Democratic Republic of the",CD,False,COD,Explicit name alias,"Congo, Dem. Rep.",L,L,COD,False
+Montenegro,ME,False,MNE,Exact WB country name,Montenegro,UM,UM,MNE,False
+Nicaragua,NI,False,NIC,Exact WB country name,Nicaragua,LM,LM,NIC,False
+Cote d'Ivoire,CI,False,CIV,Explicit name alias,Côte d'Ivoire,LM,LM,CIV,False
+Bahamas,BS,False,BHS,Explicit name alias,"Bahamas, The",H,H,BHS,False
+Monaco,MC,False,MCO,Exact WB country name,Monaco,H,H,MCO,False
+Zimbabwe,ZW,False,ZWE,Exact WB country name,Zimbabwe,L,LM,ZWE,False
+"Sub-Saharan Africa, regional",,True,,Unallocable geography,,,,,False
+Iceland,IS,False,ISL,Exact WB country name,Iceland,H,H,ISL,False
+Dominican Republic,DO,False,DOM,Exact WB country name,Dominican Republic,UM,UM,DOM,False
+Qatar,QA,False,QAT,Exact WB country name,Qatar,H,H,QAT,False
+Sri Lanka,LK,False,LKA,Exact WB country name,Sri Lanka,LM,LM,LKA,False
+Bangladesh,BD,False,BGD,Exact WB country name,Bangladesh,L,LM,BGD,False
+Bermuda,BM,False,BMU,Exact WB country name,Bermuda,H,H,BMU,False
+Suriname,SR,False,SUR,Exact WB country name,Suriname,UM,UM,SUR,False
+"Micronesia,Federated States of",FM,False,FSM,Explicit name alias,"Micronesia, Fed. Sts.",LM,LM,FSM,False
+Hong Kong,HK,False,HKG,Explicit name alias,"Hong Kong SAR, China",H,H,HKG,False
+Cambodia,KH,False,KHM,Exact WB country name,Cambodia,L,LM,KHM,False
+Mongolia,MN,False,MNG,Exact WB country name,Mongolia,LM,LM,MNG,False
+Ukraine,UA,False,UKR,Exact WB country name,Ukraine,LM,LM,UKR,False
+Senegal,SN,False,SEN,Exact WB country name,Senegal,LM,LM,SEN,False
+South Sudan,SS,False,SSD,Exact WB country name,South Sudan,LM,L,SSD,False
+Sierra Leone,SL,False,SLE,Exact WB country name,Sierra Leone,L,L,SLE,False
+Bolivia,BO,False,BOL,Exact WB country name,Bolivia,LM,LM,BOL,False
+Myanmar,MM,False,MMR,Exact WB country name,Myanmar,L,LM,MMR,False
+Bahrain,BH,False,BHR,Exact WB country name,Bahrain,H,H,BHR,False
+Benin,BJ,False,BEN,Exact WB country name,Benin,L,LM,BEN,False
+"Central & Western Europe, regional","NO,UK",True,,Unallocable geography,,,,,False
+Rwanda,RW,False,RWA,Exact WB country name,Rwanda,L,L,RWA,False
+Cameroon,CM,False,CMR,Exact WB country name,Cameroon,LM,LM,CMR,False
+Guatemala,GT,False,GTM,Exact WB country name,Guatemala,LM,UM,GTM,False
+Barbados,BB,False,BRB,Exact WB country name,Barbados,H,H,BRB,False
+New Zealand,NZ,False,NZL,Exact WB country name,New Zealand,H,H,NZL,False
+"Asia,regional","MY,PK",True,,Unallocable geography,,,,,False
+Iran,IR,False,IRN,Explicit name alias,"Iran, Islamic Rep.",UM,LM,IRN,False
+Eritrea,ER,False,ERI,Exact WB country name,Eritrea,L,L,ERI,False
+Mauritania,MR,False,MRT,Exact WB country name,Mauritania,L,LM,MRT,False
+"Sub-Saharan Africa, regional","MW,MZ",True,,Unallocable geography,,,,,False
+Multiple Countries,AU,True,,Unallocable geography,,,,AUS,False
+France,FR,False,FRA,Exact WB country name,France,H,H,FRA,False
+Global,,True,,Unallocable geography,,,,,False
+Taiwan,TW,False,TWN,Explicit name alias,"Taiwan, China",H,H,TWN,False
+Libya,LY,False,LBY,Exact WB country name,Libya,UM,UM,LBY,False
+Madagascar,MG,False,MDG,Exact WB country name,Madagascar,L,L,MDG,False
+Guinea,GN,False,GIN,Exact WB country name,Guinea,L,L,GIN,False
+Djibouti,DJ,False,DJI,Exact WB country name,Djibouti,LM,LM,DJI,False
+"Central & Western Europe, regional","IT,GR,AL",True,,Unallocable geography,,,,,False
+"Central & Western Europe, regional","AL,IT,GR",True,,Unallocable geography,,,,,False
+Jamaica,JM,False,JAM,Exact WB country name,Jamaica,UM,UM,JAM,False
+Armenia,AM,False,ARM,Exact WB country name,Armenia,LM,UM,ARM,False
+Algeria,DZ,False,DZA,Exact WB country name,Algeria,UM,LM,DZA,False
+Nepal,NP,False,NPL,Exact WB country name,Nepal,L,LM,NPL,False
+Niger,NE,False,NER,Exact WB country name,Niger,L,L,NER,False
+Kosovo,XK,False,XKX,Exact WB country name,Kosovo,LM,UM,XKX,False
+Lesotho,LS,False,LSO,Exact WB country name,Lesotho,LM,LM,LSO,False
+Malta,MT,False,MLT,Exact WB country name,Malta,H,H,MLT,False
+Guyana,GY,False,GUY,Exact WB country name,Guyana,LM,UM,GUY,False
+Mali,ML,False,MLI,Exact WB country name,Mali,L,L,MLI,False
+American Samoa,AS,False,ASM,Exact WB country name,American Samoa,UM,UM,ASM,False
+Solomon Islands,SB,False,SLB,Exact WB country name,Solomon Islands,LM,LM,SLB,False
+Cyprus,CY,False,CYP,Exact WB country name,Cyprus,H,H,CYP,False
+Guam,GU,False,GUM,Exact WB country name,Guam,H,H,GUM,False
+"North America, regional",US CA,True,,Unallocable geography,,,,,False
+Palau,PW,False,PLW,Exact WB country name,Palau,UM,UM,PLW,False
+Albania,AL,False,ALB,Exact WB country name,Albania,LM,UM,ALB,False
+Bangladesh,BG,False,BGD,Exact WB country name,Bangladesh,L,LM,BGR,True

@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "decomposition_closure_pp": 2.1316282072803006e-14,
+  "four_class_delta_sum_pp": 2.1316282072803006e-14,
+  "within_class_sum_pp": 1.8207657603852567e-14,
+  "composition_entry_exit_class_sum_pp": 3.019806626980426e-14,
+  "completion_denominator_vertex_variation": 0.0
+}

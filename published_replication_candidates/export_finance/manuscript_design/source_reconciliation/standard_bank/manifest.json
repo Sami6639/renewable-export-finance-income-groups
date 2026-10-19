@@ -1,0 +1,81 @@
+{
+  "reviewed_date": "2026-10-18",
+  "source_data_modified": false,
+  "files": [
+    {
+      "file": "RECONCILIATION.md",
+      "bytes": 8487,
+      "sha256": "4575d909fd1ed22b4cb90ee0ac1d4e84e8f0c90193c6c578ac69afd559037e18"
+    },
+    {
+      "file": "jbic_2015_statistics.pdf",
+      "bytes": 1031765,
+      "sha256": "14b646fd58a0afe38c7fafd787a23fbb40aba7a974a37f9fec2c5b4a0b56897a"
+    },
+    {
+      "file": "jbic_2015_statistics.txt",
+      "bytes": 625384,
+      "sha256": "680a4327ac81de1d8048753c9f8c5445304f7384572c00c976fec5de89db84ea"
+    },
+    {
+      "file": "jbic_africa2019_failed.html",
+      "bytes": 23173,
+      "sha256": "bb668210f821b0e4532e31f3e757bcbe330dec0408b75a3050e9f3539ceef2c6"
+    },
+    {
+      "file": "jbic_africa_en_failed.html",
+      "bytes": 23173,
+      "sha256": "bb668210f821b0e4532e31f3e757bcbe330dec0408b75a3050e9f3539ceef2c6"
+    },
+    {
+      "file": "jbic_africa_failed.html",
+      "bytes": 29196,
+      "sha256": "0dceba2b47550bcce75c789ddeb29dd5e411772564f19d3989298836c7c8ee03"
+    },
+    {
+      "file": "jbic_africa_portuguese.pdf",
+      "bytes": 2135527,
+      "sha256": "fbb26f5c6fd7f3d4bb22f59f40819ff46499ae79bf71f8a4f32a73c70efc4b01"
+    },
+    {
+      "file": "jbic_africa_portuguese.txt",
+      "bytes": 87861,
+      "sha256": "7013bfa46d7761137c01d3a38ed5cfe1b33ee3ae6ec6c9e1e439fa72d53192f9"
+    },
+    {
+      "file": "jbic_africa_spread6_7.png",
+      "bytes": 2317346,
+      "sha256": "3514f2dbc93034bda2166aa35498e08649d5babc36045382290e8e528b306cc3"
+    },
+    {
+      "file": "jbic_environment_spread3_4.png",
+      "bytes": 1429666,
+      "sha256": "9aaa13b4ef90e4c67255e00816a2f89df28c0aeb55ca0dc8d61c7105de33c493"
+    },
+    {
+      "file": "jbic_environmental_sustainability_ndl.pdf",
+      "bytes": 816694,
+      "sha256": "85bfa97b55c468f9b1b76e56d36e66f41ee77ac20771bed1685c31fce3449178"
+    },
+    {
+      "file": "jbic_environmental_sustainability_ndl.txt",
+      "bytes": 60871,
+      "sha256": "e015d846357940bfe7946629df0ecadc37a4d737564e0b3af52458d12692d9d5"
+    },
+    {
+      "file": "jbic_printed98.png",
+      "bytes": 261122,
+      "sha256": "d1c949d74612c910198a80632f4ca0455498e999536eb8af83bbd89de55bc53a"
+    },
+    {
+      "file": "row_reconciliation.csv",
+      "bytes": 541,
+      "sha256": "369130ead61c51b859b487356706e4843f019a39201f6678aa6ea7164ce7acdd"
+    },
+    {
+      "file": "standardbank_2015_failed.html",
+      "bytes": 509561,
+      "sha256": "29dac2443125503a4005e3ba4498d08a0076eb79e3a57a363d8cfdec817f981c"
+    }
+  ]
+}

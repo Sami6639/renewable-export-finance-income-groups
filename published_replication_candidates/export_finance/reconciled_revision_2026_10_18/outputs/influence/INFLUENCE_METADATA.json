@@ -1,0 +1,92 @@
+{
+  "protocol_section": 9,
+  "approved_protocol_sha256": "171a82601f70cc9f0cc35917fc37205f8f9bce2e6cd76c318e1a3d4c62d375b6",
+  "classification": "fixed FY2013",
+  "scenarios": [
+    "A0O0G0D0",
+    "A0O0G0D1",
+    "A0O0G0D2",
+    "A0O0G1D0",
+    "A0O0G1D1",
+    "A0O0G1D2",
+    "A0O1G0D0",
+    "A0O1G0D1",
+    "A0O1G0D2",
+    "A0O1G1D0",
+    "A0O1G1D1",
+    "A0O1G1D2",
+    "A1O0G0D0",
+    "A1O0G0D1",
+    "A1O0G0D2",
+    "A1O0G1D0",
+    "A1O0G1D1",
+    "A1O0G1D2",
+    "A1O1G0D0",
+    "A1O1G0D1",
+    "A1O1G0D2",
+    "A1O1G1D0",
+    "A1O1G1D1",
+    "A1O1G1D2"
+  ],
+  "panels": [
+    "international_reporting",
+    "country_assigned_international",
+    "all_locations"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "packages": {
+    "Standard Bank 1907/1908": [
+      1907,
+      1908
+    ],
+    "Karuma 109/2253": [
+      109,
+      2253
+    ],
+    "Dogger 7410/8034/8413": [
+      7410,
+      8034,
+      8413
+    ]
+  },
+  "counts": {
+    "scenario_panel_pairs": 72,
+    "entities": 42408,
+    "endpoint_rows": 169632,
+    "annual_rows": 1696320
+  },
+  "files": {
+    "record_endpoint": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/record_influence_endpoint.csv.gz",
+    "record_annual": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/record_influence_annual.csv.gz",
+    "provider_endpoint": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/provider_influence_endpoint.csv.gz",
+    "provider_annual": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/provider_influence_annual.csv.gz",
+    "package_endpoint": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/package_influence_endpoint.csv.gz",
+    "package_annual": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/package_influence_annual.csv.gz",
+    "ledger": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/influence_entity_ledger.csv.gz",
+    "recorded_value_rankings": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/endpoint_recorded_value_rankings.csv.gz",
+    "rankings": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/influence_rankings.csv.gz",
+    "concentration": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/influence_concentration.csv",
+    "recorded_value_summary": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/endpoint_recorded_value_concentration.csv"
+  },
+  "influence_definition": "Outcome after deleting the named unit minus baseline outcome, in percentage points.",
+  "population": "All original Renewable rows in the immutable retained-sample clean mapped input. No agreement-year overlays.",
+  "excluded_rows": "Scenario-excluded source rows stay in every ledger with status 'already absent'; panel-excluded rows have status 'outside geography panel'. Their dollar influence is zero wherever baseline outcomes are defined.",
+  "annual_estimands": "All ten classified-income and all-observed-dollar four-class annual share vectors are saved separately. Endpoint decomposition is classified-income accounting.",
+  "ranking": "Each endpoint term ranks maximum absolute influence over four income classes. Annual metrics separately rank maximum absolute influence over four classes and all ten years. Exact score ties use source row ID numerically ascending, or provider/package label ascending. Weak-order tie ranks are also supplied.",
+  "undefined": "Empty numeric CSV cells are undefined, never imputed zero. Annual ranks use defined vector cells, disclose their undefined cell counts, and exclude fully undefined deletions.",
+  "concentration": "For top units selected by max-absolute rank, share_summed_absolute_influence divides their L1 influence-vector mass by total eligible L1 mass. share_max_absolute_ranking_score separately divides their ranking scores by all ranking scores. Both are undefined when their denominator is zero.",
+  "recorded_value_concentration": "Separate financial-value measures use all observed endpoint-panel dollars among included records. Both original recorded nominal USD and scenario analytical nominal USD are shown; ties use source row ID. These are not influence concentration or exposure shares.",
+  "interpretation": "Provider deletion changes reporting population. Fixed known-package deletion is secondary. Rows are archive records, not independent observations or certified projects. No preferred-result trimming, standard errors, or p-values.",
+  "numerical_support": "Positive-row counts set emptied provider-year-class cells exactly to zero after subtraction, preventing floating-point residue from creating provider support."
+}

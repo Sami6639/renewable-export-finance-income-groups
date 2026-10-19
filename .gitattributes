@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Preserve exact distributed bytes for checksum verification.
+/published_replication_candidates/export_finance/manuscript_design/source_validation/top10_source_audit_ledger.csv -text
+/published_replication_candidates/export_finance/manuscript_design/source_validation/country_conflict_triggers.csv -text
+/published_replication_candidates/export_finance/manuscript_design/source_reconciliation/standard_bank/row_reconciliation.csv -text
+/published_replication_candidates/export_finance/manuscript_design/source_validation/all_positive_renewable_text_screen.csv -text
+/published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/endpoint_recorded_value_concentration.csv -text

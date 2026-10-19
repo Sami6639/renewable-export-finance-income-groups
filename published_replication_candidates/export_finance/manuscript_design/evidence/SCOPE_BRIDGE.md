@@ -1,0 +1,28 @@
+Historical prerequisite analysis, superseded for revised interpretation by reconciled_revision_2026_10_18. Retained to document the preceding analysis and replay.
+
+# Scope bridge to Censkowsky et al. (2025)
+
+This is an archive-conditioned extension, not a direct replication or contradiction of the proprietary TXF main analysis. No Canada-excluded or harmonized counterfactual estimate was computed.
+
+| Dimension | Predecessor | This analysis | Consequence |
+|---|---|---|---|
+| Data source and reproducibility | Main analysis uses restricted TXF transaction data; the public package includes a censored, reshuffled approximately 10% demonstration sample and OCI supplementary inputs. | The deposited July 2024 OCI workbook supplies the complete retained archive sample, not the TXF population. | Auditing OCI calculations cannot validate or invalidate unavailable TXF main estimates. |
+| Observation and financial meaning | TXF main analysis distinguishes ECA involvement and total deal volume. OCI is a supplementary triangulation source. | OCI reporting entries and heterogeneous recorded USD values, including guaranteed-contract values, financing records and annual residual aggregates. | Neither records nor dollars can uniformly be interpreted as unique projects or loan principal. |
+| Canada | Main analysis excludes Canada; archive-script Supplementary Figure 1's OCI series also explicitly drops Canada. | Canada remains in the frozen all-location archive; known-international analysis retains Canadian-provider entries with unequal recorded recipient country. | Sample composition differs; retaining Canada does not mean every Canadian entry is international. |
+| Time | Main study covers 2013–2023. Deposited OCI code derives year from date, while income-chart code groups 2013–2015, 2016–2019, 2020–2021, 2022–2023. | FY2013–2022, with pooled FY2013–2015 and FY2020–2022 endpoint windows and all ten annual observations. | FY is not approval/closing year; the late window is not the predecessor's final phase and not a clean post-policy treatment. The audited retained sample includes 327 FY/approval-year discrepancies and eight entries dated 2012. |
+| Recipient income | Deposited 240219 World Bank file is a fixed downloaded classification; Element8 applies four categories and a Jersey imputation. Its combined-data path additionally imputes Venezuela. | Official historical FY2013 classes fixed across every year, with fixed FY2023 sensitivity. Unresolved geography and unclassified income remain separate. | The February 2024 filename is not evidence that it is FY2023. Do not relabel that vintage without verifying workbook notes. Non-high-income means L+LM+UM; it is not the same as lower-income L+LM. |
+| Inflation path | Element3 divides OCI v by CPI twice in successive identical 2013–2022 loops; the audited Python reconstruction of the resulting archive-script Supplementary Figure 1 path matches 33 archived cells within USD 2,222. | Nominal USD is primary; real2020_usd_once divides observed USD once by the FY-specific US CPI/CPI2020 ratio. | The duplicated OCI path is an audited code/output finding, not a claim about the restricted TXF main calculations. Original Stata was not run. |
+| Missing amounts | Deposited Element3 includes row-index repairs before and after the duplicate deflation loops. | One source amount remains missing in primary sums; the source-supported USD 356,545 repair is a separately labelled existing sensitivity. | Do not silently substitute that repaired value into primary or interpret absence from sums as economic zero. |
+| Question | The predecessor studies sectoral portfolio shifts and geographic implications. | Source-sensitive accounting of recorded recipient-country income shares, with explicit denominators, coverage, and provider-country identity. | This study's contribution must stand on measurement and attribution evidence, not claim that the income-share question itself is new. |
+
+## Traceable sources
+
+Primary publication: Censkowsky et al., Nature Communications 16, 900 (2025), https://doi.org/10.1038/s41467-025-55981-0 . Main data/sample and Canada statements verified against the article's Abstract and Introduction, 18 October 2026.
+
+Deposited replication package: https://zenodo.org/records/14261240 . README sections 4–5 and data-file list document access restrictions, censored demo, OCI July 2024 provenance and archived classification filename. Element3_SI_generate_subset_OCI.do, lines 24–67 and 99–136, document date-derived year, index repairs and duplicate CPI loops. Element5_SI figures.do, lines 54–66, drops Canada for archive-script Supplementary Figure 1. Element8_figure_recipientcountry_distribution.R, lines 319–348 and 654–673, documents income labels, phases and imputations. Package line references refer to the archived files, not retyped scripts.
+
+Extension audit sources: GATE_ONE_REPORT.md; independent_audit/AUDIT.md; published_si_fig1_reconstruction.csv; income_mapping_freeze.json; cpi_validated.csv. These support the frozen sample, 327 time discrepancies, missing amount treatment, historical classification and independently replayed supplementary path.
+
+No raw original workbook is included in this evidence directory. The source archive's licensing discrepancy remains relevant to any later row-level redistribution.
+
+Numbering qualification: “Supplementary Figure 1” above identifies the archived script/output path that was replayed. The live article refers to aggregate OCI triangulation as Supplementary Figure 3; archived-script numbering must not be assumed to equal the publication figure numbering.

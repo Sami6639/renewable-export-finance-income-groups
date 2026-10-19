@@ -1,0 +1,13 @@
+{
+  "source_excel_row": 1586,
+  "host_status": "corroborated Argentina",
+  "coverage_percentage_status": "corroborated minimum 95 percent",
+  "coverage_basis": "principal and interest excluding Relevant Interest Portion (first USD 300m of interest, reducing with payment)",
+  "exact_dataset_amount_status": "unresolved; compatible with 95% of rounded USD 4.7bn source figure, not exact policy limit",
+  "dataset_amount_usd": 4465000000,
+  "official_facility_commitment_usd": 4714350000,
+  "policy_effective_date_from_2022_annex": "2014-12-18",
+  "original_credit_signature_from_2022_decree": "2014-08-01",
+  "dataset_day_status": "2014-08-18 not corroborated",
+  "data_changed": false
+}

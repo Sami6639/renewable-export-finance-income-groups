@@ -1,0 +1,13 @@
+geography,period,share_residual,amount_residual,scenario
+all_locations,early,2.7755575615628914e-17,0.0,
+all_locations,late,0.0,0.0,
+international_reporting,early,2.7755575615628914e-17,0.0,
+international_reporting,late,0.0,0.0,
+domestic,early,0.0,0.0,
+domestic,late,0.0,0.0,
+all_locations,early,2.7755575615628914e-17,0.0,A0O0G0D2
+all_locations,late,5.551115123125783e-17,0.0,A0O0G0D2
+international_reporting,early,2.7755575615628914e-17,0.0,A0O0G0D2
+international_reporting,late,5.551115123125783e-17,0.0,A0O0G0D2
+domestic,early,0.0,0.0,A0O0G0D2
+domestic,late,0.0,0.0,A0O0G0D2

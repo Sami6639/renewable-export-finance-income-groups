@@ -1,0 +1,16 @@
+table,metric,rows,max_error
+allocation,amount,8640,0.0
+allocation,classified_denominator,8640,3.814697265625e-06
+allocation,observed_denominator,8640,3.814697265625e-06
+allocation,unknown_amount,8640,0.0
+allocation,share_classified,8640,1.1102230246251565e-16
+allocation,share_observed,8640,1.1102230246251565e-16
+decomposition,delta_pp,5760,0.0
+decomposition,composition_pp,5760,1.0658141036401503e-14
+decomposition,within_pp,5760,1.4210854715202004e-14
+decomposition,entry_pp,5760,8.881784197001252e-16
+decomposition,exit_pp,5760,3.552713678800501e-15
+provider_contributions,composition_pp,80640,7.105427357601002e-15
+provider_contributions,within_pp,80640,7.105427357601002e-15
+provider_contributions,entry_pp,80640,8.881784197001252e-16
+provider_contributions,exit_pp,80640,3.552713678800501e-15

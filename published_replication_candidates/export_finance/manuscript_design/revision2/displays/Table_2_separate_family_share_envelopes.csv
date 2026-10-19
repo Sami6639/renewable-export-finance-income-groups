@@ -1,0 +1,13 @@
+analysis,geography,target,income_class,outcome,universe,minimum,maximum,min_scenario_ids,max_scenario_ids,defined_cases,undefined_cases,stable_sign
+decomposition,international_reporting,early_to_late,H,delta_pp,core24,21.69680808316934,40.34239110904665,A0O1G1D2;A1O1G1D2,A0O0G0D0,24,0,positive
+decomposition,international_reporting,early_to_late,L,delta_pp,core24,-5.887399260517154,6.830757393247747,A0O0G1D0;A1O0G1D0,A0O1G0D2,24,0,not_stable_or_undefined
+decomposition,international_reporting,early_to_late,LM,delta_pp,core24,-12.03864806819144,-0.8866025776745862,A0O1G1D0;A1O1G1D0,A0O0G0D2,24,0,negative
+decomposition,international_reporting,early_to_late,UM,delta_pp,core24,-32.66902506822503,-18.003871495630943,A0O1G0D0,A0O0G1D2;A1O0G1D2,24,0,negative
+decomposition,international_reporting,early_to_late,H,delta_pp,agreement12,21.69691453764284,39.632247895351306,A0O1G1D2_agreement;A1O1G1D2_agreement,A0O1G0D0_agreement,12,0,positive
+decomposition,international_reporting,early_to_late,L,delta_pp,agreement12,-0.09713216704180239,6.830135375546948,A0O1G1D0_agreement;A1O1G1D0_agreement,A0O1G0D2_agreement,12,0,not_stable_or_undefined
+decomposition,international_reporting,early_to_late,LM,delta_pp,agreement12,-12.038403229784004,-2.5198860629096016,A0O1G1D0_agreement;A1O1G1D0_agreement,A0O1G0D2_agreement,12,0,negative
+decomposition,international_reporting,early_to_late,UM,delta_pp,agreement12,-32.66867910489615,-20.835197243909544,A0O1G0D0_agreement,A0O1G1D2_agreement;A1O1G1D2_agreement,12,0,negative
+decomposition,international_reporting,early_to_late,H,delta_pp,quarantine24,22.13178444873747,40.824063693936374,A0O1G1D2_Q1;A1O1G1D2_Q1,A0O0G0D0_Q1,24,0,positive
+decomposition,international_reporting,early_to_late,L,delta_pp,quarantine24,-5.741235744150441,7.093576978351049,A0O0G1D0_Q1;A1O0G1D0_Q1,A0O1G0D2_Q1,24,0,not_stable_or_undefined
+decomposition,international_reporting,early_to_late,LM,delta_pp,quarantine24,-12.04530226576881,-0.8168335425370682,A0O1G1D0_Q1;A1O1G1D0_Q1,A0O0G0D2_Q1,24,0,negative
+decomposition,international_reporting,early_to_late,UM,delta_pp,quarantine24,-33.29064761052465,-18.771002183000775,A0O1G0D0_Q1,A0O0G1D2_Q1;A1O0G1D2_Q1,24,0,negative

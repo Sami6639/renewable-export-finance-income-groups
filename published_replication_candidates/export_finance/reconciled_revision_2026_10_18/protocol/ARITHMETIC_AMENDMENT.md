@@ -1,0 +1,38 @@
+# Prospective arithmetic-gate amendment, 18 October 2026
+
+Finalized prospectively on 18 October 2026 at 14:47 UTC after documentary adjudication and before revised outcome calculations. Applies to the frozen source-reconciliation protocol.
+
+## Trigger before revised outcomes
+
+The prescribed whole-archive arithmetic gate examined all2908 retained rows; the independent replay reports2904 arithmetically eligible rows and34 material discrepancies under the frozen tolerance. Six Renewable rows flagged: Standard Bank1907/1908, already handled by A, and four additional rows1976/8176/9180/9622. The full set was selected by an outcome-independent field-consistency rule, not after seeing revised allocation or component estimates. Earlier general FX diagnostics already contained these discrepancies; this amendment documents their explicit disposition in the new scientific design rather than claiming they were newly discovered globally.
+
+An arithmetic flag establishes inconsistency among fields under the archive's declared conversion identity, not that amountUSD is wrong or that the whole transaction is invalid. Precision, reporting ranges, source scope and date-specific FX can matter. Do not count all flags as independently confirmed financial errors or automatically multiply original amount by XR.
+
+## Documentary disposition
+
+- Excel9180: official UK project disclosure, published1March2022, section6, supports principal GBP189.8m. The separate November2021 announcement of a GBP217m (USD291m) buyer-credit facility is a different amount concept, not a replacement for the disclosed principal. The archive conversion remains inconsistent, but the appropriate actual FX conversion and timing are not independently established by these disclosures. No exact USD correction is imposed.
+- Excel1976: official EDC2014 individual-transactions PDF, page19, lists Comerica Bank (Endurance Wind Power Inc.), UK, Guarantee, in the CAD5–15m range. Archive CAD5m matches the range lower bound, not an exact disclosed commitment; converting it to USD4.701m would produce a lower-bound proxy, not a verified amount. Retain the archived point in Q0 and remove the row only under the prespecified Q1 stress operation. Do not assume an exact CAD5m actual loan or repair the original to CAD0.5m.
+- Excel8176: EFA2020–2021 annual report page46 supports approximately USD32m (AUD41m), and facility tables pp103–104 report AUD41.15m across three facilities. This corroborates magnitude, not exact USD32.15m or the VND original amount. Ordinary rounding is not established; truncation or a different conversion basis remains possible. Do not alter its FY2020: the official reporting period spans2020–2021 and calendar signing/closing dates do not establish a global fiscal coding error.
+- Excel9622: official bank/project-financing material corroborates context but not the EUR1.63m Euler Hermes guarantee or USD1.79m. A disclosed EUR1.6bn BASF total financial engagement is not the guarantee and cannot serve as a proxy. The exact guarantee amount and FX basis remain unresolved after the bounded search; no thousandfold error is inferred.
+
+Primary source locators and limitations are deposited in `manuscript_design/source_reconciliation/additional_fx_flags/primary_source_adjudication_1976_8176_9622.md` and its JSON companion, and `uk_9180_primary_review.json` in that directory. Official URLs: https://www.edc.ca/content/dam/edc/en/corporate/disclosure/reporting/2014-individual-transactions.pdf ; https://www.exportfinance.gov.au/media/ia4hq0br/exportfinanceaustralia_2020-2021_annualreportfinalonline.pdf ; https://www.db.com/news/detail/20220509-lift-off-for-basf-wind-farm-project?language_id=1 ; https://www.gov.uk/government/publications/category-a-project-supported-kaparinar-yeka-kalyon-solar-power-plant-turkey/category-a-project-supported-kaparinar-yeka-kalyon-solar-power-plant-turkey . Source-review PDF extraction/screenshot limitations remain visible in the source memo.
+
+## One bounded block stress test
+
+Keep the frozen 24 primary A×O×G×D scenarios unchanged and fully visible. Add exactly one uniformly defined arithmetic-flag quarantine operation Q1, removing all four additional rows1976/8176/9180/9622 jointly from analytical sums/counts, with raw fields preserved in the lineage ledger. For every one of the24 core cases, produce its matching Q1 companion. Q0 is the original core case. Do not select a convenient subset, convert the four rows to guessed replacement values, or introduce four new binary factors.
+
+This is a coverage-removal stress test of unresolved arithmetic flags, not a corrected principal estimate or assertion that all four records should be discarded. The original24 remain the core finite sensitivity set; the24 Q1 companions form a separately reported extension. Report both core and48-case extended envelopes with exact scenario IDs. No source operation is called a universal worst case. For each stated claim, report its most adverse enumerated case and which assumptions produce it; a different claim or component may have a different extremum.
+
+Use family label `arithmetic_flag_quarantine`, preserve the A/O/G/D keys, and set Q1. Run the same primary fixed-FY2013 four-class annual/window accounting and exact provider-country components (all nine adjacent annual pairs and the pooled-window comparison) for these24 companion cases. Publish every paired Q1−Q0 difference at every A/O/G/D background. No new factorial interaction decomposition including Q, no new influence diagnostics, no Q×Karuma agreement-year overlays and no new regional-completion vertex grids and no FY2023 reclassification extension are authorized by this amendment. The earlier12 Karuma overlays and conditional regional-income envelopes remain conditional on Q0 and must be labelled accordingly. Thus the outcome release contains24 core cases,12 agreement-year overlays and24 arithmetic-flag companion cases, with these populations separately identified; it is not a complete cross of every auxiliary diagnostic.
+
+Do not claim regional-completion bounds are robust to Q1 unless separately established. A table may show (a) core source-case envelope, (b)48-case expanded archive-sensitivity envelope, and (c)Q0-only regional-income completion envelope in distinct columns. They answer different questions and must not be merged into an unidentified universal bound.
+
+## Validation and stop
+
+Verify the four-ID membership against both independent gate files. Confirm Q1 changes no other rows, missingness or financial bases; verify arithmetic closure and full scenario matching. All nonrenewable outcomes must remain unchanged. Independently reproduce Q contrasts and extended extrema. No additional searches, corrected amount substitutions, scenarios or model expansion follow merely because a result is inconvenient. A newly evidenced material issue must be documented as a limitation or receive another explicit prospective amendment; no silent changes.
+
+Required source/gate files: reconciled_revision_2026_10_18/audit/arithmetic_gate.json; independent_audit/independent_gate_audit.json; complete arithmetic ledgers; source adjudication memo for the four flagged rows. 
+
+## Chronology
+
+Finalized 18October2026 at14:47UTC, after primary-source adjudication and methodological review, before any revised outcome calculation. The independent reviewer endorsed the fixed-block design and requested the range/magnitude/unresolved distinctions now incorporated. This amendment adds no new source release, discrepancy threshold, financial point estimate, claim of confirmed ordinary rounding or outcome-selected case.

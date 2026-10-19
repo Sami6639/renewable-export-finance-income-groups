@@ -1,0 +1,13 @@
+{
+  "audit_completion.py": "db3dc9ab7d55e6524aaa08b7b940e0baa509172eefe865a5f78a33a85c515ebc",
+  "audit_outcomes.py": "307353b0ea99df5f084b62ef46c0240a375930b022ac59b2cc90c803dd1de2ac",
+  "audit_influence.py": "2be7c8585255751ccb6e93a1756857faae85cbb42152401afb8ae3ea1af811cc",
+  "audit_metadata.py": "8eba1be6b48de3a5b55e56eda96494666ada0d453d05a22031f2482ba605ce90",
+  "verify_raw_screen.py": "961efbbd60cfa71191bc8d2282f28680cf1ea5efcc424464427101771af88e93",
+  "audit_reporting_summaries.py": "4cef9c0bd6fccb710818fedf98d8df4b86c818072695da15cdefdccfd7246eda",
+  "audit_identities_bounds.py": "494b470f4a514be9f0bdb1e4b0b1569bc3334c96b8f8c6a2858ac6da1bfee142",
+  "compare_core.py": "ea12e4368f85b17059f849ff8ca16ee12622597d778ab88b603d88dcbe4a0dc2",
+  "audit_envelopes.py": "73b25bc1d11a18889af8db607bb9fed7c985b4af35a5776acdb576a593a26e2f",
+  "audit_quarantine_attainers.py": "a30cd72eecec06f89f1655962d16281053a11ea7eea7ed26867b938da48689f7",
+  "audit_completion_attainers.py": "5eddde366aa78fca56c24c25fed692270a77b4b99f65006a80d9800f9dfa6231"
+}

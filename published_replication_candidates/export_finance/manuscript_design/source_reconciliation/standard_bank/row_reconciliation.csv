@@ -1,0 +1,3 @@
+source_excel_row,instrument,original_amountUSD,original_amountOriginal_USD,assessment,candidate_agency_amount_USD,candidate_status,geography
+1907,Loan,1250000000,125000000,directly verified JBIC loan ceiling,125000000,direct disclosure,regional Sub-Saharan on-lending; physical host unallocated
+1908,Guarantee,1250000000,125000000,private principal inferred; original guarantee basis unverified,112500000,derived: combined237.5m minus loan125m; not explicit guarantee disclosure,regional Sub-Saharan on-lending; physical host unallocated

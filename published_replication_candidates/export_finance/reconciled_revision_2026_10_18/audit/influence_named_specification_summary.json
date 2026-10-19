@@ -1,0 +1,1298 @@
+[
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "record",
+    "metric": "delta_pp",
+    "top5": [
+      {
+        "unit_id": "1586",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 17.39436462850238,
+        "summed_absolute_influence_pp": 34.78872925700476
+      },
+      {
+        "unit_id": "8129",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 11.149376596042757,
+        "summed_absolute_influence_pp": 22.298753192085517
+      },
+      {
+        "unit_id": "9810",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 8.150308785655454,
+        "summed_absolute_influence_pp": 16.300617571310905
+      },
+      {
+        "unit_id": "2253",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 6.709951534981281,
+        "summed_absolute_influence_pp": 13.419903069962563
+      },
+      {
+        "unit_id": "9841",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 3.776901926997685,
+        "summed_absolute_influence_pp": 7.55380385399537
+      }
+    ],
+    "top1_l1_share": 0.1151656627037832,
+    "top5_l1_share": 0.3123781828991479,
+    "top1_score_share": 0.1151656627037835,
+    "top5_score_share": 0.3123781828991488
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "record",
+    "metric": "composition_pp",
+    "top5": [
+      {
+        "unit_id": "8129",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 8.42004919168556,
+        "summed_absolute_influence_pp": 17.42598579344508
+      },
+      {
+        "unit_id": "9810",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 5.002564807492044,
+        "summed_absolute_influence_pp": 10.236401943466715
+      },
+      {
+        "unit_id": "1586",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 4.834046040109032,
+        "summed_absolute_influence_pp": 13.627256638176984
+      },
+      {
+        "unit_id": "2253",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 3.2228370386455296,
+        "summed_absolute_influence_pp": 6.139171375181213
+      },
+      {
+        "unit_id": "8603",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 2.32909631507426,
+        "summed_absolute_influence_pp": 4.74290656539989
+      }
+    ],
+    "top1_l1_share": 0.0943164559615139,
+    "top5_l1_share": 0.2823743809129669,
+    "top1_score_share": 0.0995807601566484,
+    "top5_score_share": 0.2815752942010456
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "record",
+    "metric": "within_pp",
+    "top5": [
+      {
+        "unit_id": "8129",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 19.555286852232957,
+        "summed_absolute_influence_pp": 39.11057370446592
+      },
+      {
+        "unit_id": "1586",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 13.25436195603303,
+        "summed_absolute_influence_pp": 26.508723912066056
+      },
+      {
+        "unit_id": "2253",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 3.6079311899956927,
+        "summed_absolute_influence_pp": 7.215862379991384
+      },
+      {
+        "unit_id": "7455",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 3.490628663695391,
+        "summed_absolute_influence_pp": 6.981257327390793
+      },
+      {
+        "unit_id": "8603",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 3.4348254012717363,
+        "summed_absolute_influence_pp": 6.869650802543472
+      }
+    ],
+    "top1_l1_share": 0.1506676825612503,
+    "top5_l1_share": 0.3339452162899025,
+    "top1_score_share": 0.155630802427081,
+    "top5_score_share": 0.3449456518769684
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "record",
+    "metric": "entry_pp",
+    "top5": [
+      {
+        "unit_id": "2242",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 0.7801663201441293,
+        "summed_absolute_influence_pp": 0.7801663201441293
+      },
+      {
+        "unit_id": "105",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 0.3572736200994579,
+        "summed_absolute_influence_pp": 0.5302914666312972
+      },
+      {
+        "unit_id": "8326",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 0.1950415800360323,
+        "summed_absolute_influence_pp": 0.1950415800360323
+      },
+      {
+        "unit_id": "8129",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 0.0270988291670594,
+        "summed_absolute_influence_pp": 0.0270988291670594
+      },
+      {
+        "unit_id": "9810",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 0.0198095950789577,
+        "summed_absolute_influence_pp": 0.0198095950789577
+      }
+    ],
+    "top1_l1_share": 0.4568631606827274,
+    "top5_l1_share": 0.9090855523729654,
+    "top1_score_share": 0.5083706410985677,
+    "top5_score_share": 0.8988357127411846
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "record",
+    "metric": "exit_pp",
+    "top5": [
+      {
+        "unit_id": "500",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 2.0003454821435884,
+        "summed_absolute_influence_pp": 2.031533084888941
+      },
+      {
+        "unit_id": "2518",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 1.5226251538195417,
+        "summed_absolute_influence_pp": 1.558807920481184
+      },
+      {
+        "unit_id": "1586",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 0.6940433676396784,
+        "summed_absolute_influence_pp": 1.1456230296445256
+      },
+      {
+        "unit_id": "539",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 0.3262861628199505,
+        "summed_absolute_influence_pp": 0.3313733256716542
+      },
+      {
+        "unit_id": "8614",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 0.2330945399426817,
+        "summed_absolute_influence_pp": 0.2330945399426817
+      }
+    ],
+    "top1_l1_share": 0.2477129424542516,
+    "top5_l1_share": 0.646302830187462,
+    "top1_score_share": 0.3061573043517777,
+    "top5_score_share": 0.7310377836602006
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "record",
+    "metric": "annual_share_classified_pp",
+    "top5": [
+      {
+        "unit_id": "1586",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 42.61931114266061,
+        "summed_absolute_influence_pp": 85.23862228532121
+      },
+      {
+        "unit_id": "4635",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 29.76092685967488,
+        "summed_absolute_influence_pp": 59.52185371934978
+      },
+      {
+        "unit_id": "8129",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 28.85260115308664,
+        "summed_absolute_influence_pp": 57.70520230617328
+      },
+      {
+        "unit_id": "4778",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 28.571515208580987,
+        "summed_absolute_influence_pp": 57.14303041716198
+      },
+      {
+        "unit_id": "5910",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 25.807795791645383,
+        "summed_absolute_influence_pp": 51.615591583290765
+      }
+    ],
+    "top1_l1_share": 0.0583881226071016,
+    "top5_l1_share": 0.2131874274558138,
+    "top1_score_share": 0.0583881226071015,
+    "top5_score_share": 0.2131874274558136
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "provider",
+    "metric": "delta_pp",
+    "top5": [
+      {
+        "unit_id": "China",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 11.08180281421263,
+        "summed_absolute_influence_pp": 26.183664484241696
+      },
+      {
+        "unit_id": "Canada",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 10.675565639624413,
+        "summed_absolute_influence_pp": 21.351131279248825
+      },
+      {
+        "unit_id": "Japan",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 9.355012521873936,
+        "summed_absolute_influence_pp": 18.710025043747866
+      },
+      {
+        "unit_id": "United States",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 7.359968195003521,
+        "summed_absolute_influence_pp": 14.71993639000704
+      },
+      {
+        "unit_id": "Korea",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 4.219467784426145,
+        "summed_absolute_influence_pp": 9.032064417455905
+      }
+    ],
+    "top1_l1_share": 0.2418959959650801,
+    "top5_l1_share": 0.8314294896072224,
+    "top1_score_share": 0.2265103043314298,
+    "top5_score_share": 0.8726140153449098
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "provider",
+    "metric": "composition_pp",
+    "top5": [
+      {
+        "unit_id": "China",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 15.473815226214509,
+        "summed_absolute_influence_pp": 26.437162822473567
+      },
+      {
+        "unit_id": "Canada",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 12.769490429617395,
+        "summed_absolute_influence_pp": 25.5827687484823
+      },
+      {
+        "unit_id": "United States",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 4.883883083214872,
+        "summed_absolute_influence_pp": 9.836915923864042
+      },
+      {
+        "unit_id": "Japan",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 4.343825940630417,
+        "summed_absolute_influence_pp": 8.815928442369628
+      },
+      {
+        "unit_id": "France",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 1.8995364416742349,
+        "summed_absolute_influence_pp": 6.4250338727163285
+      }
+    ],
+    "top1_l1_share": 0.2971766384015077,
+    "top5_l1_share": 0.8666462472270277,
+    "top1_score_share": 0.3477226014941065,
+    "top5_score_share": 0.8847223685972722
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "provider",
+    "metric": "within_pp",
+    "top5": [
+      {
+        "unit_id": "China",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 15.191522307935386,
+        "summed_absolute_influence_pp": 42.36142287213775
+      },
+      {
+        "unit_id": "Japan",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 9.01050984420361,
+        "summed_absolute_influence_pp": 18.021019688407225
+      },
+      {
+        "unit_id": "Korea",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 4.357527940920725,
+        "summed_absolute_influence_pp": 8.71505588184145
+      },
+      {
+        "unit_id": "Canada",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 3.5777697270324325,
+        "summed_absolute_influence_pp": 8.278761316844339
+      },
+      {
+        "unit_id": "France",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 2.720275173527156,
+        "summed_absolute_influence_pp": 5.839696142593407
+      }
+    ],
+    "top1_l1_share": 0.4445415993611623,
+    "top5_l1_share": 0.8732698672710574,
+    "top1_score_share": 0.3724785022781715,
+    "top5_score_share": 0.8546680337786368
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "provider",
+    "metric": "entry_pp",
+    "top5": [
+      {
+        "unit_id": "South Africa",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 0.1950415800360323,
+        "summed_absolute_influence_pp": 0.1950415800360323
+      },
+      {
+        "unit_id": "Canada",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 0.0570694235413096,
+        "summed_absolute_influence_pp": 0.0570694235413096
+      },
+      {
+        "unit_id": "China",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 0.0484702112081128,
+        "summed_absolute_influence_pp": 0.0484702112081128
+      },
+      {
+        "unit_id": "Germany",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 0.0380096517499897,
+        "summed_absolute_influence_pp": 0.0380096517499897
+      },
+      {
+        "unit_id": "Japan",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 0.035155783038218,
+        "summed_absolute_influence_pp": 0.035155783038218
+      }
+    ],
+    "top1_l1_share": 0.4557420178839783,
+    "top5_l1_share": 0.873311486825577,
+    "top1_score_share": 0.4557420178839783,
+    "top5_score_share": 0.873311486825577
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "provider",
+    "metric": "exit_pp",
+    "top5": [
+      {
+        "unit_id": "China",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 3.597618950038538,
+        "summed_absolute_influence_pp": 5.938411507433993
+      },
+      {
+        "unit_id": "Italy",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 2.340158289498996,
+        "summed_absolute_influence_pp": 3.862783443318537
+      },
+      {
+        "unit_id": "Japan",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 0.4793243341332629,
+        "summed_absolute_influence_pp": 0.7911969502994789
+      },
+      {
+        "unit_id": "Germany",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 0.1739194253870124,
+        "summed_absolute_influence_pp": 0.287080185930608
+      },
+      {
+        "unit_id": "Korea",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 0.1360387753797938,
+        "summed_absolute_influence_pp": 0.2245524721743925
+      }
+    ],
+    "top1_l1_share": 0.5233840207096404,
+    "top5_l1_share": 0.9786571733122328,
+    "top1_score_share": 0.5233840207096403,
+    "top5_score_share": 0.9786571733122328
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "provider",
+    "metric": "annual_share_classified_pp",
+    "top5": [
+      {
+        "unit_id": "China",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 40.40300301650862,
+        "summed_absolute_influence_pp": 496.0296141357006
+      },
+      {
+        "unit_id": "Japan",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 20.24096115961749,
+        "summed_absolute_influence_pp": 138.43769283278175
+      },
+      {
+        "unit_id": "United States",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 20.130737363026128,
+        "summed_absolute_influence_pp": 52.77056566766579
+      },
+      {
+        "unit_id": "Canada",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 17.423262433126105,
+        "summed_absolute_influence_pp": 108.596458723962
+      },
+      {
+        "unit_id": "Germany",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 12.976860606946325,
+        "summed_absolute_influence_pp": 140.01812768461176
+      }
+    ],
+    "top1_l1_share": 0.4354615588428563,
+    "top5_l1_share": 0.8215795167242699,
+    "top1_score_share": 0.2590903250764256,
+    "top5_score_share": 0.7129252602529694
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "package",
+    "metric": "delta_pp",
+    "top5": [
+      {
+        "unit_id": "Karuma 109/2253",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 6.709951534981281,
+        "summed_absolute_influence_pp": 13.419903069962563
+      },
+      {
+        "unit_id": "Dogger 7410/8034/8413",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 2.4189161196063083,
+        "summed_absolute_influence_pp": 4.837832239212614
+      },
+      {
+        "unit_id": "Standard Bank 1907/1908",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      }
+    ],
+    "top1_l1_share": 0.7350256120329761,
+    "top5_l1_share": 1.0,
+    "top1_score_share": 0.735025612032976,
+    "top5_score_share": 1.0
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "package",
+    "metric": "composition_pp",
+    "top5": [
+      {
+        "unit_id": "Karuma 109/2253",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 3.2228370386455296,
+        "summed_absolute_influence_pp": 6.139171375181213
+      },
+      {
+        "unit_id": "Dogger 7410/8034/8413",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 0.9610653461034652,
+        "summed_absolute_influence_pp": 1.929644586798234
+      },
+      {
+        "unit_id": "Standard Bank 1907/1908",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      }
+    ],
+    "top1_l1_share": 0.7608515802205937,
+    "top5_l1_share": 1.0,
+    "top1_score_share": 0.7702945103101102,
+    "top5_score_share": 1.0
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "package",
+    "metric": "within_pp",
+    "top5": [
+      {
+        "unit_id": "Karuma 109/2253",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 3.6079311899956927,
+        "summed_absolute_influence_pp": 7.215862379991384
+      },
+      {
+        "unit_id": "Dogger 7410/8034/8413",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 2.1980083036485456,
+        "summed_absolute_influence_pp": 4.796150691425165
+      },
+      {
+        "unit_id": "Standard Bank 1907/1908",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      }
+    ],
+    "top1_l1_share": 0.6007204901534822,
+    "top5_l1_share": 1.0,
+    "top1_score_share": 0.6214207354288301,
+    "top5_score_share": 1.0
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "package",
+    "metric": "entry_pp",
+    "top5": [
+      {
+        "unit_id": "Dogger 7410/8034/8413",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 0.0075138945913095,
+        "summed_absolute_influence_pp": 0.0075138945913095
+      },
+      {
+        "unit_id": "Karuma 109/2253",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      },
+      {
+        "unit_id": "Standard Bank 1907/1908",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      }
+    ],
+    "top1_l1_share": 1.0,
+    "top5_l1_share": 1.0,
+    "top1_score_share": 1.0,
+    "top5_score_share": 1.0
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "package",
+    "metric": "exit_pp",
+    "top5": [
+      {
+        "unit_id": "Karuma 109/2253",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 0.1856860084498999,
+        "summed_absolute_influence_pp": 0.3065027021098383
+      },
+      {
+        "unit_id": "Dogger 7410/8034/8413",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      },
+      {
+        "unit_id": "Standard Bank 1907/1908",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      }
+    ],
+    "top1_l1_share": 1.0,
+    "top5_l1_share": 1.0,
+    "top1_score_share": 1.0,
+    "top5_score_share": 1.0
+  },
+  {
+    "scenario": "A1O1G1D1",
+    "unit_type": "package",
+    "metric": "annual_share_classified_pp",
+    "top5": [
+      {
+        "unit_id": "Karuma 109/2253",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 14.034735548647475,
+        "summed_absolute_influence_pp": 28.069471097294944
+      },
+      {
+        "unit_id": "Dogger 7410/8034/8413",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 7.265623724817601,
+        "summed_absolute_influence_pp": 14.531247449635206
+      },
+      {
+        "unit_id": "Standard Bank 1907/1908",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      }
+    ],
+    "top1_l1_share": 0.6588966584301348,
+    "top5_l1_share": 1.0,
+    "top1_score_share": 0.6588966584301349,
+    "top5_score_share": 1.0
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "record",
+    "metric": "delta_pp",
+    "top5": [
+      {
+        "unit_id": "1586",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 17.39436462850238,
+        "summed_absolute_influence_pp": 34.78872925700477
+      },
+      {
+        "unit_id": "8129",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 11.530817183327295,
+        "summed_absolute_influence_pp": 23.061634366654605
+      },
+      {
+        "unit_id": "9810",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 8.416960586945542,
+        "summed_absolute_influence_pp": 16.83392117389109
+      },
+      {
+        "unit_id": "2253",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 6.70995153498128,
+        "summed_absolute_influence_pp": 13.419903069962562
+      },
+      {
+        "unit_id": "9841",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 4.082976160984845,
+        "summed_absolute_influence_pp": 8.165952321969693
+      }
+    ],
+    "top1_l1_share": 0.1145301559882859,
+    "top5_l1_share": 0.3169369622977975,
+    "top1_score_share": 0.1145301559882863,
+    "top5_score_share": 0.3169369622977988
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "record",
+    "metric": "composition_pp",
+    "top5": [
+      {
+        "unit_id": "8129",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 8.380557338248714,
+        "summed_absolute_influence_pp": 17.024305924148315
+      },
+      {
+        "unit_id": "9810",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 5.158071006779711,
+        "summed_absolute_influence_pp": 10.47665164643016
+      },
+      {
+        "unit_id": "1586",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 4.706796705006274,
+        "summed_absolute_influence_pp": 13.451104588240469
+      },
+      {
+        "unit_id": "2253",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 3.178326889234638,
+        "summed_absolute_influence_pp": 6.050151076359436
+      },
+      {
+        "unit_id": "7455",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 2.3307580773966805,
+        "summed_absolute_influence_pp": 4.657129163307056
+      }
+    ],
+    "top1_l1_share": 0.09357421595469,
+    "top5_l1_share": 0.2839459349010132,
+    "top1_score_share": 0.1006897978002067,
+    "top5_score_share": 0.2854030721208465
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "record",
+    "metric": "within_pp",
+    "top5": [
+      {
+        "unit_id": "8129",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 19.58346649812651,
+        "summed_absolute_influence_pp": 39.166932996253024
+      },
+      {
+        "unit_id": "1586",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 13.381611291135789,
+        "summed_absolute_influence_pp": 26.76322258227157
+      },
+      {
+        "unit_id": "2253",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 3.6524413394065824,
+        "summed_absolute_influence_pp": 7.304882678813161
+      },
+      {
+        "unit_id": "8603",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 3.505083424155208,
+        "summed_absolute_influence_pp": 7.010166848310428
+      },
+      {
+        "unit_id": "7455",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 3.4983106381866795,
+        "summed_absolute_influence_pp": 6.996621276373371
+      }
+    ],
+    "top1_l1_share": 0.152836951966105,
+    "top5_l1_share": 0.3404344892018965,
+    "top1_score_share": 0.1579502699107788,
+    "top5_score_share": 0.3518240763418437
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "record",
+    "metric": "entry_pp",
+    "top5": [
+      {
+        "unit_id": "2242",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 0.8102218985093674,
+        "summed_absolute_influence_pp": 0.8102218985093674
+      },
+      {
+        "unit_id": "105",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 0.3710374355955534,
+        "summed_absolute_influence_pp": 0.5507207216763106
+      },
+      {
+        "unit_id": "8326",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 0.2025554746273418,
+        "summed_absolute_influence_pp": 0.2025554746273418
+      },
+      {
+        "unit_id": "8129",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 0.0293842705827976,
+        "summed_absolute_influence_pp": 0.0293842705827976
+      },
+      {
+        "unit_id": "9810",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 0.0214492342401605,
+        "summed_absolute_influence_pp": 0.0214492342401605
+      }
+    ],
+    "top1_l1_share": 0.4567820734963931,
+    "top5_l1_share": 0.9101182487774314,
+    "top1_score_share": 0.5082702414519605,
+    "top5_score_share": 0.8999868382611106
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "record",
+    "metric": "exit_pp",
+    "top5": [
+      {
+        "unit_id": "500",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 2.0003454821435884,
+        "summed_absolute_influence_pp": 2.031533084888941
+      },
+      {
+        "unit_id": "2518",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 1.5226251538195417,
+        "summed_absolute_influence_pp": 1.558807920481184
+      },
+      {
+        "unit_id": "1586",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 0.6940433676396784,
+        "summed_absolute_influence_pp": 1.1456230296445256
+      },
+      {
+        "unit_id": "539",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 0.3262861628199505,
+        "summed_absolute_influence_pp": 0.3313733256716542
+      },
+      {
+        "unit_id": "8614",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 0.2330945399426817,
+        "summed_absolute_influence_pp": 0.2330945399426817
+      }
+    ],
+    "top1_l1_share": 0.2477129424542516,
+    "top5_l1_share": 0.646302830187462,
+    "top1_score_share": 0.3061573043517777,
+    "top5_score_share": 0.7310377836602006
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "record",
+    "metric": "annual_share_classified_pp",
+    "top5": [
+      {
+        "unit_id": "1586",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 42.61931114266061,
+        "summed_absolute_influence_pp": 85.23862228532121
+      },
+      {
+        "unit_id": "8129",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 31.341222950771662,
+        "summed_absolute_influence_pp": 62.68244590154332
+      },
+      {
+        "unit_id": "4635",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 29.76092685967488,
+        "summed_absolute_influence_pp": 59.52185371934978
+      },
+      {
+        "unit_id": "4778",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 28.571515208580987,
+        "summed_absolute_influence_pp": 57.14303041716198
+      },
+      {
+        "unit_id": "5910",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 25.807795791645383,
+        "summed_absolute_influence_pp": 51.615591583290765
+      }
+    ],
+    "top1_l1_share": 0.0582825742824236,
+    "top5_l1_share": 0.2162052773362457,
+    "top1_score_share": 0.0582825742824236,
+    "top5_score_share": 0.2162052773362455
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "provider",
+    "metric": "delta_pp",
+    "top5": [
+      {
+        "unit_id": "Canada",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 12.06470076355763,
+        "summed_absolute_influence_pp": 24.129401527115256
+      },
+      {
+        "unit_id": "China",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 11.40050316543852,
+        "summed_absolute_influence_pp": 27.611024736367696
+      },
+      {
+        "unit_id": "Japan",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 9.627017299391284,
+        "summed_absolute_influence_pp": 19.254034598782567
+      },
+      {
+        "unit_id": "United States",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 7.614390617458991,
+        "summed_absolute_influence_pp": 15.228781234917973
+      },
+      {
+        "unit_id": "Korea",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 4.310727514348086,
+        "summed_absolute_influence_pp": 9.055293077004617
+      }
+    ],
+    "top1_l1_share": 0.2103739056946097,
+    "top5_l1_share": 0.8306926945921456,
+    "top1_score_share": 0.2297818269775153,
+    "top5_score_share": 0.8573910523415273
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "provider",
+    "metric": "composition_pp",
+    "top5": [
+      {
+        "unit_id": "China",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 14.909934266266433,
+        "summed_absolute_influence_pp": 25.870284950827816
+      },
+      {
+        "unit_id": "Canada",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 13.645011651174077,
+        "summed_absolute_influence_pp": 27.328627604216912
+      },
+      {
+        "unit_id": "United States",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 5.03732116826275,
+        "summed_absolute_influence_pp": 10.14192601032834
+      },
+      {
+        "unit_id": "Japan",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 4.431129981934959,
+        "summed_absolute_influence_pp": 9.386783367161584
+      },
+      {
+        "unit_id": "Germany",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 2.038590286535076,
+        "summed_absolute_influence_pp": 4.324921577476181
+      }
+    ],
+    "top1_l1_share": 0.2868792549817754,
+    "top5_l1_share": 0.8544465713701163,
+    "top1_score_share": 0.331729753821948,
+    "top5_score_share": 0.8913354656891967
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "provider",
+    "metric": "within_pp",
+    "top5": [
+      {
+        "unit_id": "China",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 15.026932974800726,
+        "summed_absolute_influence_pp": 43.93241632582178
+      },
+      {
+        "unit_id": "Japan",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 8.975807785791988,
+        "summed_absolute_influence_pp": 17.951615571583975
+      },
+      {
+        "unit_id": "Korea",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 4.499462392777696,
+        "summed_absolute_influence_pp": 8.998924785555387
+      },
+      {
+        "unit_id": "Canada",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 3.7911030455579713,
+        "summed_absolute_influence_pp": 8.165474409436804
+      },
+      {
+        "unit_id": "United States",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 2.5216095559141145,
+        "summed_absolute_influence_pp": 5.127287190751076
+      }
+    ],
+    "top1_l1_share": 0.4625959600789849,
+    "top5_l1_share": 0.886346585758918,
+    "top1_score_share": 0.3749499023282077,
+    "top5_score_share": 0.8686968447742133
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "provider",
+    "metric": "entry_pp",
+    "top5": [
+      {
+        "unit_id": "South Africa",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 0.2025554746273418,
+        "summed_absolute_influence_pp": 0.2025554746273418
+      },
+      {
+        "unit_id": "Canada",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 0.062253010920055,
+        "summed_absolute_influence_pp": 0.062253010920055
+      },
+      {
+        "unit_id": "China",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 0.052782063184419,
+        "summed_absolute_influence_pp": 0.052782063184419
+      },
+      {
+        "unit_id": "Germany",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 0.0413047773209976,
+        "summed_absolute_influence_pp": 0.0413047773209976
+      },
+      {
+        "unit_id": "Japan",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 0.0381818158281561,
+        "summed_absolute_influence_pp": 0.0381818158281561
+      }
+    ],
+    "top1_l1_share": 0.453288193518892,
+    "top5_l1_share": 0.8885979540272257,
+    "top1_score_share": 0.453288193518892,
+    "top5_score_share": 0.8885979540272257
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "provider",
+    "metric": "exit_pp",
+    "top5": [
+      {
+        "unit_id": "China",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 3.597618950038538,
+        "summed_absolute_influence_pp": 5.938411507433993
+      },
+      {
+        "unit_id": "Italy",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 2.340158289498996,
+        "summed_absolute_influence_pp": 3.862783443318537
+      },
+      {
+        "unit_id": "Japan",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 0.4793243341332629,
+        "summed_absolute_influence_pp": 0.7911969502994789
+      },
+      {
+        "unit_id": "Germany",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 0.1739194253870124,
+        "summed_absolute_influence_pp": 0.287080185930608
+      },
+      {
+        "unit_id": "Korea",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 0.1360387753797938,
+        "summed_absolute_influence_pp": 0.2245524721743925
+      }
+    ],
+    "top1_l1_share": 0.5233840207096404,
+    "top5_l1_share": 0.9786571733122328,
+    "top1_score_share": 0.5233840207096403,
+    "top5_score_share": 0.9786571733122328
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "provider",
+    "metric": "annual_share_classified_pp",
+    "top5": [
+      {
+        "unit_id": "China",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 40.40300301650862,
+        "summed_absolute_influence_pp": 502.2709331258239
+      },
+      {
+        "unit_id": "Japan",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 20.24096115961749,
+        "summed_absolute_influence_pp": 141.00799353664988
+      },
+      {
+        "unit_id": "United States",
+        "rank": 3.0,
+        "max_absolute_influence_pp": 20.130737363026128,
+        "summed_absolute_influence_pp": 53.025289862713336
+      },
+      {
+        "unit_id": "Canada",
+        "rank": 4.0,
+        "max_absolute_influence_pp": 17.423262433126105,
+        "summed_absolute_influence_pp": 114.69863364996726
+      },
+      {
+        "unit_id": "Germany",
+        "rank": 5.0,
+        "max_absolute_influence_pp": 12.976860606946325,
+        "summed_absolute_influence_pp": 142.27986628425452
+      }
+    ],
+    "top1_l1_share": 0.4394699487458259,
+    "top5_l1_share": 0.8340898883705654,
+    "top1_score_share": 0.2613319260293694,
+    "top5_score_share": 0.7190933560407581
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "package",
+    "metric": "delta_pp",
+    "top5": [
+      {
+        "unit_id": "Karuma 109/2253",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 6.70995153498128,
+        "summed_absolute_influence_pp": 13.419903069962562
+      },
+      {
+        "unit_id": "Standard Bank 1907/1908",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      }
+    ],
+    "top1_l1_share": 1.0,
+    "top5_l1_share": 1.0,
+    "top1_score_share": 1.0,
+    "top5_score_share": 1.0
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "package",
+    "metric": "composition_pp",
+    "top5": [
+      {
+        "unit_id": "Karuma 109/2253",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 3.178326889234638,
+        "summed_absolute_influence_pp": 6.050151076359436
+      },
+      {
+        "unit_id": "Standard Bank 1907/1908",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      }
+    ],
+    "top1_l1_share": 1.0,
+    "top5_l1_share": 1.0,
+    "top1_score_share": 1.0,
+    "top5_score_share": 1.0
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "package",
+    "metric": "within_pp",
+    "top5": [
+      {
+        "unit_id": "Karuma 109/2253",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 3.6524413394065824,
+        "summed_absolute_influence_pp": 7.304882678813161
+      },
+      {
+        "unit_id": "Standard Bank 1907/1908",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      }
+    ],
+    "top1_l1_share": 1.0,
+    "top5_l1_share": 1.0,
+    "top1_score_share": 1.0,
+    "top5_score_share": 1.0
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "package",
+    "metric": "entry_pp",
+    "top5": [
+      {
+        "unit_id": "Karuma 109/2253",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      },
+      {
+        "unit_id": "Standard Bank 1907/1908",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      }
+    ],
+    "top1_l1_share": NaN,
+    "top5_l1_share": NaN,
+    "top1_score_share": NaN,
+    "top5_score_share": NaN
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "package",
+    "metric": "exit_pp",
+    "top5": [
+      {
+        "unit_id": "Karuma 109/2253",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 0.1856860084498999,
+        "summed_absolute_influence_pp": 0.3065027021098383
+      },
+      {
+        "unit_id": "Standard Bank 1907/1908",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      }
+    ],
+    "top1_l1_share": 1.0,
+    "top5_l1_share": 1.0,
+    "top1_score_share": 1.0,
+    "top5_score_share": 1.0
+  },
+  {
+    "scenario": "A1O1G1D2",
+    "unit_type": "package",
+    "metric": "annual_share_classified_pp",
+    "top5": [
+      {
+        "unit_id": "Karuma 109/2253",
+        "rank": 1.0,
+        "max_absolute_influence_pp": 14.034735548647475,
+        "summed_absolute_influence_pp": 28.069471097294944
+      },
+      {
+        "unit_id": "Standard Bank 1907/1908",
+        "rank": 2.0,
+        "max_absolute_influence_pp": 0.0,
+        "summed_absolute_influence_pp": 0.0
+      }
+    ],
+    "top1_l1_share": 1.0,
+    "top5_l1_share": 1.0,
+    "top1_score_share": 1.0,
+    "top5_score_share": 1.0
+  }
+]

@@ -1,0 +1,917 @@
+alias,iso3,type
+ABW,ABW,ISO3_uppercase
+AD,AND,ISO2_uppercase
+AE,ARE,ISO2_uppercase
+AF,AFG,ISO2_uppercase
+AFG,AFG,ISO3_uppercase
+AG,ATG,ISO2_uppercase
+AGO,AGO,ISO3_uppercase
+AI,AIA,ISO2_uppercase
+AIA,AIA,ISO3_uppercase
+AL,ALB,ISO2_uppercase
+ALA,ALA,ISO3_uppercase
+ALB,ALB,ISO3_uppercase
+AM,ARM,ISO2_uppercase
+AND,AND,ISO3_uppercase
+AO,AGO,ISO2_uppercase
+AQ,ATA,ISO2_uppercase
+AR,ARG,ISO2_uppercase
+ARE,ARE,ISO3_uppercase
+ARG,ARG,ISO3_uppercase
+ARM,ARM,ISO3_uppercase
+AS,ASM,ISO2_uppercase
+ASM,ASM,ISO3_uppercase
+AT,AUT,ISO2_uppercase
+ATA,ATA,ISO3_uppercase
+ATF,ATF,ISO3_uppercase
+ATG,ATG,ISO3_uppercase
+AU,AUS,ISO2_uppercase
+AUS,AUS,ISO3_uppercase
+AUT,AUT,ISO3_uppercase
+AW,ABW,ISO2_uppercase
+AX,ALA,ISO2_uppercase
+AZ,AZE,ISO2_uppercase
+AZE,AZE,ISO3_uppercase
+Afghanistan,AFG,country_name
+Albania,ALB,country_name
+Albania,ALB,dataset_country_name
+Algeria,DZA,country_name
+Algeria,DZA,dataset_country_name
+American Samoa,ASM,country_name
+American Samoa,ASM,dataset_country_name
+Andorra,AND,country_name
+Angola,AGO,country_name
+Angola,AGO,dataset_country_name
+Anguilla,AIA,country_name
+Antarctica,ATA,country_name
+Antigua and Barbuda,ATG,country_name
+Argentina,ARG,country_name
+Argentina,ARG,dataset_country_name
+Armenia,ARM,country_name
+Armenia,ARM,dataset_country_name
+Aruba,ABW,country_name
+Australia,AUS,country_name
+Australia,AUS,dataset_country_name
+Austria,AUT,country_name
+Azerbaijan,AZE,country_name
+Azerbaijan,AZE,dataset_country_name
+BA,BIH,ISO2_uppercase
+BB,BRB,ISO2_uppercase
+BD,BGD,ISO2_uppercase
+BDI,BDI,ISO3_uppercase
+BE,BEL,ISO2_uppercase
+BEL,BEL,ISO3_uppercase
+BEN,BEN,ISO3_uppercase
+BES,BES,ISO3_uppercase
+BF,BFA,ISO2_uppercase
+BFA,BFA,ISO3_uppercase
+BG,BGR,ISO2_uppercase
+BGD,BGD,ISO3_uppercase
+BGR,BGR,ISO3_uppercase
+BH,BHR,ISO2_uppercase
+BHR,BHR,ISO3_uppercase
+BHS,BHS,ISO3_uppercase
+BI,BDI,ISO2_uppercase
+BIH,BIH,ISO3_uppercase
+BJ,BEN,ISO2_uppercase
+BL,BLM,ISO2_uppercase
+BLM,BLM,ISO3_uppercase
+BLR,BLR,ISO3_uppercase
+BLZ,BLZ,ISO3_uppercase
+BM,BMU,ISO2_uppercase
+BMU,BMU,ISO3_uppercase
+BN,BRN,ISO2_uppercase
+BO,BOL,ISO2_uppercase
+BOL,BOL,ISO3_uppercase
+BQ,BES,ISO2_uppercase
+BR,BRA,ISO2_uppercase
+BRA,BRA,ISO3_uppercase
+BRB,BRB,ISO3_uppercase
+BRN,BRN,ISO3_uppercase
+BS,BHS,ISO2_uppercase
+BT,BTN,ISO2_uppercase
+BTN,BTN,ISO3_uppercase
+BV,BVT,ISO2_uppercase
+BVT,BVT,ISO3_uppercase
+BW,BWA,ISO2_uppercase
+BWA,BWA,ISO3_uppercase
+BY,BLR,ISO2_uppercase
+BZ,BLZ,ISO2_uppercase
+Bahamas,BHS,dataset_country_name
+Bahamas (the),BHS,country_name
+Bahrain,BHR,country_name
+Bahrain,BHR,dataset_country_name
+Bangladesh,BGD,country_name
+Bangladesh,BGD,dataset_country_name
+Barbados,BRB,country_name
+Barbados,BRB,dataset_country_name
+Belarus,BLR,country_name
+Belarus,BLR,dataset_country_name
+Belgium,BEL,country_name
+Belize,BLZ,country_name
+Benin,BEN,country_name
+Benin,BEN,dataset_country_name
+Bermuda,BMU,country_name
+Bermuda,BMU,dataset_country_name
+Bhutan,BTN,country_name
+Bolivia,BOL,dataset_country_name
+Bolivia (Plurinational State of),BOL,country_name
+"Bonaire, Sint Eustatius and Saba",BES,country_name
+Bosnia and Herzegovina,BIH,country_name
+Bosnia and Herzegovina,BIH,dataset_country_name
+Botswana,BWA,country_name
+Bouvet Island,BVT,country_name
+Brazil,BRA,country_name
+Brazil,BRA,dataset_country_name
+Britain,GBR,documented_extra_alias
+British Indian Ocean Territory (the),IOT,country_name
+Brunei Darussalam,BRN,country_name
+Bulgaria,BGR,country_name
+Bulgaria,BGR,dataset_country_name
+Burkina Faso,BFA,country_name
+Burundi,BDI,country_name
+CA,CAN,ISO2_uppercase
+CAF,CAF,ISO3_uppercase
+CAN,CAN,ISO3_uppercase
+CC,CCK,ISO2_uppercase
+CCK,CCK,ISO3_uppercase
+CD,COD,ISO2_uppercase
+CF,CAF,ISO2_uppercase
+CG,COG,ISO2_uppercase
+CH,CHE,ISO2_uppercase
+CHE,CHE,ISO3_uppercase
+CHL,CHL,ISO3_uppercase
+CHN,CHN,ISO3_uppercase
+CI,CIV,ISO2_uppercase
+CIV,CIV,ISO3_uppercase
+CK,COK,ISO2_uppercase
+CL,CHL,ISO2_uppercase
+CM,CMR,ISO2_uppercase
+CMR,CMR,ISO3_uppercase
+CN,CHN,ISO2_uppercase
+CO,COL,ISO2_uppercase
+COD,COD,ISO3_uppercase
+COG,COG,ISO3_uppercase
+COK,COK,ISO3_uppercase
+COL,COL,ISO3_uppercase
+COM,COM,ISO3_uppercase
+CPV,CPV,ISO3_uppercase
+CR,CRI,ISO2_uppercase
+CRI,CRI,ISO3_uppercase
+CU,CUB,ISO2_uppercase
+CUB,CUB,ISO3_uppercase
+CUW,CUW,ISO3_uppercase
+CV,CPV,ISO2_uppercase
+CW,CUW,ISO2_uppercase
+CX,CXR,ISO2_uppercase
+CXR,CXR,ISO3_uppercase
+CY,CYP,ISO2_uppercase
+CYM,CYM,ISO3_uppercase
+CYP,CYP,ISO3_uppercase
+CZ,CZE,ISO2_uppercase
+CZE,CZE,ISO3_uppercase
+Cabo Verde,CPV,country_name
+Cambodia,KHM,country_name
+Cambodia,KHM,dataset_country_name
+Cameroon,CMR,country_name
+Cameroon,CMR,dataset_country_name
+Canada,CAN,country_name
+Canada,CAN,dataset_country_name
+Cayman Islands (the),CYM,country_name
+Central African Republic (the),CAF,country_name
+Chad,TCD,country_name
+Chile,CHL,country_name
+Chile,CHL,dataset_country_name
+China,CHN,country_name
+China,CHN,dataset_country_name
+China,CHN,documented_extra_alias
+Christmas Island,CXR,country_name
+Cocos (Keeling) Islands (the),CCK,country_name
+Colombia,COL,country_name
+Colombia,COL,dataset_country_name
+Comoros (the),COM,country_name
+Congo (the Democratic Republic of the),COD,country_name
+Congo (the),COG,country_name
+"Congo,the Democratic Republic of the",COD,dataset_country_name
+Cook Islands (the),COK,country_name
+Costa Rica,CRI,country_name
+Costa Rica,CRI,dataset_country_name
+Cote d'Ivoire,CIV,dataset_country_name
+Croatia,HRV,country_name
+Cuba,CUB,country_name
+Cuba,CUB,dataset_country_name
+Curaçao,CUW,country_name
+Cyprus,CYP,country_name
+Cyprus,CYP,dataset_country_name
+Czech Republic,CZE,dataset_country_name
+Czechia,CZE,country_name
+Côte d'Ivoire,CIV,country_name
+Côte d’Ivoire,CIV,documented_extra_alias
+DE,DEU,ISO2_uppercase
+DEU,DEU,ISO3_uppercase
+DJ,DJI,ISO2_uppercase
+DJI,DJI,ISO3_uppercase
+DK,DNK,ISO2_uppercase
+DM,DMA,ISO2_uppercase
+DMA,DMA,ISO3_uppercase
+DNK,DNK,ISO3_uppercase
+DO,DOM,ISO2_uppercase
+DOM,DOM,ISO3_uppercase
+DR Congo,COD,documented_extra_alias
+DZ,DZA,ISO2_uppercase
+DZA,DZA,ISO3_uppercase
+Democratic Republic of the Congo,COD,documented_extra_alias
+Denmark,DNK,country_name
+Denmark,DNK,dataset_country_name
+Djibouti,DJI,country_name
+Djibouti,DJI,dataset_country_name
+Dominica,DMA,country_name
+Dominican Republic,DOM,dataset_country_name
+Dominican Republic (the),DOM,country_name
+EC,ECU,ISO2_uppercase
+ECU,ECU,ISO3_uppercase
+EE,EST,ISO2_uppercase
+EG,EGY,ISO2_uppercase
+EGY,EGY,ISO3_uppercase
+EH,ESH,ISO2_uppercase
+ER,ERI,ISO2_uppercase
+ERI,ERI,ISO3_uppercase
+ES,ESP,ISO2_uppercase
+ESH,ESH,ISO3_uppercase
+ESP,ESP,ISO3_uppercase
+EST,EST,ISO3_uppercase
+ET,ETH,ISO2_uppercase
+ETH,ETH,ISO3_uppercase
+Ecuador,ECU,country_name
+Ecuador,ECU,dataset_country_name
+Egypt,EGY,country_name
+Egypt,EGY,dataset_country_name
+El Salvador,SLV,country_name
+El Salvador,SLV,dataset_country_name
+England,GBR,documented_extra_alias
+Equatorial Guinea,GNQ,country_name
+Eritrea,ERI,country_name
+Eritrea,ERI,dataset_country_name
+Estonia,EST,country_name
+Eswatini,SWZ,country_name
+Ethiopia,ETH,country_name
+Ethiopia,ETH,dataset_country_name
+FI,FIN,ISO2_uppercase
+FIN,FIN,ISO3_uppercase
+FJ,FJI,ISO2_uppercase
+FJI,FJI,ISO3_uppercase
+FK,FLK,ISO2_uppercase
+FLK,FLK,ISO3_uppercase
+FM,FSM,ISO2_uppercase
+FO,FRO,ISO2_uppercase
+FR,FRA,ISO2_uppercase
+FRA,FRA,ISO3_uppercase
+FRO,FRO,ISO3_uppercase
+FSM,FSM,ISO3_uppercase
+Falkland Islands (the) [Malvinas],FLK,country_name
+Faroe Islands (the),FRO,country_name
+Fiji,FJI,country_name
+Fiji,FJI,dataset_country_name
+Finland,FIN,country_name
+Finland,FIN,dataset_country_name
+France,FRA,country_name
+France,FRA,dataset_country_name
+French Guiana,GUF,country_name
+French Polynesia,PYF,country_name
+French Southern Territories (the),ATF,country_name
+GA,GAB,ISO2_uppercase
+GAB,GAB,ISO3_uppercase
+GB,GBR,ISO2_uppercase
+GBR,GBR,ISO3_uppercase
+GD,GRD,ISO2_uppercase
+GE,GEO,ISO2_uppercase
+GEO,GEO,ISO3_uppercase
+GF,GUF,ISO2_uppercase
+GG,GGY,ISO2_uppercase
+GGY,GGY,ISO3_uppercase
+GH,GHA,ISO2_uppercase
+GHA,GHA,ISO3_uppercase
+GI,GIB,ISO2_uppercase
+GIB,GIB,ISO3_uppercase
+GIN,GIN,ISO3_uppercase
+GL,GRL,ISO2_uppercase
+GLP,GLP,ISO3_uppercase
+GM,GMB,ISO2_uppercase
+GMB,GMB,ISO3_uppercase
+GN,GIN,ISO2_uppercase
+GNB,GNB,ISO3_uppercase
+GNQ,GNQ,ISO3_uppercase
+GP,GLP,ISO2_uppercase
+GQ,GNQ,ISO2_uppercase
+GR,GRC,ISO2_uppercase
+GRC,GRC,ISO3_uppercase
+GRD,GRD,ISO3_uppercase
+GRL,GRL,ISO3_uppercase
+GS,SGS,ISO2_uppercase
+GT,GTM,ISO2_uppercase
+GTM,GTM,ISO3_uppercase
+GU,GUM,ISO2_uppercase
+GUF,GUF,ISO3_uppercase
+GUM,GUM,ISO3_uppercase
+GUY,GUY,ISO3_uppercase
+GW,GNB,ISO2_uppercase
+GY,GUY,ISO2_uppercase
+Gabon,GAB,country_name
+Gambia (the),GMB,country_name
+Georgia,GEO,country_name
+Georgia,GEO,dataset_country_name
+Germany,DEU,country_name
+Germany,DEU,dataset_country_name
+Ghana,GHA,country_name
+Ghana,GHA,dataset_country_name
+Gibraltar,GIB,country_name
+Great Britain,GBR,documented_extra_alias
+Greece,GRC,country_name
+Greece,GRC,dataset_country_name
+Greenland,GRL,country_name
+Grenada,GRD,country_name
+Guadeloupe,GLP,country_name
+Guam,GUM,country_name
+Guam,GUM,dataset_country_name
+Guatemala,GTM,country_name
+Guatemala,GTM,dataset_country_name
+Guernsey,GGY,country_name
+Guinea,GIN,country_name
+Guinea,GIN,dataset_country_name
+Guinea-Bissau,GNB,country_name
+Guyana,GUY,country_name
+Guyana,GUY,dataset_country_name
+HK,HKG,ISO2_uppercase
+HKG,HKG,ISO3_uppercase
+HM,HMD,ISO2_uppercase
+HMD,HMD,ISO3_uppercase
+HN,HND,ISO2_uppercase
+HND,HND,ISO3_uppercase
+HR,HRV,ISO2_uppercase
+HRV,HRV,ISO3_uppercase
+HT,HTI,ISO2_uppercase
+HTI,HTI,ISO3_uppercase
+HU,HUN,ISO2_uppercase
+HUN,HUN,ISO3_uppercase
+Haiti,HTI,country_name
+Heard Island and McDonald Islands,HMD,country_name
+Holy See (the),VAT,country_name
+Honduras,HND,country_name
+Honduras,HND,dataset_country_name
+Hong Kong,HKG,country_name
+Hong Kong,HKG,dataset_country_name
+Hungary,HUN,country_name
+ID,IDN,ISO2_uppercase
+IDN,IDN,ISO3_uppercase
+IE,IRL,ISO2_uppercase
+IL,ISR,ISO2_uppercase
+IM,IMN,ISO2_uppercase
+IMN,IMN,ISO3_uppercase
+IN,IND,ISO2_uppercase
+IND,IND,ISO3_uppercase
+IO,IOT,ISO2_uppercase
+IOT,IOT,ISO3_uppercase
+IQ,IRQ,ISO2_uppercase
+IR,IRN,ISO2_uppercase
+IRL,IRL,ISO3_uppercase
+IRN,IRN,ISO3_uppercase
+IRQ,IRQ,ISO3_uppercase
+IS,ISL,ISO2_uppercase
+ISL,ISL,ISO3_uppercase
+ISR,ISR,ISO3_uppercase
+IT,ITA,ISO2_uppercase
+ITA,ITA,ISO3_uppercase
+Iceland,ISL,country_name
+Iceland,ISL,dataset_country_name
+India,IND,country_name
+India,IND,dataset_country_name
+Indonesia,IDN,country_name
+Indonesia,IDN,dataset_country_name
+Iran,IRN,dataset_country_name
+Iran (Islamic Republic of),IRN,country_name
+Iraq,IRQ,country_name
+Iraq,IRQ,dataset_country_name
+Ireland,IRL,country_name
+Ireland,IRL,dataset_country_name
+Isle of Man,IMN,country_name
+Israel,ISR,country_name
+Italy,ITA,country_name
+Italy,ITA,dataset_country_name
+Ivory Coast,CIV,documented_extra_alias
+JAM,JAM,ISO3_uppercase
+JE,JEY,ISO2_uppercase
+JEY,JEY,ISO3_uppercase
+JM,JAM,ISO2_uppercase
+JO,JOR,ISO2_uppercase
+JOR,JOR,ISO3_uppercase
+JP,JPN,ISO2_uppercase
+JPN,JPN,ISO3_uppercase
+Jamaica,JAM,country_name
+Jamaica,JAM,dataset_country_name
+Japan,JPN,country_name
+Japan,JPN,dataset_country_name
+Jersey,JEY,country_name
+Jordan,JOR,country_name
+Jordan,JOR,dataset_country_name
+KAZ,KAZ,ISO3_uppercase
+KE,KEN,ISO2_uppercase
+KEN,KEN,ISO3_uppercase
+KG,KGZ,ISO2_uppercase
+KGZ,KGZ,ISO3_uppercase
+KH,KHM,ISO2_uppercase
+KHM,KHM,ISO3_uppercase
+KI,KIR,ISO2_uppercase
+KIR,KIR,ISO3_uppercase
+KM,COM,ISO2_uppercase
+KN,KNA,ISO2_uppercase
+KNA,KNA,ISO3_uppercase
+KOR,KOR,ISO3_uppercase
+KP,PRK,ISO2_uppercase
+KR,KOR,ISO2_uppercase
+KW,KWT,ISO2_uppercase
+KWT,KWT,ISO3_uppercase
+KY,CYM,ISO2_uppercase
+KZ,KAZ,ISO2_uppercase
+Kazakhstan,KAZ,country_name
+Kazakhstan,KAZ,dataset_country_name
+Kenya,KEN,country_name
+Kenya,KEN,dataset_country_name
+Kiribati,KIR,country_name
+Korea (the Democratic People's Republic of),PRK,country_name
+Korea (the Republic of),KOR,country_name
+Kosovo,XKX,dataset_country_name
+Kuwait,KWT,country_name
+Kuwait,KWT,dataset_country_name
+Kyrgyzstan,KGZ,country_name
+Kyrgyzstan,KGZ,dataset_country_name
+LA,LAO,ISO2_uppercase
+LAO,LAO,ISO3_uppercase
+LB,LBN,ISO2_uppercase
+LBN,LBN,ISO3_uppercase
+LBR,LBR,ISO3_uppercase
+LBY,LBY,ISO3_uppercase
+LC,LCA,ISO2_uppercase
+LCA,LCA,ISO3_uppercase
+LI,LIE,ISO2_uppercase
+LIE,LIE,ISO3_uppercase
+LK,LKA,ISO2_uppercase
+LKA,LKA,ISO3_uppercase
+LR,LBR,ISO2_uppercase
+LS,LSO,ISO2_uppercase
+LSO,LSO,ISO3_uppercase
+LT,LTU,ISO2_uppercase
+LTU,LTU,ISO3_uppercase
+LU,LUX,ISO2_uppercase
+LUX,LUX,ISO3_uppercase
+LV,LVA,ISO2_uppercase
+LVA,LVA,ISO3_uppercase
+LY,LBY,ISO2_uppercase
+Lao People's Democratic Republic,LAO,dataset_country_name
+Lao People's Democratic Republic (the),LAO,country_name
+Latvia,LVA,country_name
+Lebanon,LBN,country_name
+Lesotho,LSO,country_name
+Lesotho,LSO,dataset_country_name
+Liberia,LBR,country_name
+Liberia,LBR,dataset_country_name
+Libya,LBY,country_name
+Libya,LBY,dataset_country_name
+Liechtenstein,LIE,country_name
+Lithuania,LTU,country_name
+Lithuania,LTU,dataset_country_name
+Luxembourg,LUX,country_name
+Luxembourg,LUX,dataset_country_name
+MA,MAR,ISO2_uppercase
+MAC,MAC,ISO3_uppercase
+MAF,MAF,ISO3_uppercase
+MAR,MAR,ISO3_uppercase
+MC,MCO,ISO2_uppercase
+MCO,MCO,ISO3_uppercase
+MD,MDA,ISO2_uppercase
+MDA,MDA,ISO3_uppercase
+MDG,MDG,ISO3_uppercase
+MDV,MDV,ISO3_uppercase
+ME,MNE,ISO2_uppercase
+MEX,MEX,ISO3_uppercase
+MF,MAF,ISO2_uppercase
+MG,MDG,ISO2_uppercase
+MH,MHL,ISO2_uppercase
+MHL,MHL,ISO3_uppercase
+MK,MKD,ISO2_uppercase
+MKD,MKD,ISO3_uppercase
+ML,MLI,ISO2_uppercase
+MLI,MLI,ISO3_uppercase
+MLT,MLT,ISO3_uppercase
+MM,MMR,ISO2_uppercase
+MMR,MMR,ISO3_uppercase
+MN,MNG,ISO2_uppercase
+MNE,MNE,ISO3_uppercase
+MNG,MNG,ISO3_uppercase
+MNP,MNP,ISO3_uppercase
+MO,MAC,ISO2_uppercase
+MOZ,MOZ,ISO3_uppercase
+MP,MNP,ISO2_uppercase
+MQ,MTQ,ISO2_uppercase
+MR,MRT,ISO2_uppercase
+MRT,MRT,ISO3_uppercase
+MS,MSR,ISO2_uppercase
+MSR,MSR,ISO3_uppercase
+MT,MLT,ISO2_uppercase
+MTQ,MTQ,ISO3_uppercase
+MU,MUS,ISO2_uppercase
+MUS,MUS,ISO3_uppercase
+MV,MDV,ISO2_uppercase
+MW,MWI,ISO2_uppercase
+MWI,MWI,ISO3_uppercase
+MX,MEX,ISO2_uppercase
+MY,MYS,ISO2_uppercase
+MYS,MYS,ISO3_uppercase
+MYT,MYT,ISO3_uppercase
+MZ,MOZ,ISO2_uppercase
+Macao,MAC,country_name
+Madagascar,MDG,country_name
+Madagascar,MDG,dataset_country_name
+Malawi,MWI,country_name
+Malaysia,MYS,country_name
+Malaysia,MYS,dataset_country_name
+Maldives,MDV,country_name
+Mali,MLI,country_name
+Mali,MLI,dataset_country_name
+Malta,MLT,country_name
+Malta,MLT,dataset_country_name
+Marshall Islands,MHL,dataset_country_name
+Marshall Islands (the),MHL,country_name
+Martinique,MTQ,country_name
+Mauritania,MRT,country_name
+Mauritania,MRT,dataset_country_name
+Mauritius,MUS,country_name
+Mayotte,MYT,country_name
+Mexico,MEX,country_name
+Mexico,MEX,dataset_country_name
+Micronesia (Federated States of),FSM,country_name
+"Micronesia,Federated States of",FSM,dataset_country_name
+Moldova (the Republic of),MDA,country_name
+Monaco,MCO,country_name
+Monaco,MCO,dataset_country_name
+Mongolia,MNG,country_name
+Mongolia,MNG,dataset_country_name
+Montenegro,MNE,country_name
+Montenegro,MNE,dataset_country_name
+Montserrat,MSR,country_name
+Morocco,MAR,country_name
+Morocco,MAR,dataset_country_name
+Mozambique,MOZ,country_name
+Mozambique,MOZ,dataset_country_name
+Myanmar,MMR,country_name
+Myanmar,MMR,dataset_country_name
+NAM,NAM,ISO3_uppercase
+NC,NCL,ISO2_uppercase
+NCL,NCL,ISO3_uppercase
+NE,NER,ISO2_uppercase
+NER,NER,ISO3_uppercase
+NF,NFK,ISO2_uppercase
+NFK,NFK,ISO3_uppercase
+NG,NGA,ISO2_uppercase
+NGA,NGA,ISO3_uppercase
+NI,NIC,ISO2_uppercase
+NIC,NIC,ISO3_uppercase
+NIU,NIU,ISO3_uppercase
+NL,NLD,ISO2_uppercase
+NLD,NLD,ISO3_uppercase
+NO,NOR,ISO2_uppercase
+NOR,NOR,ISO3_uppercase
+NP,NPL,ISO2_uppercase
+NPL,NPL,ISO3_uppercase
+NR,NRU,ISO2_uppercase
+NRU,NRU,ISO3_uppercase
+NU,NIU,ISO2_uppercase
+NZ,NZL,ISO2_uppercase
+NZL,NZL,ISO3_uppercase
+Namibia,NAM,country_name
+Nauru,NRU,country_name
+Nepal,NPL,country_name
+Nepal,NPL,dataset_country_name
+Netherlands,NLD,dataset_country_name
+Netherlands (the),NLD,country_name
+New Caledonia,NCL,country_name
+New Zealand,NZL,country_name
+New Zealand,NZL,dataset_country_name
+Nicaragua,NIC,country_name
+Nicaragua,NIC,dataset_country_name
+Niger,NER,dataset_country_name
+Niger (the),NER,country_name
+Nigeria,NGA,country_name
+Nigeria,NGA,dataset_country_name
+Niue,NIU,country_name
+Norfolk Island,NFK,country_name
+Northern Ireland,GBR,documented_extra_alias
+Northern Mariana Islands (the),MNP,country_name
+Norway,NOR,country_name
+Norway,NOR,dataset_country_name
+OM,OMN,ISO2_uppercase
+OMN,OMN,ISO3_uppercase
+Occupied Palestinian Territories,ISR,dataset_country_name
+Oman,OMN,country_name
+Oman,OMN,dataset_country_name
+PA,PAN,ISO2_uppercase
+PAK,PAK,ISO3_uppercase
+PAN,PAN,ISO3_uppercase
+PCN,PCN,ISO3_uppercase
+PE,PER,ISO2_uppercase
+PER,PER,ISO3_uppercase
+PF,PYF,ISO2_uppercase
+PG,PNG,ISO2_uppercase
+PH,PHL,ISO2_uppercase
+PHL,PHL,ISO3_uppercase
+PK,PAK,ISO2_uppercase
+PL,POL,ISO2_uppercase
+PLW,PLW,ISO3_uppercase
+PM,SPM,ISO2_uppercase
+PN,PCN,ISO2_uppercase
+PNG,PNG,ISO3_uppercase
+POL,POL,ISO3_uppercase
+PR,PRI,ISO2_uppercase
+PRC,CHN,documented_extra_alias
+PRI,PRI,ISO3_uppercase
+PRK,PRK,ISO3_uppercase
+PRT,PRT,ISO3_uppercase
+PRY,PRY,ISO3_uppercase
+PS,PSE,ISO2_uppercase
+PSE,PSE,ISO3_uppercase
+PT,PRT,ISO2_uppercase
+PW,PLW,ISO2_uppercase
+PY,PRY,ISO2_uppercase
+PYF,PYF,ISO3_uppercase
+Pakistan,PAK,country_name
+Pakistan,PAK,dataset_country_name
+Palau,PLW,country_name
+Palau,PLW,dataset_country_name
+"Palestine, State of",PSE,country_name
+Panama,PAN,country_name
+Panama,PAN,dataset_country_name
+Papua New Guinea,PNG,country_name
+Papua New Guinea,PNG,dataset_country_name
+Paraguay,PRY,country_name
+Peru,PER,country_name
+Peru,PER,dataset_country_name
+Philippines,PHL,dataset_country_name
+Philippines (the),PHL,country_name
+Pitcairn,PCN,country_name
+Poland,POL,country_name
+Poland,POL,dataset_country_name
+Portugal,PRT,country_name
+Puerto Rico,PRI,country_name
+QA,QAT,ISO2_uppercase
+QAT,QAT,ISO3_uppercase
+Qatar,QAT,country_name
+Qatar,QAT,dataset_country_name
+RE,REU,ISO2_uppercase
+REU,REU,ISO3_uppercase
+RO,ROU,ISO2_uppercase
+ROU,ROU,ISO3_uppercase
+RS,SRB,ISO2_uppercase
+RU,RUS,ISO2_uppercase
+RUS,RUS,ISO3_uppercase
+RW,RWA,ISO2_uppercase
+RWA,RWA,ISO3_uppercase
+Republic of Korea,KOR,documented_extra_alias
+Republic of North Macedonia,MKD,country_name
+Republic of the Congo,COG,documented_extra_alias
+Romania,ROU,country_name
+Romania,ROU,dataset_country_name
+Royaume-Uni,GBR,documented_extra_alias
+Russia,RUS,dataset_country_name
+Russian Federation (the),RUS,country_name
+Rwanda,RWA,country_name
+Rwanda,RWA,dataset_country_name
+Réunion,REU,country_name
+SA,SAU,ISO2_uppercase
+SAU,SAU,ISO3_uppercase
+SB,SLB,ISO2_uppercase
+SC,SYC,ISO2_uppercase
+SD,SDN,ISO2_uppercase
+SDN,SDN,ISO3_uppercase
+SE,SWE,ISO2_uppercase
+SEN,SEN,ISO3_uppercase
+SG,SGP,ISO2_uppercase
+SGP,SGP,ISO3_uppercase
+SGS,SGS,ISO3_uppercase
+SH,SHN,ISO2_uppercase
+SHN,SHN,ISO3_uppercase
+SI,SVN,ISO2_uppercase
+SJ,SJM,ISO2_uppercase
+SJM,SJM,ISO3_uppercase
+SK,SVK,ISO2_uppercase
+SL,SLE,ISO2_uppercase
+SLB,SLB,ISO3_uppercase
+SLE,SLE,ISO3_uppercase
+SLV,SLV,ISO3_uppercase
+SM,SMR,ISO2_uppercase
+SMR,SMR,ISO3_uppercase
+SN,SEN,ISO2_uppercase
+SO,SOM,ISO2_uppercase
+SOM,SOM,ISO3_uppercase
+SPM,SPM,ISO3_uppercase
+SR,SUR,ISO2_uppercase
+SRB,SRB,ISO3_uppercase
+SS,SSD,ISO2_uppercase
+SSD,SSD,ISO3_uppercase
+ST,STP,ISO2_uppercase
+STP,STP,ISO3_uppercase
+SUR,SUR,ISO3_uppercase
+SV,SLV,ISO2_uppercase
+SVK,SVK,ISO3_uppercase
+SVN,SVN,ISO3_uppercase
+SWE,SWE,ISO3_uppercase
+SWZ,SWZ,ISO3_uppercase
+SX,SXM,ISO2_uppercase
+SXM,SXM,ISO3_uppercase
+SY,SYR,ISO2_uppercase
+SYC,SYC,ISO3_uppercase
+SYR,SYR,ISO3_uppercase
+SZ,SWZ,ISO2_uppercase
+Saint Barthélemy,BLM,country_name
+"Saint Helena, Ascension and Tristan da Cunha",SHN,country_name
+Saint Kitts and Nevis,KNA,country_name
+Saint Lucia,LCA,country_name
+Saint Martin (French part),MAF,country_name
+Saint Pierre and Miquelon,SPM,country_name
+Saint Vincent and the Grenadines,VCT,country_name
+Samoa,WSM,country_name
+San Marino,SMR,country_name
+Sao Tome and Principe,STP,country_name
+Saudi Arabia,SAU,country_name
+Saudi Arabia,SAU,dataset_country_name
+Scotland,GBR,documented_extra_alias
+Senegal,SEN,country_name
+Senegal,SEN,dataset_country_name
+Serbia,SRB,country_name
+Serbia,SRB,dataset_country_name
+Seychelles,SYC,country_name
+Sierra Leone,SLE,country_name
+Sierra Leone,SLE,dataset_country_name
+Singapore,SGP,country_name
+Singapore,SGP,dataset_country_name
+Sint Maarten (Dutch part),SXM,country_name
+Slovakia,SVK,country_name
+Slovakia,SVK,dataset_country_name
+Slovenia,SVN,country_name
+Solomon Islands,SLB,country_name
+Solomon Islands,SLB,dataset_country_name
+Somalia,SOM,country_name
+South Africa,ZAF,country_name
+South Africa,ZAF,dataset_country_name
+South Africa,ZAF,documented_extra_alias
+South Georgia and the South Sandwich Islands,SGS,country_name
+South Korea,KOR,dataset_country_name
+South Korea,KOR,documented_extra_alias
+South Sudan,SSD,country_name
+South Sudan,SSD,dataset_country_name
+Spain,ESP,country_name
+Spain,ESP,dataset_country_name
+Sri Lanka,LKA,country_name
+Sri Lanka,LKA,dataset_country_name
+Sudan (the),SDN,country_name
+Suriname,SUR,country_name
+Suriname,SUR,dataset_country_name
+Svalbard and Jan Mayen,SJM,country_name
+Sweden,SWE,country_name
+Sweden,SWE,dataset_country_name
+Switzerland,CHE,country_name
+Switzerland,CHE,dataset_country_name
+Syrian Arab Republic,SYR,country_name
+TC,TCA,ISO2_uppercase
+TCA,TCA,ISO3_uppercase
+TCD,TCD,ISO3_uppercase
+TD,TCD,ISO2_uppercase
+TF,ATF,ISO2_uppercase
+TG,TGO,ISO2_uppercase
+TGO,TGO,ISO3_uppercase
+TH,THA,ISO2_uppercase
+THA,THA,ISO3_uppercase
+TJ,TJK,ISO2_uppercase
+TJK,TJK,ISO3_uppercase
+TK,TKL,ISO2_uppercase
+TKL,TKL,ISO3_uppercase
+TKM,TKM,ISO3_uppercase
+TL,TLS,ISO2_uppercase
+TLS,TLS,ISO3_uppercase
+TM,TKM,ISO2_uppercase
+TN,TUN,ISO2_uppercase
+TO,TON,ISO2_uppercase
+TON,TON,ISO3_uppercase
+TR,TUR,ISO2_uppercase
+TT,TTO,ISO2_uppercase
+TTO,TTO,ISO3_uppercase
+TUN,TUN,ISO3_uppercase
+TUR,TUR,ISO3_uppercase
+TUV,TUV,ISO3_uppercase
+TV,TUV,ISO2_uppercase
+TW,TWN,ISO2_uppercase
+TWN,TWN,ISO3_uppercase
+TZ,TZA,ISO2_uppercase
+TZA,TZA,ISO3_uppercase
+Taiwan,TWN,dataset_country_name
+Taiwan (Province of China),TWN,country_name
+Tajikistan,TJK,country_name
+Tajikistan,TJK,dataset_country_name
+Tanzania,TZA,dataset_country_name
+"Tanzania, United Republic of",TZA,country_name
+Thailand,THA,country_name
+Thailand,THA,dataset_country_name
+Timor-Leste,TLS,country_name
+Togo,TGO,country_name
+Togo,TGO,dataset_country_name
+Tokelau,TKL,country_name
+Tonga,TON,country_name
+Trinidad and Tobago,TTO,country_name
+Trinidad and Tobago,TTO,dataset_country_name
+Tunisia,TUN,country_name
+Tunisia,TUN,dataset_country_name
+Turkey,TUR,country_name
+Turkey,TUR,dataset_country_name
+Turkey,TUR,documented_extra_alias
+Turkmenistan,TKM,country_name
+Turkmenistan,TKM,dataset_country_name
+Turks and Caicos Islands (the),TCA,country_name
+Tuvalu,TUV,country_name
+Türkiye,TUR,documented_extra_alias
+U.K.,GBR,documented_extra_alias
+U.S.,USA,documented_extra_alias
+UA,UKR,ISO2_uppercase
+UG,UGA,ISO2_uppercase
+UGA,UGA,ISO3_uppercase
+UK,GBR,documented_extra_alias
+UKR,UKR,ISO3_uppercase
+UM,UMI,ISO2_uppercase
+UMI,UMI,ISO3_uppercase
+URY,URY,ISO3_uppercase
+US,USA,ISO2_uppercase
+US,USA,documented_extra_alias
+USA,USA,ISO3_uppercase
+USA,USA,documented_extra_alias
+UY,URY,ISO2_uppercase
+UZ,UZB,ISO2_uppercase
+UZB,UZB,ISO3_uppercase
+Uganda,UGA,country_name
+Uganda,UGA,dataset_country_name
+Ukraine,UKR,country_name
+Ukraine,UKR,dataset_country_name
+United Arab Emirates,ARE,dataset_country_name
+United Arab Emirates (the),ARE,country_name
+United Kingdom,GBR,dataset_country_name
+United Kingdom,GBR,documented_extra_alias
+United Kingdom of Great Britain and Northern Ireland (the),GBR,country_name
+United States,USA,dataset_country_name
+United States,USA,documented_extra_alias
+United States Minor Outlying Islands (the),UMI,country_name
+United States of America,USA,documented_extra_alias
+United States of America (the),USA,country_name
+Uruguay,URY,country_name
+Uruguay,URY,dataset_country_name
+Uzbekistan,UZB,country_name
+Uzbekistan,UZB,dataset_country_name
+VA,VAT,ISO2_uppercase
+VAT,VAT,ISO3_uppercase
+VC,VCT,ISO2_uppercase
+VCT,VCT,ISO3_uppercase
+VE,VEN,ISO2_uppercase
+VEN,VEN,ISO3_uppercase
+VG,VGB,ISO2_uppercase
+VGB,VGB,ISO3_uppercase
+VI,VIR,ISO2_uppercase
+VIR,VIR,ISO3_uppercase
+VN,VNM,ISO2_uppercase
+VNM,VNM,ISO3_uppercase
+VU,VUT,ISO2_uppercase
+VUT,VUT,ISO3_uppercase
+Vanuatu,VUT,country_name
+Venezuela,VEN,dataset_country_name
+Venezuela (Bolivarian Republic of),VEN,country_name
+Viet Nam,VNM,country_name
+Viet Nam,VNM,dataset_country_name
+Virgin Islands (British),VGB,country_name
+Virgin Islands (U.S.),VIR,country_name
+WF,WLF,ISO2_uppercase
+WLF,WLF,ISO3_uppercase
+WS,WSM,ISO2_uppercase
+WSM,WSM,ISO3_uppercase
+Wales,GBR,documented_extra_alias
+Wallis and Futuna,WLF,country_name
+Western Sahara,ESH,country_name
+YE,YEM,ISO2_uppercase
+YEM,YEM,ISO3_uppercase
+YT,MYT,ISO2_uppercase
+Yemen,YEM,country_name
+Yemen,YEM,dataset_country_name
+ZA,ZAF,ISO2_uppercase
+ZAF,ZAF,ISO3_uppercase
+ZM,ZMB,ISO2_uppercase
+ZMB,ZMB,ISO3_uppercase
+ZW,ZWE,ISO2_uppercase
+ZWE,ZWE,ISO3_uppercase
+Zambia,ZMB,country_name
+Zambia,ZMB,dataset_country_name
+Zimbabwe,ZWE,country_name
+Zimbabwe,ZWE,dataset_country_name
+Åland Islands,ALA,country_name

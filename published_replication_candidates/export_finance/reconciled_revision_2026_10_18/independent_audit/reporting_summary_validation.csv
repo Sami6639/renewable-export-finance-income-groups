@@ -1,0 +1,11 @@
+test,rows,status
+record_endpoint_ranking_scores,164736,passed
+record_annual_ranking_scores,1647360,passed
+provider_endpoint_ranking_scores,4032,passed
+provider_annual_ranking_scores,40320,passed
+package_endpoint_ranking_scores,864,passed
+package_annual_ranking_scores,8640,passed
+influence_rank_ties_and_concentrations,1512,passed
+raw_recorded_value_concentrations,288,passed
+all_scenario_sign_summaries,6432,passed
+all_weak_rank_summaries,1608,passed

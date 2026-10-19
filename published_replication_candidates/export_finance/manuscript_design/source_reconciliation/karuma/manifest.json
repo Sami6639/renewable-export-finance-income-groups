@@ -1,0 +1,26 @@
+{
+  "research_date": "2026-10-18",
+  "source_data_modified": false,
+  "files": {
+    "pbc_2014.pdf": {
+      "bytes": 1721010,
+      "sha256": "277ffcba6e32ae94a4d0fc2eff7b9353d8853d1e9e86aafddce1c8a47b31545c"
+    },
+    "bcl_2015.pdf": {
+      "bytes": 2540704,
+      "sha256": "184eee6d57375e7b5f12bef58205c085a80c19cef9e14c9f551a8493e76d58b0"
+    },
+    "uegcl_2015.pdf": {
+      "bytes": 4168365,
+      "sha256": "d29d24f2c714c1ea8d3b2060fcf8fb77f5c1ba4e938f06b0542e207bb712de6b"
+    },
+    "RECONCILIATION.md": {
+      "bytes": 11347,
+      "sha256": "7f8eadfd07178ffa4ed400372eea88993c0648735a239230c8e9980b02c89fd8"
+    },
+    "archive_rows.json": {
+      "bytes": 4841,
+      "sha256": "fb9e04a3f330afb30e4362078aeb668fba772ded0cf7f82c14aeb27dde3f71ee"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+file,rows,max_error_pp
+record_influence_endpoint.csv.gz,164736,1.4301060335952798e-14
+record_influence_annual.csv.gz,1647360,2.4868995751603507e-14
+provider_influence_endpoint.csv.gz,4032,1.4210854715202004e-14
+provider_influence_annual.csv.gz,40320,1.4654943925052066e-14
+package_influence_endpoint.csv.gz,864,7.105427357601002e-15
+package_influence_annual.csv.gz,8640,7.105427357601002e-15

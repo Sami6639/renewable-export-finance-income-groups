@@ -1,0 +1,1609 @@
+analysis,geography,target,outcome,universe,stable_weak_order,weak_orders,undefined_cases
+allocation,all_locations,2013,amount,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2013,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2013,lower_observed_bound,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2013,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2013,share_classified,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2013,share_observed,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2013,upper_observed_bound,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2014,amount,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2014,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2014,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2014,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2014,share_classified,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2014,share_observed,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2014,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2015,amount,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2015,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2015,lower_observed_bound,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2015,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2015,share_classified,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2015,share_observed,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2015,upper_observed_bound,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2016,amount,core24,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2016,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2016,lower_observed_bound,core24,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2016,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2016,share_classified,core24,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2016,share_observed,core24,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2016,upper_observed_bound,core24,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2017,amount,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2017,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2017,lower_observed_bound,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2017,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2017,share_classified,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2017,share_observed,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2017,upper_observed_bound,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2018,amount,core24,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2018,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2018,lower_observed_bound,core24,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2018,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2018,share_classified,core24,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2018,share_observed,core24,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2018,upper_observed_bound,core24,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2019,amount,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2019,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2019,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2019,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2019,share_classified,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2019,share_observed,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2019,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,amount,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2020,lower_observed_bound,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2020,share_classified,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,share_observed,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,upper_observed_bound,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2021,amount,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2021,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2021,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2021,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2021,share_classified,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2021,share_observed,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2021,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2022,amount,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2022,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2022,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2022,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2022,share_classified,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2022,share_observed,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2022,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,early,amount,core24,False,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,early,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,early,lower_observed_bound,core24,False,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,early,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,early,share_classified,core24,False,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,early,share_observed,core24,False,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,early,upper_observed_bound,core24,False,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,late,amount,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,late,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,late,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,late,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,late,share_classified,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,late,share_observed,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,late,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2013,amount,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2013,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2013,lower_observed_bound,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2013,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2013,share_classified,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2013,share_observed,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2013,upper_observed_bound,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2014,amount,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2014,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2014,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2014,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2014,share_classified,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2014,share_observed,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2014,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2015,amount,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2015,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2015,lower_observed_bound,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2015,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2015,share_classified,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2015,share_observed,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2015,upper_observed_bound,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2016,amount,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2016,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2016,lower_observed_bound,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2016,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2016,share_classified,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2016,share_observed,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2016,upper_observed_bound,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2017,amount,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2017,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2017,lower_observed_bound,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2017,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2017,share_classified,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2017,share_observed,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2017,upper_observed_bound,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2018,amount,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2018,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2018,lower_observed_bound,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2018,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2018,share_classified,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2018,share_observed,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2018,upper_observed_bound,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,amount,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2019,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2019,share_classified,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,share_observed,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,amount,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2020,lower_observed_bound,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2020,share_classified,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,share_observed,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,upper_observed_bound,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,amount,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2021,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2021,share_classified,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,share_observed,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2022,amount,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2022,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2022,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2022,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2022,share_classified,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2022,share_observed,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2022,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,amount,core24,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,early,lower_observed_bound,core24,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,early,share_classified,core24,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,share_observed,core24,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,upper_observed_bound,core24,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,late,amount,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,late,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,late,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,late,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,late,share_classified,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,late,share_observed,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,late,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,domestic,2013,amount,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2013,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2013,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2013,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2013,share_classified,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2013,share_observed,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2013,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2014,amount,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2014,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2014,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2014,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2014,share_classified,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2014,share_observed,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2014,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2015,amount,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2015,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2015,lower_observed_bound,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2015,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2015,share_classified,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2015,share_observed,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2015,upper_observed_bound,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2016,amount,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2016,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2016,lower_observed_bound,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2016,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2016,share_classified,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2016,share_observed,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2016,upper_observed_bound,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2017,amount,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2017,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2017,lower_observed_bound,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2017,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2017,share_classified,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2017,share_observed,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2017,upper_observed_bound,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,amount,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2018,lower_observed_bound,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2018,share_classified,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,share_observed,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,upper_observed_bound,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,amount,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2019,lower_observed_bound,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2019,share_classified,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,share_observed,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,upper_observed_bound,core24,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2020,amount,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2020,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2020,lower_observed_bound,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2020,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2020,share_classified,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2020,share_observed,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2020,upper_observed_bound,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,amount,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2021,lower_observed_bound,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2021,share_classified,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,share_observed,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,upper_observed_bound,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,amount,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2022,lower_observed_bound,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2022,share_classified,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,share_observed,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,upper_observed_bound,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,early,amount,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,early,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,early,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,early,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,early,share_classified,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,early,share_observed,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,early,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,late,amount,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,late,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,late,lower_observed_bound,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,late,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,late,share_classified,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,late,share_observed,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,late,upper_observed_bound,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,international_reporting,2013,amount,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2013,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2013,lower_observed_bound,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2013,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2013,share_classified,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2013,share_observed,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2013,upper_observed_bound,core24,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2014,amount,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2014,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2014,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2014,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2014,share_classified,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2014,share_observed,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2014,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2015,amount,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2015,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2015,lower_observed_bound,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2015,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2015,share_classified,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2015,share_observed,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2015,upper_observed_bound,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2016,amount,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2016,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2016,lower_observed_bound,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2016,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2016,share_classified,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2016,share_observed,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2016,upper_observed_bound,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2017,amount,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2017,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2017,lower_observed_bound,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2017,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2017,share_classified,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2017,share_observed,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2017,upper_observed_bound,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2018,amount,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2018,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2018,lower_observed_bound,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2018,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2018,share_classified,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2018,share_observed,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2018,upper_observed_bound,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,amount,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2019,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2019,share_classified,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,share_observed,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,amount,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2020,lower_observed_bound,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2020,share_classified,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,share_observed,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,upper_observed_bound,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2021,amount,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2021,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2021,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2021,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2021,share_classified,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2021,share_observed,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2021,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2022,amount,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2022,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2022,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2022,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2022,share_classified,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2022,share_observed,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2022,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,early,amount,core24,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,early,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,early,lower_observed_bound,core24,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,early,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,early,share_classified,core24,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,early,share_observed,core24,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,early,upper_observed_bound,core24,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,late,amount,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,late,classified_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,late,lower_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,late,observed_denominator,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,late,share_classified,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,late,share_observed,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,late,upper_observed_bound,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2013_to_2014,composition_pp,core24,False,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L<UM;L>H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L<H;LM<UM;LM<H;UM<H | L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2013_to_2014,delta_pp,core24,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,all_locations,2013_to_2014,entry_pp,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM=H,0
+decomposition,all_locations,2013_to_2014,exit_pp,core24,True,L=LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2013_to_2014,within_pp,core24,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,all_locations,2014_to_2015,composition_pp,core24,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2014_to_2015,delta_pp,core24,True,L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2014_to_2015,entry_pp,core24,True,L>LM;L>UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,all_locations,2014_to_2015,exit_pp,core24,True,L>LM;L=UM;L=H;LM<UM;LM<H;UM=H,0
+decomposition,all_locations,2014_to_2015,within_pp,core24,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2015_to_2016,composition_pp,core24,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2015_to_2016,delta_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2015_to_2016,entry_pp,core24,True,L>LM;L>UM;L>H;LM=UM;LM<H;UM<H,0
+decomposition,all_locations,2015_to_2016,exit_pp,core24,True,L>LM;L>UM;L=H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2015_to_2016,within_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2016_to_2017,composition_pp,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2016_to_2017,delta_pp,core24,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2016_to_2017,entry_pp,core24,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,all_locations,2016_to_2017,exit_pp,core24,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2016_to_2017,within_pp,core24,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,all_locations,2017_to_2018,composition_pp,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2017_to_2018,delta_pp,core24,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2017_to_2018,entry_pp,core24,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2017_to_2018,exit_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,all_locations,2017_to_2018,within_pp,core24,True,L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2018_to_2019,composition_pp,core24,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2018_to_2019,delta_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2018_to_2019,entry_pp,core24,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,all_locations,2018_to_2019,exit_pp,core24,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM=H,0
+decomposition,all_locations,2018_to_2019,within_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2019_to_2020,composition_pp,core24,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2019_to_2020,delta_pp,core24,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM<H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2019_to_2020,entry_pp,core24,True,L<LM;L=UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2019_to_2020,exit_pp,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2019_to_2020,within_pp,core24,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM>H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2020_to_2021,composition_pp,core24,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H | L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2020_to_2021,delta_pp,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2020_to_2021,entry_pp,core24,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2020_to_2021,exit_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,all_locations,2020_to_2021,within_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2021_to_2022,composition_pp,core24,False,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2021_to_2022,delta_pp,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2021_to_2022,entry_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,all_locations,2021_to_2022,exit_pp,core24,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2021_to_2022,within_pp,core24,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,early_to_late,composition_pp,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,early_to_late,delta_pp,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,early_to_late,entry_pp,core24,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,all_locations,early_to_late,exit_pp,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,early_to_late,within_pp,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2013_to_2014,composition_pp,core24,False,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2013_to_2014,delta_pp,core24,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,country_assigned_international,2013_to_2014,entry_pp,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM=H,0
+decomposition,country_assigned_international,2013_to_2014,exit_pp,core24,True,L=LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2013_to_2014,within_pp,core24,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,country_assigned_international,2014_to_2015,composition_pp,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2014_to_2015,delta_pp,core24,True,L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2014_to_2015,entry_pp,core24,True,L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2014_to_2015,exit_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2014_to_2015,within_pp,core24,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2015_to_2016,composition_pp,core24,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,country_assigned_international,2015_to_2016,delta_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2015_to_2016,entry_pp,core24,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2015_to_2016,exit_pp,core24,True,L>LM;L>UM;L=H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2015_to_2016,within_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2016_to_2017,composition_pp,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2016_to_2017,delta_pp,core24,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2016_to_2017,entry_pp,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2016_to_2017,exit_pp,core24,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2016_to_2017,within_pp,core24,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,country_assigned_international,2017_to_2018,composition_pp,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2017_to_2018,delta_pp,core24,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2017_to_2018,entry_pp,core24,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2017_to_2018,exit_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2017_to_2018,within_pp,core24,True,L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2018_to_2019,composition_pp,core24,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2018_to_2019,delta_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2018_to_2019,entry_pp,core24,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,country_assigned_international,2018_to_2019,exit_pp,core24,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM=H,0
+decomposition,country_assigned_international,2018_to_2019,within_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2019_to_2020,composition_pp,core24,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2019_to_2020,delta_pp,core24,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM<H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2019_to_2020,entry_pp,core24,True,L<LM;L=UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2019_to_2020,exit_pp,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2019_to_2020,within_pp,core24,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM>H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2020_to_2021,composition_pp,core24,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H | L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2020_to_2021,delta_pp,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2020_to_2021,entry_pp,core24,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2020_to_2021,exit_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2020_to_2021,within_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2021_to_2022,composition_pp,core24,False,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2021_to_2022,delta_pp,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2021_to_2022,entry_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2021_to_2022,exit_pp,core24,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2021_to_2022,within_pp,core24,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,early_to_late,composition_pp,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,early_to_late,delta_pp,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,early_to_late,entry_pp,core24,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,early_to_late,exit_pp,core24,True,L<LM;L>UM;L<H;LM>UM;LM=H;UM<H,0
+decomposition,country_assigned_international,early_to_late,within_pp,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,domestic,2013_to_2014,composition_pp,core24,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2013_to_2014,delta_pp,core24,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2013_to_2014,entry_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2013_to_2014,exit_pp,core24,True,L=LM;L=UM;L>H;LM=UM;LM>H;UM>H,0
+decomposition,domestic,2013_to_2014,within_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2014_to_2015,composition_pp,core24,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2014_to_2015,delta_pp,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2014_to_2015,entry_pp,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2014_to_2015,exit_pp,core24,True,L>LM;L=UM;L=H;LM<UM;LM<H;UM=H,0
+decomposition,domestic,2014_to_2015,within_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2015_to_2016,composition_pp,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2015_to_2016,delta_pp,core24,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2015_to_2016,entry_pp,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2015_to_2016,exit_pp,core24,True,L=LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,domestic,2015_to_2016,within_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2016_to_2017,composition_pp,core24,True,L=LM;L=UM;L>H;LM=UM;LM>H;UM>H,0
+decomposition,domestic,2016_to_2017,delta_pp,core24,True,L=LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2016_to_2017,entry_pp,core24,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,domestic,2016_to_2017,exit_pp,core24,True,L=LM;L=UM;L>H;LM=UM;LM>H;UM>H,0
+decomposition,domestic,2016_to_2017,within_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2017_to_2018,composition_pp,core24,True,L=LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2017_to_2018,delta_pp,core24,True,L=LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2017_to_2018,entry_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2017_to_2018,exit_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2017_to_2018,within_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2018_to_2019,composition_pp,core24,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2018_to_2019,delta_pp,core24,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2018_to_2019,entry_pp,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2018_to_2019,exit_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2018_to_2019,within_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2019_to_2020,composition_pp,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2019_to_2020,delta_pp,core24,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2019_to_2020,entry_pp,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2019_to_2020,exit_pp,core24,True,L=LM;L>UM;L=H;LM>UM;LM=H;UM<H,0
+decomposition,domestic,2019_to_2020,within_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2020_to_2021,composition_pp,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2020_to_2021,delta_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2020_to_2021,entry_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2020_to_2021,exit_pp,core24,True,L=LM;L=UM;L>H;LM=UM;LM>H;UM>H,0
+decomposition,domestic,2020_to_2021,within_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,composition_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,delta_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,entry_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,exit_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,within_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,early_to_late,composition_pp,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,early_to_late,delta_pp,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,early_to_late,entry_pp,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,early_to_late,exit_pp,core24,True,L>LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,domestic,early_to_late,within_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2013_to_2014,composition_pp,core24,False,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,2013_to_2014,delta_pp,core24,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,international_reporting,2013_to_2014,entry_pp,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM=H,0
+decomposition,international_reporting,2013_to_2014,exit_pp,core24,True,L=LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2013_to_2014,within_pp,core24,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,international_reporting,2014_to_2015,composition_pp,core24,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2014_to_2015,delta_pp,core24,True,L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2014_to_2015,entry_pp,core24,True,L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2014_to_2015,exit_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2014_to_2015,within_pp,core24,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2015_to_2016,composition_pp,core24,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,international_reporting,2015_to_2016,delta_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2015_to_2016,entry_pp,core24,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2015_to_2016,exit_pp,core24,True,L>LM;L>UM;L=H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2015_to_2016,within_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2016_to_2017,composition_pp,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2016_to_2017,delta_pp,core24,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2016_to_2017,entry_pp,core24,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,international_reporting,2016_to_2017,exit_pp,core24,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2016_to_2017,within_pp,core24,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,international_reporting,2017_to_2018,composition_pp,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2017_to_2018,delta_pp,core24,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2017_to_2018,entry_pp,core24,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2017_to_2018,exit_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2017_to_2018,within_pp,core24,True,L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,2018_to_2019,composition_pp,core24,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2018_to_2019,delta_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,2018_to_2019,entry_pp,core24,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,international_reporting,2018_to_2019,exit_pp,core24,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM=H,0
+decomposition,international_reporting,2018_to_2019,within_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2019_to_2020,composition_pp,core24,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2019_to_2020,delta_pp,core24,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM<H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2019_to_2020,entry_pp,core24,True,L<LM;L=UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2019_to_2020,exit_pp,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2019_to_2020,within_pp,core24,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM>H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,2020_to_2021,composition_pp,core24,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H | L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2020_to_2021,delta_pp,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2020_to_2021,entry_pp,core24,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2020_to_2021,exit_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2020_to_2021,within_pp,core24,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,2021_to_2022,composition_pp,core24,False,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2021_to_2022,delta_pp,core24,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2021_to_2022,entry_pp,core24,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2021_to_2022,exit_pp,core24,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2021_to_2022,within_pp,core24,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,early_to_late,composition_pp,core24,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,early_to_late,delta_pp,core24,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,early_to_late,entry_pp,core24,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,early_to_late,exit_pp,core24,True,L<LM;L>UM;L<H;LM>UM;LM=H;UM<H,0
+decomposition,international_reporting,early_to_late,within_pp,core24,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2013,amount,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2013,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2013,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2013,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2013,share_classified,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2013,share_observed,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2013,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2014,amount,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2014,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2014,lower_observed_bound,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2014,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2014,share_classified,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2014,share_observed,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2014,upper_observed_bound,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2015,amount,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2015,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2015,lower_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2015,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2015,share_classified,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2015,share_observed,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2015,upper_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2016,amount,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2016,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2016,lower_observed_bound,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2016,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2016,share_classified,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2016,share_observed,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2016,upper_observed_bound,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2017,amount,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2017,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2017,lower_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2017,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2017,share_classified,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2017,share_observed,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2017,upper_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2018,amount,agreement12,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2018,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2018,lower_observed_bound,agreement12,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2018,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2018,share_classified,agreement12,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2018,share_observed,agreement12,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2018,upper_observed_bound,agreement12,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2019,amount,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2019,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2019,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2019,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2019,share_classified,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2019,share_observed,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2019,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,amount,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2020,lower_observed_bound,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2020,share_classified,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,share_observed,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,upper_observed_bound,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2021,amount,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2021,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2021,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2021,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2021,share_classified,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2021,share_observed,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2021,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2022,amount,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2022,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2022,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2022,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2022,share_classified,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2022,share_observed,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2022,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,early,amount,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,early,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,early,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,early,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,early,share_classified,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,early,share_observed,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,early,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,late,amount,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,late,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,late,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,late,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,late,share_classified,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,late,share_observed,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,late,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2013,amount,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2013,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2013,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2013,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2013,share_classified,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2013,share_observed,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2013,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2014,amount,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2014,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2014,lower_observed_bound,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2014,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2014,share_classified,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2014,share_observed,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2014,upper_observed_bound,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2015,amount,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2015,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2015,lower_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2015,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2015,share_classified,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2015,share_observed,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2015,upper_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2016,amount,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2016,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2016,lower_observed_bound,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2016,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2016,share_classified,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2016,share_observed,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2016,upper_observed_bound,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2017,amount,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2017,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2017,lower_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2017,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2017,share_classified,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2017,share_observed,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2017,upper_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2018,amount,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2018,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2018,lower_observed_bound,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2018,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2018,share_classified,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2018,share_observed,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2018,upper_observed_bound,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,amount,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2019,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2019,share_classified,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,share_observed,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,amount,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2020,lower_observed_bound,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2020,share_classified,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,share_observed,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,upper_observed_bound,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,amount,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2021,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2021,share_classified,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,share_observed,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2022,amount,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2022,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2022,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2022,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2022,share_classified,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2022,share_observed,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2022,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,amount,agreement12,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,early,lower_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,early,share_classified,agreement12,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,share_observed,agreement12,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,upper_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,late,amount,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,late,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,late,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,late,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,late,share_classified,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,late,share_observed,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,late,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,domestic,2013,amount,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2013,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2013,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2013,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2013,share_classified,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2013,share_observed,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2013,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2014,amount,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2014,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2014,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2014,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2014,share_classified,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2014,share_observed,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2014,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2015,amount,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2015,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2015,lower_observed_bound,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2015,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2015,share_classified,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2015,share_observed,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2015,upper_observed_bound,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2016,amount,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2016,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2016,lower_observed_bound,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2016,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2016,share_classified,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2016,share_observed,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2016,upper_observed_bound,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2017,amount,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2017,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2017,lower_observed_bound,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2017,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2017,share_classified,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2017,share_observed,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2017,upper_observed_bound,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,amount,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2018,lower_observed_bound,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2018,share_classified,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,share_observed,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,upper_observed_bound,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,amount,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2019,lower_observed_bound,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2019,share_classified,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,share_observed,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,upper_observed_bound,agreement12,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2020,amount,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2020,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2020,lower_observed_bound,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2020,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2020,share_classified,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2020,share_observed,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2020,upper_observed_bound,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,amount,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2021,lower_observed_bound,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2021,share_classified,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,share_observed,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,upper_observed_bound,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,amount,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2022,lower_observed_bound,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2022,share_classified,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,share_observed,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,upper_observed_bound,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,early,amount,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,early,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,early,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,early,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,early,share_classified,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,early,share_observed,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,early,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,late,amount,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,late,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,late,lower_observed_bound,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,late,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,late,share_classified,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,late,share_observed,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,late,upper_observed_bound,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,international_reporting,2013,amount,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2013,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2013,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2013,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2013,share_classified,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2013,share_observed,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2013,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2014,amount,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2014,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2014,lower_observed_bound,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2014,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2014,share_classified,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2014,share_observed,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2014,upper_observed_bound,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2015,amount,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2015,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2015,lower_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2015,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2015,share_classified,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2015,share_observed,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2015,upper_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2016,amount,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2016,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2016,lower_observed_bound,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2016,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2016,share_classified,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2016,share_observed,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2016,upper_observed_bound,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2017,amount,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2017,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2017,lower_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2017,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2017,share_classified,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2017,share_observed,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2017,upper_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2018,amount,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2018,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2018,lower_observed_bound,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2018,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2018,share_classified,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2018,share_observed,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2018,upper_observed_bound,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,amount,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2019,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2019,share_classified,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,share_observed,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,amount,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2020,lower_observed_bound,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2020,share_classified,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,share_observed,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,upper_observed_bound,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2021,amount,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2021,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2021,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2021,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2021,share_classified,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2021,share_observed,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2021,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2022,amount,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2022,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2022,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2022,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2022,share_classified,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2022,share_observed,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2022,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,early,amount,agreement12,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,early,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,early,lower_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,early,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,early,share_classified,agreement12,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,early,share_observed,agreement12,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,early,upper_observed_bound,agreement12,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,late,amount,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,late,classified_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,late,lower_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,late,observed_denominator,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,late,share_classified,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,late,share_observed,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,late,upper_observed_bound,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2013_to_2014,composition_pp,agreement12,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2013_to_2014,delta_pp,agreement12,True,L>LM;L<UM;L>H;LM<UM;LM<H;UM>H,0
+decomposition,all_locations,2013_to_2014,entry_pp,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM=H,0
+decomposition,all_locations,2013_to_2014,exit_pp,agreement12,True,L=LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2013_to_2014,within_pp,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,all_locations,2014_to_2015,composition_pp,agreement12,False,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H | L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2014_to_2015,delta_pp,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2014_to_2015,entry_pp,agreement12,True,L>LM;L>UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,all_locations,2014_to_2015,exit_pp,agreement12,True,L>LM;L=UM;L=H;LM<UM;LM<H;UM=H,0
+decomposition,all_locations,2014_to_2015,within_pp,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2015_to_2016,composition_pp,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2015_to_2016,delta_pp,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2015_to_2016,entry_pp,agreement12,True,L>LM;L>UM;L>H;LM=UM;LM<H;UM<H,0
+decomposition,all_locations,2015_to_2016,exit_pp,agreement12,True,L>LM;L>UM;L=H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2015_to_2016,within_pp,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2016_to_2017,composition_pp,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2016_to_2017,delta_pp,agreement12,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2016_to_2017,entry_pp,agreement12,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,all_locations,2016_to_2017,exit_pp,agreement12,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2016_to_2017,within_pp,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,all_locations,2017_to_2018,composition_pp,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2017_to_2018,delta_pp,agreement12,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2017_to_2018,entry_pp,agreement12,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2017_to_2018,exit_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,all_locations,2017_to_2018,within_pp,agreement12,True,L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2018_to_2019,composition_pp,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2018_to_2019,delta_pp,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2018_to_2019,entry_pp,agreement12,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,all_locations,2018_to_2019,exit_pp,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM=H,0
+decomposition,all_locations,2018_to_2019,within_pp,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2019_to_2020,composition_pp,agreement12,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2019_to_2020,delta_pp,agreement12,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM<H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2019_to_2020,entry_pp,agreement12,True,L<LM;L=UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2019_to_2020,exit_pp,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2019_to_2020,within_pp,agreement12,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM>H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2020_to_2021,composition_pp,agreement12,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H | L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2020_to_2021,delta_pp,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2020_to_2021,entry_pp,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2020_to_2021,exit_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,all_locations,2020_to_2021,within_pp,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2021_to_2022,composition_pp,agreement12,False,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2021_to_2022,delta_pp,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2021_to_2022,entry_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,all_locations,2021_to_2022,exit_pp,agreement12,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2021_to_2022,within_pp,agreement12,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,early_to_late,composition_pp,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,early_to_late,delta_pp,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,early_to_late,entry_pp,agreement12,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,all_locations,early_to_late,exit_pp,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,early_to_late,within_pp,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2013_to_2014,composition_pp,agreement12,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2013_to_2014,delta_pp,agreement12,True,L>LM;L<UM;L>H;LM<UM;LM<H;UM>H,0
+decomposition,country_assigned_international,2013_to_2014,entry_pp,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM=H,0
+decomposition,country_assigned_international,2013_to_2014,exit_pp,agreement12,True,L=LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2013_to_2014,within_pp,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,country_assigned_international,2014_to_2015,composition_pp,agreement12,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2014_to_2015,delta_pp,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2014_to_2015,entry_pp,agreement12,True,L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2014_to_2015,exit_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2014_to_2015,within_pp,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2015_to_2016,composition_pp,agreement12,True,L>LM;L>UM;L>H;LM<UM;LM<H;UM>H,0
+decomposition,country_assigned_international,2015_to_2016,delta_pp,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2015_to_2016,entry_pp,agreement12,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2015_to_2016,exit_pp,agreement12,True,L>LM;L>UM;L=H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2015_to_2016,within_pp,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2016_to_2017,composition_pp,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2016_to_2017,delta_pp,agreement12,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2016_to_2017,entry_pp,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2016_to_2017,exit_pp,agreement12,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2016_to_2017,within_pp,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,country_assigned_international,2017_to_2018,composition_pp,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2017_to_2018,delta_pp,agreement12,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2017_to_2018,entry_pp,agreement12,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2017_to_2018,exit_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2017_to_2018,within_pp,agreement12,True,L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2018_to_2019,composition_pp,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2018_to_2019,delta_pp,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2018_to_2019,entry_pp,agreement12,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,country_assigned_international,2018_to_2019,exit_pp,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM=H,0
+decomposition,country_assigned_international,2018_to_2019,within_pp,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2019_to_2020,composition_pp,agreement12,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2019_to_2020,delta_pp,agreement12,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM<H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2019_to_2020,entry_pp,agreement12,True,L<LM;L=UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2019_to_2020,exit_pp,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2019_to_2020,within_pp,agreement12,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM>H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2020_to_2021,composition_pp,agreement12,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H | L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2020_to_2021,delta_pp,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2020_to_2021,entry_pp,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2020_to_2021,exit_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2020_to_2021,within_pp,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2021_to_2022,composition_pp,agreement12,False,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2021_to_2022,delta_pp,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2021_to_2022,entry_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2021_to_2022,exit_pp,agreement12,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2021_to_2022,within_pp,agreement12,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,early_to_late,composition_pp,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,early_to_late,delta_pp,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,early_to_late,entry_pp,agreement12,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,early_to_late,exit_pp,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM=H;UM<H,0
+decomposition,country_assigned_international,early_to_late,within_pp,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,domestic,2013_to_2014,composition_pp,agreement12,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2013_to_2014,delta_pp,agreement12,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2013_to_2014,entry_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2013_to_2014,exit_pp,agreement12,True,L=LM;L=UM;L>H;LM=UM;LM>H;UM>H,0
+decomposition,domestic,2013_to_2014,within_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2014_to_2015,composition_pp,agreement12,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2014_to_2015,delta_pp,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2014_to_2015,entry_pp,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2014_to_2015,exit_pp,agreement12,True,L>LM;L=UM;L=H;LM<UM;LM<H;UM=H,0
+decomposition,domestic,2014_to_2015,within_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2015_to_2016,composition_pp,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2015_to_2016,delta_pp,agreement12,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2015_to_2016,entry_pp,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2015_to_2016,exit_pp,agreement12,True,L=LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,domestic,2015_to_2016,within_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2016_to_2017,composition_pp,agreement12,True,L=LM;L=UM;L>H;LM=UM;LM>H;UM>H,0
+decomposition,domestic,2016_to_2017,delta_pp,agreement12,True,L=LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2016_to_2017,entry_pp,agreement12,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,domestic,2016_to_2017,exit_pp,agreement12,True,L=LM;L=UM;L>H;LM=UM;LM>H;UM>H,0
+decomposition,domestic,2016_to_2017,within_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2017_to_2018,composition_pp,agreement12,True,L=LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2017_to_2018,delta_pp,agreement12,True,L=LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2017_to_2018,entry_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2017_to_2018,exit_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2017_to_2018,within_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2018_to_2019,composition_pp,agreement12,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2018_to_2019,delta_pp,agreement12,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2018_to_2019,entry_pp,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2018_to_2019,exit_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2018_to_2019,within_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2019_to_2020,composition_pp,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2019_to_2020,delta_pp,agreement12,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2019_to_2020,entry_pp,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2019_to_2020,exit_pp,agreement12,True,L=LM;L>UM;L=H;LM>UM;LM=H;UM<H,0
+decomposition,domestic,2019_to_2020,within_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2020_to_2021,composition_pp,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2020_to_2021,delta_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2020_to_2021,entry_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2020_to_2021,exit_pp,agreement12,True,L=LM;L=UM;L>H;LM=UM;LM>H;UM>H,0
+decomposition,domestic,2020_to_2021,within_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,composition_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,delta_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,entry_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,exit_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,within_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,early_to_late,composition_pp,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,early_to_late,delta_pp,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,early_to_late,entry_pp,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,early_to_late,exit_pp,agreement12,True,L>LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,domestic,early_to_late,within_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2013_to_2014,composition_pp,agreement12,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2013_to_2014,delta_pp,agreement12,True,L>LM;L<UM;L>H;LM<UM;LM<H;UM>H,0
+decomposition,international_reporting,2013_to_2014,entry_pp,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM=H,0
+decomposition,international_reporting,2013_to_2014,exit_pp,agreement12,True,L=LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2013_to_2014,within_pp,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,international_reporting,2014_to_2015,composition_pp,agreement12,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2014_to_2015,delta_pp,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2014_to_2015,entry_pp,agreement12,True,L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2014_to_2015,exit_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2014_to_2015,within_pp,agreement12,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2015_to_2016,composition_pp,agreement12,True,L>LM;L>UM;L>H;LM<UM;LM<H;UM>H,0
+decomposition,international_reporting,2015_to_2016,delta_pp,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2015_to_2016,entry_pp,agreement12,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2015_to_2016,exit_pp,agreement12,True,L>LM;L>UM;L=H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2015_to_2016,within_pp,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2016_to_2017,composition_pp,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2016_to_2017,delta_pp,agreement12,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2016_to_2017,entry_pp,agreement12,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,international_reporting,2016_to_2017,exit_pp,agreement12,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2016_to_2017,within_pp,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,international_reporting,2017_to_2018,composition_pp,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2017_to_2018,delta_pp,agreement12,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2017_to_2018,entry_pp,agreement12,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2017_to_2018,exit_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2017_to_2018,within_pp,agreement12,True,L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,2018_to_2019,composition_pp,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2018_to_2019,delta_pp,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,2018_to_2019,entry_pp,agreement12,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,international_reporting,2018_to_2019,exit_pp,agreement12,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM=H,0
+decomposition,international_reporting,2018_to_2019,within_pp,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2019_to_2020,composition_pp,agreement12,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2019_to_2020,delta_pp,agreement12,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM<H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2019_to_2020,entry_pp,agreement12,True,L<LM;L=UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2019_to_2020,exit_pp,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2019_to_2020,within_pp,agreement12,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM>H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,2020_to_2021,composition_pp,agreement12,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H | L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2020_to_2021,delta_pp,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2020_to_2021,entry_pp,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2020_to_2021,exit_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2020_to_2021,within_pp,agreement12,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,2021_to_2022,composition_pp,agreement12,False,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2021_to_2022,delta_pp,agreement12,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2021_to_2022,entry_pp,agreement12,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2021_to_2022,exit_pp,agreement12,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2021_to_2022,within_pp,agreement12,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,early_to_late,composition_pp,agreement12,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,early_to_late,delta_pp,agreement12,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,early_to_late,entry_pp,agreement12,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,early_to_late,exit_pp,agreement12,True,L<LM;L>UM;L<H;LM>UM;LM=H;UM<H,0
+decomposition,international_reporting,early_to_late,within_pp,agreement12,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2013,amount,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2013,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2013,lower_observed_bound,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2013,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2013,share_classified,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2013,share_observed,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2013,upper_observed_bound,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2014,amount,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2014,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2014,lower_observed_bound,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2014,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2014,share_classified,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2014,share_observed,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2014,upper_observed_bound,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,all_locations,2015,amount,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2015,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2015,lower_observed_bound,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2015,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2015,share_classified,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2015,share_observed,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2015,upper_observed_bound,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2016,amount,combined36,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2016,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2016,lower_observed_bound,combined36,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2016,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2016,share_classified,combined36,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2016,share_observed,combined36,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2016,upper_observed_bound,combined36,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+allocation,all_locations,2017,amount,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2017,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2017,lower_observed_bound,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2017,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2017,share_classified,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2017,share_observed,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2017,upper_observed_bound,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2018,amount,combined36,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2018,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2018,lower_observed_bound,combined36,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2018,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2018,share_classified,combined36,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2018,share_observed,combined36,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2018,upper_observed_bound,combined36,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2019,amount,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2019,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2019,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2019,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2019,share_classified,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2019,share_observed,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2019,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,amount,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2020,lower_observed_bound,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2020,share_classified,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,share_observed,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2020,upper_observed_bound,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,2021,amount,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2021,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2021,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2021,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2021,share_classified,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2021,share_observed,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2021,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,all_locations,2022,amount,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2022,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2022,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2022,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,2022,share_classified,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2022,share_observed,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,2022,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,all_locations,early,amount,combined36,False,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,early,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,early,lower_observed_bound,combined36,False,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,early,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,early,share_classified,combined36,False,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,early,share_observed,combined36,False,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,early,upper_observed_bound,combined36,False,L<LM;L<UM;L<H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,all_locations,late,amount,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,late,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,late,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,late,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,all_locations,late,share_classified,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,late,share_observed,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,all_locations,late,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2013,amount,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2013,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2013,lower_observed_bound,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2013,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2013,share_classified,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2013,share_observed,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2013,upper_observed_bound,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2014,amount,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2014,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2014,lower_observed_bound,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2014,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2014,share_classified,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2014,share_observed,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2014,upper_observed_bound,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,country_assigned_international,2015,amount,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2015,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2015,lower_observed_bound,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2015,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2015,share_classified,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2015,share_observed,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2015,upper_observed_bound,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2016,amount,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2016,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2016,lower_observed_bound,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2016,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2016,share_classified,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2016,share_observed,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2016,upper_observed_bound,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,country_assigned_international,2017,amount,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2017,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2017,lower_observed_bound,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2017,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2017,share_classified,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2017,share_observed,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2017,upper_observed_bound,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2018,amount,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2018,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2018,lower_observed_bound,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2018,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2018,share_classified,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2018,share_observed,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2018,upper_observed_bound,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,amount,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2019,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2019,share_classified,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,share_observed,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2019,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,amount,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2020,lower_observed_bound,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2020,share_classified,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,share_observed,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2020,upper_observed_bound,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,amount,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2021,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2021,share_classified,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,share_observed,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2021,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,country_assigned_international,2022,amount,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2022,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2022,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2022,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,2022,share_classified,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2022,share_observed,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,2022,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,amount,combined36,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,early,lower_observed_bound,combined36,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,early,share_classified,combined36,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,share_observed,combined36,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,early,upper_observed_bound,combined36,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,country_assigned_international,late,amount,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,late,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,late,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,late,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,country_assigned_international,late,share_classified,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,late,share_observed,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,country_assigned_international,late,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,domestic,2013,amount,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2013,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2013,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2013,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2013,share_classified,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2013,share_observed,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2013,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2014,amount,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2014,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2014,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2014,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2014,share_classified,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2014,share_observed,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2014,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2015,amount,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2015,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2015,lower_observed_bound,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2015,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2015,share_classified,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2015,share_observed,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2015,upper_observed_bound,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,2016,amount,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2016,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2016,lower_observed_bound,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2016,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2016,share_classified,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2016,share_observed,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2016,upper_observed_bound,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2017,amount,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2017,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2017,lower_observed_bound,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2017,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2017,share_classified,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2017,share_observed,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2017,upper_observed_bound,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,amount,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2018,lower_observed_bound,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2018,share_classified,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,share_observed,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2018,upper_observed_bound,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,amount,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2019,lower_observed_bound,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2019,share_classified,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,share_observed,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2019,upper_observed_bound,combined36,True,L=LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,domestic,2020,amount,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2020,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2020,lower_observed_bound,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2020,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2020,share_classified,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2020,share_observed,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2020,upper_observed_bound,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,amount,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2021,lower_observed_bound,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2021,share_classified,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,share_observed,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2021,upper_observed_bound,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,amount,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2022,lower_observed_bound,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,2022,share_classified,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,share_observed,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,2022,upper_observed_bound,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,early,amount,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,early,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,early,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,early,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,early,share_classified,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,early,share_observed,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,early,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,domestic,late,amount,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,late,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,late,lower_observed_bound,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,late,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,domestic,late,share_classified,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,late,share_observed,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,domestic,late,upper_observed_bound,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+allocation,international_reporting,2013,amount,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2013,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2013,lower_observed_bound,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2013,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2013,share_classified,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2013,share_observed,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2013,upper_observed_bound,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2014,amount,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2014,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2014,lower_observed_bound,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2014,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2014,share_classified,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2014,share_observed,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2014,upper_observed_bound,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+allocation,international_reporting,2015,amount,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2015,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2015,lower_observed_bound,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2015,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2015,share_classified,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2015,share_observed,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2015,upper_observed_bound,combined36,False,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2016,amount,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2016,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2016,lower_observed_bound,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2016,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2016,share_classified,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2016,share_observed,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2016,upper_observed_bound,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+allocation,international_reporting,2017,amount,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2017,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2017,lower_observed_bound,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2017,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2017,share_classified,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2017,share_observed,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2017,upper_observed_bound,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2018,amount,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2018,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2018,lower_observed_bound,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2018,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2018,share_classified,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2018,share_observed,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2018,upper_observed_bound,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,amount,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2019,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2019,share_classified,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,share_observed,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2019,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,amount,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2020,lower_observed_bound,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2020,share_classified,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,share_observed,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2020,upper_observed_bound,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,2021,amount,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2021,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2021,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2021,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2021,share_classified,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2021,share_observed,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2021,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+allocation,international_reporting,2022,amount,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2022,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2022,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2022,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,2022,share_classified,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2022,share_observed,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,2022,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+allocation,international_reporting,early,amount,combined36,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,early,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,early,lower_observed_bound,combined36,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,early,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,early,share_classified,combined36,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,early,share_observed,combined36,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,early,upper_observed_bound,combined36,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+allocation,international_reporting,late,amount,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,late,classified_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,late,lower_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,late,observed_denominator,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+allocation,international_reporting,late,share_classified,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,late,share_observed,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+allocation,international_reporting,late,upper_observed_bound,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2013_to_2014,composition_pp,combined36,False,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L<UM;L>H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L<H;LM<UM;LM<H;UM<H | L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2013_to_2014,delta_pp,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L>H;LM<UM;LM<H;UM>H,0
+decomposition,all_locations,2013_to_2014,entry_pp,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM=H,0
+decomposition,all_locations,2013_to_2014,exit_pp,combined36,True,L=LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2013_to_2014,within_pp,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,all_locations,2014_to_2015,composition_pp,combined36,False,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H | L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2014_to_2015,delta_pp,combined36,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2014_to_2015,entry_pp,combined36,True,L>LM;L>UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,all_locations,2014_to_2015,exit_pp,combined36,True,L>LM;L=UM;L=H;LM<UM;LM<H;UM=H,0
+decomposition,all_locations,2014_to_2015,within_pp,combined36,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2015_to_2016,composition_pp,combined36,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2015_to_2016,delta_pp,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM<H | L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2015_to_2016,entry_pp,combined36,True,L>LM;L>UM;L>H;LM=UM;LM<H;UM<H,0
+decomposition,all_locations,2015_to_2016,exit_pp,combined36,True,L>LM;L>UM;L=H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2015_to_2016,within_pp,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM<H | L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2016_to_2017,composition_pp,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2016_to_2017,delta_pp,combined36,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2016_to_2017,entry_pp,combined36,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,all_locations,2016_to_2017,exit_pp,combined36,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2016_to_2017,within_pp,combined36,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,all_locations,2017_to_2018,composition_pp,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2017_to_2018,delta_pp,combined36,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2017_to_2018,entry_pp,combined36,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2017_to_2018,exit_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,all_locations,2017_to_2018,within_pp,combined36,True,L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2018_to_2019,composition_pp,combined36,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2018_to_2019,delta_pp,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2018_to_2019,entry_pp,combined36,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,all_locations,2018_to_2019,exit_pp,combined36,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM=H,0
+decomposition,all_locations,2018_to_2019,within_pp,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2019_to_2020,composition_pp,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2019_to_2020,delta_pp,combined36,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM<H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2019_to_2020,entry_pp,combined36,True,L<LM;L=UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2019_to_2020,exit_pp,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2019_to_2020,within_pp,combined36,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM>H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2020_to_2021,composition_pp,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H | L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2020_to_2021,delta_pp,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,2020_to_2021,entry_pp,combined36,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,2020_to_2021,exit_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,all_locations,2020_to_2021,within_pp,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,2021_to_2022,composition_pp,combined36,False,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2021_to_2022,delta_pp,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,all_locations,2021_to_2022,entry_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,all_locations,2021_to_2022,exit_pp,combined36,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,2021_to_2022,within_pp,combined36,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,all_locations,early_to_late,composition_pp,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,all_locations,early_to_late,delta_pp,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,all_locations,early_to_late,entry_pp,combined36,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,all_locations,early_to_late,exit_pp,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,all_locations,early_to_late,within_pp,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2013_to_2014,composition_pp,combined36,False,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2013_to_2014,delta_pp,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L>H;LM<UM;LM<H;UM>H,0
+decomposition,country_assigned_international,2013_to_2014,entry_pp,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM=H,0
+decomposition,country_assigned_international,2013_to_2014,exit_pp,combined36,True,L=LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2013_to_2014,within_pp,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,country_assigned_international,2014_to_2015,composition_pp,combined36,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2014_to_2015,delta_pp,combined36,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2014_to_2015,entry_pp,combined36,True,L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2014_to_2015,exit_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2014_to_2015,within_pp,combined36,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2015_to_2016,composition_pp,combined36,False,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L>UM;L>H;LM<UM;LM<H;UM>H,0
+decomposition,country_assigned_international,2015_to_2016,delta_pp,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM<H | L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2015_to_2016,entry_pp,combined36,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2015_to_2016,exit_pp,combined36,True,L>LM;L>UM;L=H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2015_to_2016,within_pp,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM<H | L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2016_to_2017,composition_pp,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2016_to_2017,delta_pp,combined36,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2016_to_2017,entry_pp,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2016_to_2017,exit_pp,combined36,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2016_to_2017,within_pp,combined36,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,country_assigned_international,2017_to_2018,composition_pp,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2017_to_2018,delta_pp,combined36,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2017_to_2018,entry_pp,combined36,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2017_to_2018,exit_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2017_to_2018,within_pp,combined36,True,L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2018_to_2019,composition_pp,combined36,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2018_to_2019,delta_pp,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2018_to_2019,entry_pp,combined36,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,country_assigned_international,2018_to_2019,exit_pp,combined36,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM=H,0
+decomposition,country_assigned_international,2018_to_2019,within_pp,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2019_to_2020,composition_pp,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2019_to_2020,delta_pp,combined36,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM<H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2019_to_2020,entry_pp,combined36,True,L<LM;L=UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2019_to_2020,exit_pp,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2019_to_2020,within_pp,combined36,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM>H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2020_to_2021,composition_pp,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H | L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2020_to_2021,delta_pp,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2020_to_2021,entry_pp,combined36,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,country_assigned_international,2020_to_2021,exit_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2020_to_2021,within_pp,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,2021_to_2022,composition_pp,combined36,False,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2021_to_2022,delta_pp,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2021_to_2022,entry_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,2021_to_2022,exit_pp,combined36,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,2021_to_2022,within_pp,combined36,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,country_assigned_international,early_to_late,composition_pp,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,country_assigned_international,early_to_late,delta_pp,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,country_assigned_international,early_to_late,entry_pp,combined36,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,country_assigned_international,early_to_late,exit_pp,combined36,True,L<LM;L>UM;L<H;LM>UM;LM=H;UM<H,0
+decomposition,country_assigned_international,early_to_late,within_pp,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,domestic,2013_to_2014,composition_pp,combined36,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2013_to_2014,delta_pp,combined36,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2013_to_2014,entry_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2013_to_2014,exit_pp,combined36,True,L=LM;L=UM;L>H;LM=UM;LM>H;UM>H,0
+decomposition,domestic,2013_to_2014,within_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2014_to_2015,composition_pp,combined36,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2014_to_2015,delta_pp,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2014_to_2015,entry_pp,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2014_to_2015,exit_pp,combined36,True,L>LM;L=UM;L=H;LM<UM;LM<H;UM=H,0
+decomposition,domestic,2014_to_2015,within_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2015_to_2016,composition_pp,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2015_to_2016,delta_pp,combined36,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2015_to_2016,entry_pp,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2015_to_2016,exit_pp,combined36,True,L=LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,domestic,2015_to_2016,within_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2016_to_2017,composition_pp,combined36,True,L=LM;L=UM;L>H;LM=UM;LM>H;UM>H,0
+decomposition,domestic,2016_to_2017,delta_pp,combined36,True,L=LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2016_to_2017,entry_pp,combined36,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,domestic,2016_to_2017,exit_pp,combined36,True,L=LM;L=UM;L>H;LM=UM;LM>H;UM>H,0
+decomposition,domestic,2016_to_2017,within_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2017_to_2018,composition_pp,combined36,True,L=LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2017_to_2018,delta_pp,combined36,True,L=LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,domestic,2017_to_2018,entry_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2017_to_2018,exit_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2017_to_2018,within_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2018_to_2019,composition_pp,combined36,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2018_to_2019,delta_pp,combined36,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2018_to_2019,entry_pp,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2018_to_2019,exit_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2018_to_2019,within_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2019_to_2020,composition_pp,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2019_to_2020,delta_pp,combined36,True,L=LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,2019_to_2020,entry_pp,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2019_to_2020,exit_pp,combined36,True,L=LM;L>UM;L=H;LM>UM;LM=H;UM<H,0
+decomposition,domestic,2019_to_2020,within_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2020_to_2021,composition_pp,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,2020_to_2021,delta_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2020_to_2021,entry_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2020_to_2021,exit_pp,combined36,True,L=LM;L=UM;L>H;LM=UM;LM>H;UM>H,0
+decomposition,domestic,2020_to_2021,within_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,composition_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,delta_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,entry_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,exit_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,2021_to_2022,within_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,domestic,early_to_late,composition_pp,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,early_to_late,delta_pp,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,domestic,early_to_late,entry_pp,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,domestic,early_to_late,exit_pp,combined36,True,L>LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,domestic,early_to_late,within_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2013_to_2014,composition_pp,combined36,False,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L<UM;L>H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2013_to_2014,delta_pp,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L>H;LM<UM;LM<H;UM>H,0
+decomposition,international_reporting,2013_to_2014,entry_pp,combined36,True,L<LM;L>UM;L>H;LM>UM;LM>H;UM=H,0
+decomposition,international_reporting,2013_to_2014,exit_pp,combined36,True,L=LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2013_to_2014,within_pp,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,international_reporting,2014_to_2015,composition_pp,combined36,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2014_to_2015,delta_pp,combined36,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2014_to_2015,entry_pp,combined36,True,L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2014_to_2015,exit_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2014_to_2015,within_pp,combined36,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2015_to_2016,composition_pp,combined36,False,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H | L>LM;L>UM;L>H;LM<UM;LM<H;UM>H,0
+decomposition,international_reporting,2015_to_2016,delta_pp,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM<H | L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2015_to_2016,entry_pp,combined36,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2015_to_2016,exit_pp,combined36,True,L>LM;L>UM;L=H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2015_to_2016,within_pp,combined36,False,L<LM;L<UM;L<H;LM>UM;LM>H;UM<H | L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2016_to_2017,composition_pp,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2016_to_2017,delta_pp,combined36,True,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2016_to_2017,entry_pp,combined36,True,L=LM;L=UM;L<H;LM=UM;LM<H;UM<H,0
+decomposition,international_reporting,2016_to_2017,exit_pp,combined36,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2016_to_2017,within_pp,combined36,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM>H,0
+decomposition,international_reporting,2017_to_2018,composition_pp,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2017_to_2018,delta_pp,combined36,True,L>LM;L>UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2017_to_2018,entry_pp,combined36,True,L>LM;L<UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2017_to_2018,exit_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2017_to_2018,within_pp,combined36,True,L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,2018_to_2019,composition_pp,combined36,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2018_to_2019,delta_pp,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,2018_to_2019,entry_pp,combined36,True,L=LM;L<UM;L=H;LM<UM;LM=H;UM>H,0
+decomposition,international_reporting,2018_to_2019,exit_pp,combined36,True,L>LM;L<UM;L<H;LM<UM;LM<H;UM=H,0
+decomposition,international_reporting,2018_to_2019,within_pp,combined36,True,L<LM;L<UM;L<H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2019_to_2020,composition_pp,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM>H | L<LM;L<UM;L<H;LM>UM;LM>H;UM>H | L<LM;L>UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2019_to_2020,delta_pp,combined36,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM<H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2019_to_2020,entry_pp,combined36,True,L<LM;L=UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2019_to_2020,exit_pp,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2019_to_2020,within_pp,combined36,False,L>LM;L>UM;L>H;LM<UM;LM<H;UM>H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,2020_to_2021,composition_pp,combined36,False,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H | L>LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2020_to_2021,delta_pp,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,2020_to_2021,entry_pp,combined36,True,L<LM;L>UM;L<H;LM>UM;LM>H;UM<H,0
+decomposition,international_reporting,2020_to_2021,exit_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2020_to_2021,within_pp,combined36,True,L<LM;L<UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,2021_to_2022,composition_pp,combined36,False,L<LM;L<UM;L>H;LM<UM;LM>H;UM>H | L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2021_to_2022,delta_pp,combined36,True,L<LM;L<UM;L>H;LM>UM;LM>H;UM>H,0
+decomposition,international_reporting,2021_to_2022,entry_pp,combined36,True,L=LM;L=UM;L=H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,2021_to_2022,exit_pp,combined36,True,L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,2021_to_2022,within_pp,combined36,False,L<LM;L>UM;L>H;LM>UM;LM>H;UM>H | L>LM;L>UM;L>H;LM<UM;LM>H;UM>H,0
+decomposition,international_reporting,early_to_late,composition_pp,combined36,True,L<LM;L<UM;L<H;LM<UM;LM<H;UM<H,0
+decomposition,international_reporting,early_to_late,delta_pp,combined36,True,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H,0
+decomposition,international_reporting,early_to_late,entry_pp,combined36,True,L>LM;L>UM;L>H;LM=UM;LM=H;UM=H,0
+decomposition,international_reporting,early_to_late,exit_pp,combined36,True,L<LM;L>UM;L<H;LM>UM;LM=H;UM<H,0
+decomposition,international_reporting,early_to_late,within_pp,combined36,False,L>LM;L>UM;L<H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM<H;UM<H | L>LM;L>UM;L>H;LM>UM;LM>H;UM<H,0

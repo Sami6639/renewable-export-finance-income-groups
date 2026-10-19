@@ -1,0 +1,16 @@
+{
+  "raw_numeric_disagreements": [],
+  "rows": 2908,
+  "eligible": 2904,
+  "flagged": 34,
+  "flagged_renewable_rows": [
+    1907,
+    1908,
+    1976,
+    8176,
+    9180,
+    9622
+  ],
+  "protocol_sha256": "171a82601f70cc9f0cc35917fc37205f8f9bce2e6cd76c318e1a3d4c62d375b6",
+  "revised_outcomes_calculated": false
+}

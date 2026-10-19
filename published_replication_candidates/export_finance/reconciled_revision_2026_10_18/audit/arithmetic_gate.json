@@ -1,0 +1,13 @@
+{
+  "protocol_sha256": "7834022e03efc32a3b6b6bfdab74c8651c65b73d7b98ae177d98221ca3126382",
+  "screen_rows": 2908,
+  "material_rows": 34,
+  "usd_xr1_rows": 7,
+  "additional_renewable_flagged_ids": [
+    1976,
+    8176,
+    9180,
+    9622
+  ],
+  "status": "STOP_REVIEW_ADDITIONAL_RENEWABLE_FLAGS"
+}

@@ -1,0 +1,5 @@
+scenario,panel,unit_type,unit_id,deletion_status,fixed_source_excel_rows,fixed_source_row_count,scenario_included_source_row_count,panel_included_source_row_count,removed_component_count,removed_observed_amount_usd,removed_classified_amount_usd,removed_missing_amount_count,removed_zero_amount_count,removed_endpoint_component_count,record_provider,original_year,analytical_year,original_recorded_amount_usd,analytical_amount_usd,scenario_included,panel_included,record_income_class,recipient_status,scenario_exclusion_reason
+A1O1G1D1,international_reporting,record,8129,deleted,[8129],1,1,1,1,1720000000.0,1720000000.0,0,0,1,China,2020.0,2020.0,1720000000.0,1720000000.0,True,True,L,assigned_country,
+A1O1G1D1,international_reporting,package,Standard Bank 1907/1908,deleted,"[1907,1908]",2,2,2,2,237500000.0,0.0,0,0,2,,,,,,,,,,
+A1O1G1D1,international_reporting,package,Karuma 109/2253,deleted,"[109,2253]",2,1,1,1,1435000000.0,1435000000.0,0,0,1,,,,,,,,,,
+A1O1G1D1,international_reporting,package,Dogger 7410/8034/8413,deleted,"[7410,8034,8413]",3,1,1,1,523030000.0,523030000.0,0,0,1,,,,,,,,,,

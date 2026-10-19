@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-18T14:59:16.312896+00:00",
+  "protocol_sha256": "171a82601f70cc9f0cc35917fc37205f8f9bce2e6cd76c318e1a3d4c62d375b6",
+  "amendment_sha256": "ecb04ed731402105eb1a93b0fc2dd6035a19802c0a65ccc1c127fd867740e941",
+  "core_cases": 24,
+  "agreement_cases": 12,
+  "quarantine_companions": 24,
+  "regional_source_cases": 18,
+  "regional_panels": 2,
+  "regional_vertices_per_case": 4,
+  "influence_endpoint_rows": 169632,
+  "influence_annual_rows": 1696320,
+  "scope": "Independent numerical reproduction and export review; not a journal-strength or true-exposure certification",
+  "resolved_issue": "Sub-ULP core/Q1 extremum-attainer discrepancy repaired using round-trip CSV parsing; exact test has zero discrepancies",
+  "preexisting_files_unchanged": 141,
+  "deposited_workbook_unchanged": true
+}

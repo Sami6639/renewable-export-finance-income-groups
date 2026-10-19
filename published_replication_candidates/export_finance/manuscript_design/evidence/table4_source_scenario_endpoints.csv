@@ -1,0 +1,5 @@
+scenario,technology,period,fixed_income_FY,monetary_basis,observed_usd,classified_usd,high_usd,non_high_usd,unclassified_usd,entries,classified_entries,missing_amount_entries,amount_income_coverage,entry_income_coverage,high_share_classified
+Archive,Renewable,early,2013,Nominal USD,23454976749.0,23454976749.0,2556213120.0,20898763629.0,0.0,132,132,0,1.0,1.0,0.10898382664604363
+Archive,Renewable,late,2013,Nominal USD,18156477640.437286,18156477640.437286,9303519633.0,8852958007.437286,0.0,175,175,1,1.0,1.0,0.5124077377365102
+Quarantine,Renewable,early,2013,Nominal USD,23454976749.0,23454976749.0,2556213120.0,20898763629.0,0.0,132,132,0,1.0,1.0,0.10898382664604363
+Quarantine,Renewable,late,2013,Nominal USD,13576527640.437284,13576527640.437284,4723569633.0,8852958007.437284,0.0,172,172,1,1.0,1.0,0.34792177779913236

@@ -1,0 +1,18 @@
+{
+  "source_excel_row": 9180,
+  "reviewed_utc": "2026-10-18T14:44:38.956006+00:00",
+  "original_amount_gbp": 189800000,
+  "recorded_usd": 137984600,
+  "recorded_xr": 1.273,
+  "recorded_product_usd": 241615399.99999997,
+  "primary_source_url": "https://www.gov.uk/government/publications/category-a-project-supported-kaparinar-yeka-kalyon-solar-power-plant-turkey/category-a-project-supported-kaparinar-yeka-kalyon-solar-power-plant-turkey",
+  "source_publication_date": "2022-03-01",
+  "locator": "Section 6 Amount of UK Export Finance support",
+  "exact_short_quote": "The principal value of the support is £189.8m",
+  "separate_announcement_url": "https://www.gov.uk/government/news/uk-to-provide-217-million-for-turkish-solar-project",
+  "announcement_date": "2021-11-15",
+  "announcement_gbp": 217000000,
+  "announcement_usd": 291000000,
+  "interpretation": "Original GBP principal is directly source-supported. Recorded USD does not match original times recorded XR. The separate announcement describes a buyer credit facility; do not substitute that larger value for principal. Actual exchange-rate date/convention and basis reconciliation remain unverified. No source or outcome altered.",
+  "recommendation": "Retain original values in base; a prospectively defined whole-flagged-block exclusion can test dependence. A mechanical original-times-XR value is an arithmetic sensitivity only, not a certified financing amount."
+}

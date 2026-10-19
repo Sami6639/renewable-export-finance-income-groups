@@ -1,0 +1,49 @@
+{
+  "inputs": [
+    {
+      "path": "published_replication_candidates/export_finance/CenskowskyEtAl_ECA_ReplicationPackage.zip",
+      "bytes": 9923138,
+      "sha256": "9343b682c6146b5af3ef057d2c5de191c223a797c7bac7d4aa50c5449bbb4d5a"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/package/CenskowskyEtAl_ECA_ReplicationPackage/data/OCI Public Finance for Energy Database 2024.xlsx",
+      "bytes": 10567648,
+      "sha256": "deea3370e76b510a06aa632eb17de048598d8476de2d7266fdfde72de1c12936"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/package/CenskowskyEtAl_ECA_ReplicationPackage/data/240918 IMF IFS - US CPI.xlsx",
+      "bytes": 10931,
+      "sha256": "f908434c1dff6c3239610bb901fa803a108cf98a5b382d960f2c390f1d3ecfe8"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/package/CenskowskyEtAl_ECA_ReplicationPackage/data/240801 ISO3-ISO2-codes.xlsx",
+      "bytes": 21151,
+      "sha256": "50091adfa60155a64428bc18e9137071f69bfd1227bcf2feed3da66bf2f35a07"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/package/CenskowskyEtAl_ECA_ReplicationPackage/SourceData_SupplementaryFigures.xlsx",
+      "bytes": 52335,
+      "sha256": "860a4f8337860934dcc86522fa5bd9e8209ebae1b66aba77dddcbc2bcc3a5616"
+    },
+    {
+      "path": "renewable_finance_recovery/financial_transition_panel/raw/income_history.xlsx",
+      "bytes": 115957,
+      "sha256": "a4024eb8052150155034559daf053aabbc16336d8290efeb5629e6eeb6515a60"
+    }
+  ],
+  "sources": {
+    "publication": "https://doi.org/10.1038/s41467-025-55981-0",
+    "replication_archive": "https://zenodo.org/records/14261240",
+    "historical_income": "https://ddh-openapi.worldbank.org/resources/DR0095334/download",
+    "BPI_contract_archive": "https://www.bpifrance.com/storage/sites/7/2023/05/Liste-contrats-garantis-2004-2022.zip"
+  },
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "packages": {
+      "pandas": "2.2.3",
+      "numpy": "2.3.5",
+      "openpyxl": "3.1.5",
+      "matplotlib": "3.10.8"
+    }
+  }
+}

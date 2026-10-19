@@ -1,0 +1,5 @@
+operation,source_excel_rows,evidence_and_status,approved_treatment
+A: amount,1907; 1908,Direct loan USD125m; combined support USD237.5m. Guarantee USD112.5m is derived by subtraction.,A1 retains two instruments at USD125m and USD112.5m; assumes same-operation scope and additivity. A0 retains USD1.25bn each.
+O: overlap,109; 2253,Two signed contracts total approximately USD1.435bn for the same EPC package; strong overlap inference.,"O1 removes row109 and retains row2253 at USD1.435bn, archive FY2015. Agreement years form a separate overlay."
+G: country role,1907; 1908,South Africa is intermediary location; documented intended project region is Sub-Saharan Africa.,"G1 retains observed amounts in the international reporting portfolio, but removes them from classified income and country-assigned scope."
+D: financial basis,7410; 8413; 8034,Rows7410/8413 trace to guaranteed export-contract values; row8034 remains an unresolved financing-layer amount.,D1 excludes rows7410/8413 and retains row8034; D2 excludes all three. Neither is certified principal or a true-exposure bound.

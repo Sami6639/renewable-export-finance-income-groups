@@ -1,0 +1,9 @@
+from audit_outcomes import *
+z=pd.read_csv(O/'independent_decomposition.csv');g=z.groupby(['scenario','geography','pair']);r1=(z.delta_pp-z[T[1:]].sum(axis=1,min_count=4)).abs().max();r2=g.delta_pp.sum(min_count=4).abs().max();r3=g.within_pp.sum(min_count=4).abs().max();r4=g[['composition_pp','entry_pp','exit_pp']].sum(min_count=4).sum(axis=1,min_count=3).abs().max();assert max(r1,r2,r3,r4)<1e-8
+v=pd.read_csv(O/'independent_completion_allocation.csv');c=v.groupby(['scenario','geography','period','income_class']).classified_denominator.agg(['min','max']);variation=(c['max']-c['min']).abs().max();assert variation<1e-5
+(O/'independent_identity_validation.json').write_text(json.dumps({'status':'passed','decomposition_closure_pp':r1,'four_class_delta_sum_pp':r2,'within_class_sum_pp':r3,'composition_entry_exit_class_sum_pp':r4,'completion_denominator_vertex_variation':float(variation)},indent=2))
+a=pd.read_csv(O/'independent_allocation.csv').set_index(['scenario','geography','period','income_class']);e=pd.read_csv(R/'outputs/endpoints.csv');e=e[e.income_class.ne('Unknown')]
+for r in e.to_dict('records'):
+ x=a.loc[(r['scenario'],r['geography'],'early',r['income_class'])];y=a.loc[(r['scenario'],r['geography'],'late',r['income_class'])];expect={'delta_pp':100*(y.share_classified-x.share_classified),'observed_share_delta_pp':100*(y.share_observed-x.share_observed),'delta_lower_observed_bound_pp':100*(y.share_observed-(x.amount+x.unknown_amount)/x.observed_denominator),'delta_upper_observed_bound_pp':100*((y.amount+y.unknown_amount)/y.observed_denominator-x.share_observed),'nominal_amount_change':y.amount-x.amount}
+ for k,val in expect.items():assert np.isclose(r[k],val,equal_nan=True,atol=1e-8,rtol=1e-12)
+(O/'endpoint_bound_validation.json').write_text(json.dumps({'status':'passed','rows':len(e)},indent=2));print('Identity and endpoint bounds checks passed')
