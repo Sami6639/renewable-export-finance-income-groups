@@ -1,0 +1,11 @@
+{
+  "checks": {
+    "eligible": true,
+    "residual": true,
+    "threshold": true,
+    "material_flag": true,
+    "all_material_flags_in_old_exception_file": true,
+    "immutable_files_unchanged": true
+  },
+  "changed_files": []
+}

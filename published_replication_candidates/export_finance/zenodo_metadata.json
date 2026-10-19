@@ -1,0 +1,61 @@
+{
+  "doi": "10.5281/zenodo.14261240",
+  "doi_url": "https://doi.org/10.5281/zenodo.14261240",
+  "metadata": {
+    "title": "Scripts and data for \"Quantifying the shift of public export finance from fossil fuels to renewable energy\"",
+    "doi": "10.5281/zenodo.14261240",
+    "publication_date": "2024-12-03",
+    "description": "<p>The zip file in this record contains code and data to create the figures and tables and to replicate the underlying analysis in the following publication:</p>\n<p><em>Censkowsky, P., Waidelich, P., Shishlov, I., &amp; Steffen, B. (2025). Quantifying the shift of public export finance from fossil fuels to renewable energy. Nature Communications 16, 900. DOI: https://doi.org/10.1038/s41467-025-55981-0<br></em><br>For more information on the repository's content, see the README document. Source Data for all Supplementary Figures are provided in the \"SourceData_SupplementaryFigures.xlsx\" workbook in this repository (Source Data for the Figures in the Main are provided with the publication itself under the DOI above).<br><br>Please note that the raw TXF transaction data used for the paper is proprietary and is therefore not included here; for more details on the repository and how to access the raw transaction data, see the Data and Code Availability Statements in the publication itself and the README document in this repository.</p>\n<p>For questions, please contact Paul Waidelich (corresponding author).&nbsp;<br><br>Third-party data sources &amp; respective licenses:<br>- OCI transaction data from the Public Finance for Energy Database are subject to a CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). Source: Oil Change International, &ldquo;Public Finance for Energy Database,&rdquo; July 2024, energyfinance.org.<br>- World Bank Country and Lending Groups from the World Bank Data Help Desk are subject to a CC-BY 4.0 license (https://creativecommons.org/licenses/by/4.0). Source: World Bank, \"World Bank Country and Lending Groups,\" 19 February 2024, https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups<br>- IMF Consumer Price Index data from the IMF's International Financial Statistics are subject to the following terms: https://www.imf.org/en/About/copyright-and-terms#data. Source: International Monetary Fund, \"International Financial Statistics,\" 18 September 2024, https://data.imf.org/?sk=4c514d48-b6ba-49ed-8ab9-52b0c1a0179b&amp;sid=1390030341854</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Censkowsky, Philipp",
+        "affiliation": "University of Lausanne",
+        "orcid": "0000-0003-1918-7912"
+      },
+      {
+        "name": "Waidelich, Paul",
+        "affiliation": "ETH Zurich",
+        "orcid": "0000-0002-5081-776X"
+      },
+      {
+        "name": "Shishlov, Igor",
+        "affiliation": "Perspectives Climate Research",
+        "orcid": "0000-0003-1337-053X"
+      },
+      {
+        "name": "Steffen, Bjarne",
+        "affiliation": "ETH Zurich",
+        "orcid": "0000-0003-2219-1402"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.1038/s41467-025-55981-0",
+        "relation": "isSupplementTo",
+        "resource_type": "publication-journal",
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "title": "Software",
+      "type": "software"
+    },
+    "license": {
+      "id": "cc-by-nc-sa-4.0"
+    }
+  },
+  "files": [
+    {
+      "id": "d3a796bf-b690-4104-84bc-dbc673d8dcfd",
+      "key": "CenskowskyEtAl_ECA_ReplicationPackage.zip",
+      "size": 9923138,
+      "checksum": "md5:97bdc072e2b2150301d15fffc408132e",
+      "links": {
+        "self": "https://zenodo.org/api/records/14261240/files/CenskowskyEtAl_ECA_ReplicationPackage.zip/content"
+      }
+    }
+  ],
+  "created": "2024-12-03T10:14:37.871182+00:00",
+  "modified": "2025-02-18T16:26:24.429046+00:00"
+}

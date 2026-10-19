@@ -1,0 +1,10 @@
+{
+  "target_rows": 12,
+  "endpoint_rows": 24,
+  "undefined_rows": 1,
+  "all_match": true,
+  "original_largest_source_rows": [
+    985,
+    9296
+  ]
+}

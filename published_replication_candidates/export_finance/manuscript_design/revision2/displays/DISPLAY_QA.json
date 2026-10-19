@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "annual_core_cases": 24,
+  "annual_agreement_cases": 12,
+  "annual_quarantine_cases": 24,
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "regional_cases_Q0_only": 18,
+  "numeric_scope": "Selections/unit formatting of independently audited frozen outputs only",
+  "visual_review": "All three main figures and all three table renders inspected; corrected wrapped-text clipping, table row/notes overlap and label margins. Redundant marker/line styles support grayscale use; no simulated color-vision test performed.",
+  "word_tables": "Use editable manifest rows; Word layout requires independent final render review."
+}

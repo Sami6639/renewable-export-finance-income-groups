@@ -1,0 +1,180 @@
+{
+  "table1": [
+    [
+      "Standard Bank amount",
+      "Direct loan USD125m; combined support USD237.5m. Guarantee USD112.5m is derived by subtraction.",
+      "Use USD125m direct loan and USD112.5m derived guarantee; retain both instruments. The archive records USD1.25bn each."
+    ],
+    [
+      "Karuma overlap",
+      "Two signed contracts total approximately USD1.435bn for the same EPC package; strong overlap inference.",
+      "Retain one USD1.435bn package in archive FY2015. Signed-contract years are a separate overlay."
+    ],
+    [
+      "Standard Bank geography",
+      "South Africa is intermediary location; documented intended project region is Sub-Saharan Africa.",
+      "Retain observed cross-border regional support; exclude from classified-income denominator and country-assigned subset."
+    ],
+    [
+      "Dogger Bank basis",
+      "Two entries trace to guaranteed export-contract values; a third entry remains an unresolved financing-layer amount.",
+      "Contract exclusion removes two export-contract entries, retaining an unresolved financing entry. Whole-block exclusion removes all three."
+    ]
+  ],
+  "table2": [
+    [
+      "Core treatments",
+      "H",
+      "+21.70",
+      "+40.34",
+      24,
+      0
+    ],
+    [
+      "Core treatments",
+      "L",
+      "-5.89",
+      "+6.83",
+      24,
+      0
+    ],
+    [
+      "Core treatments",
+      "LM",
+      "-12.04",
+      "-0.89",
+      24,
+      0
+    ],
+    [
+      "Core treatments",
+      "UM",
+      "-32.67",
+      "-18.00",
+      24,
+      0
+    ],
+    [
+      "Agreement-year overlay",
+      "H",
+      "+21.70",
+      "+39.63",
+      12,
+      0
+    ],
+    [
+      "Agreement-year overlay",
+      "L",
+      "-0.10",
+      "+6.83",
+      12,
+      0
+    ],
+    [
+      "Agreement-year overlay",
+      "LM",
+      "-12.04",
+      "-2.52",
+      12,
+      0
+    ],
+    [
+      "Agreement-year overlay",
+      "UM",
+      "-32.67",
+      "-20.84",
+      12,
+      0
+    ],
+    [
+      "Arithmetic-flag exclusions",
+      "H",
+      "+22.13",
+      "+40.82",
+      24,
+      0
+    ],
+    [
+      "Arithmetic-flag exclusions",
+      "L",
+      "-5.74",
+      "+7.09",
+      24,
+      0
+    ],
+    [
+      "Arithmetic-flag exclusions",
+      "LM",
+      "-12.05",
+      "-0.82",
+      24,
+      0
+    ],
+    [
+      "Arithmetic-flag exclusions",
+      "UM",
+      "-33.29",
+      "-18.77",
+      24,
+      0
+    ]
+  ],
+  "table3": [
+    [
+      "Standard Bank credit line",
+      "L",
+      "+4.32",
+      "+4.32",
+      "+0.00"
+    ],
+    [
+      "Standard Bank credit line",
+      "H",
+      "+24.12",
+      "+24.12",
+      "+0.00"
+    ],
+    [
+      "Karuma hydropower",
+      "L",
+      "+4.32",
+      "+11.03",
+      "+6.71"
+    ],
+    [
+      "Karuma hydropower",
+      "H",
+      "+24.12",
+      "+23.08",
+      "-1.04"
+    ],
+    [
+      "Dogger Bank wind",
+      "L",
+      "+4.32",
+      "+5.08",
+      "+0.76"
+    ],
+    [
+      "Dogger Bank wind",
+      "H",
+      "+24.12",
+      "+21.70",
+      "-2.42"
+    ],
+    [
+      "Souapiti/Kaleta, Guinea",
+      "L",
+      "+4.32",
+      "-6.83",
+      "-11.15"
+    ],
+    [
+      "Souapiti/Kaleta, Guinea",
+      "H",
+      "+24.12",
+      "+29.29",
+      "+5.17"
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "source": "https://ddh-openapi.worldbank.org/resources/DR0095334/download",
+  "source_sha256": "a4024eb8052150155034559daf053aabbc16336d8290efeb5629e6eeb6515a60",
+  "worksheet": "Country Analytical History",
+  "principal_fixed_column": "AA = FY13 (2011 GNI); classification effective July2012\u2013June2013",
+  "sensitivity_fixed_column": "AK = FY23 (2021 GNI); classification effective July2022\u2013June2023",
+  "classification_use": "Each classification held fixed across all observation years; FY13 principal, FY23 sensitivity",
+  "unmapped_known_geography_labels": 0,
+  "raw_CC_name_conflict_entries": 3,
+  "known_geography_unclassified_FY2013_entries": 0,
+  "known_geography_unclassified_FY2023_entries": 1,
+  "unresolved_geography_conflict_entries": 2,
+  "verified_row578_israel_correction": true,
+  "outcome_comparisons_run": false
+}

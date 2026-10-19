@@ -1,0 +1,244 @@
+{
+  "table1": {
+    "caption": "Table 1. Source evidence and approved operations",
+    "columns": [
+      "Source operation",
+      "Evidence and qualification",
+      "Treatment"
+    ],
+    "rows": [
+      [
+        "Standard Bank amount",
+        "Direct loan USD125m; combined support USD237.5m. Guarantee USD112.5m is derived by subtraction.",
+        "Use USD125m direct loan and USD112.5m derived guarantee; retain both instruments. The archive records USD1.25bn each."
+      ],
+      [
+        "Karuma overlap",
+        "Two signed contracts total approximately USD1.435bn for the same EPC package; strong overlap inference.",
+        "Retain one USD1.435bn package in archive FY2015. Signed-contract years are a separate overlay."
+      ],
+      [
+        "Standard Bank geography",
+        "South Africa is intermediary location; documented intended project region is Sub-Saharan Africa.",
+        "Retain observed cross-border regional support; exclude from classified-income denominator and country-assigned subset."
+      ],
+      [
+        "Dogger Bank basis",
+        "Two entries trace to guaranteed export-contract values; a third entry remains an unresolved financing-layer amount.",
+        "Contract exclusion removes two export-contract entries, retaining an unresolved financing entry. Whole-block exclusion removes all three."
+      ]
+    ],
+    "widths": [
+      1.25,
+      2.65,
+      2.65
+    ],
+    "note": "The guarantee component is derived, conditional on same-operation scope and additivity; it is not a separately disclosed guarantee ceiling. Source-informed treatments differ in evidentiary status from archive retention and are not certified true finance exposure. Borrower location and intended project region have distinct roles. The SI scenario map gives exact row-level operations and source citations."
+  },
+  "table2": {
+    "caption": "Table 2. Endpoint share changes across separate case families",
+    "columns": [
+      "Family",
+      "Income",
+      "Minimum (pp)",
+      "Maximum (pp)",
+      "Defined cases",
+      "Undefined cases"
+    ],
+    "rows": [
+      [
+        "Core treatments",
+        "H",
+        "+21.70",
+        "+40.34",
+        24,
+        0
+      ],
+      [
+        "Core treatments",
+        "L",
+        "-5.89",
+        "+6.83",
+        24,
+        0
+      ],
+      [
+        "Core treatments",
+        "LM",
+        "-12.04",
+        "-0.89",
+        24,
+        0
+      ],
+      [
+        "Core treatments",
+        "UM",
+        "-32.67",
+        "-18.00",
+        24,
+        0
+      ],
+      [
+        "Agreement-year overlay",
+        "H",
+        "+21.70",
+        "+39.63",
+        12,
+        0
+      ],
+      [
+        "Agreement-year overlay",
+        "L",
+        "-0.10",
+        "+6.83",
+        12,
+        0
+      ],
+      [
+        "Agreement-year overlay",
+        "LM",
+        "-12.04",
+        "-2.52",
+        12,
+        0
+      ],
+      [
+        "Agreement-year overlay",
+        "UM",
+        "-32.67",
+        "-20.84",
+        12,
+        0
+      ],
+      [
+        "Arithmetic-flag exclusions",
+        "H",
+        "+22.13",
+        "+40.82",
+        24,
+        0
+      ],
+      [
+        "Arithmetic-flag exclusions",
+        "L",
+        "-5.74",
+        "+7.09",
+        24,
+        0
+      ],
+      [
+        "Arithmetic-flag exclusions",
+        "LM",
+        "-12.05",
+        "-0.82",
+        24,
+        0
+      ],
+      [
+        "Arithmetic-flag exclusions",
+        "UM",
+        "-33.29",
+        "-18.77",
+        24,
+        0
+      ]
+    ],
+    "widths": [
+      1.65,
+      0.55,
+      0.85,
+      0.85,
+      0.85,
+      0.85
+    ],
+    "note": "International reporting portfolio, Renewable records, fixed FY2013 World Bank income classes. Archive fiscal years are retained; pooled endpoints are 2013–2015 and 2020–2022. Amounts are recorded nominal USD on heterogeneous archive/source financial bases. Missing amounts are excluded, not replaced by zero. Core treatments (24), agreement-year overlays (12) and arithmetic-flag exclusions (24) are separate finite families, not probability-weighted estimates or confidence intervals. The arithmetic stress excludes four additional rows jointly; it is not crossed with agreement timing or regional completion. Marginal extrema may be attained in different cases; full attaining cases remain in the CSV."
+  },
+  "table3": {
+    "caption": "Table 3. Record and package influence: source-informed contract exclusion",
+    "columns": [
+      "Deleted entity",
+      "Income",
+      "Baseline (pp)",
+      "After deletion (pp)",
+      "Deletion minus baseline (pp)"
+    ],
+    "rows": [
+      [
+        "Standard Bank credit line",
+        "L",
+        "+4.32",
+        "+4.32",
+        "+0.00"
+      ],
+      [
+        "Standard Bank credit line",
+        "H",
+        "+24.12",
+        "+24.12",
+        "+0.00"
+      ],
+      [
+        "Karuma hydropower",
+        "L",
+        "+4.32",
+        "+11.03",
+        "+6.71"
+      ],
+      [
+        "Karuma hydropower",
+        "H",
+        "+24.12",
+        "+23.08",
+        "-1.04"
+      ],
+      [
+        "Dogger Bank wind",
+        "L",
+        "+4.32",
+        "+5.08",
+        "+0.76"
+      ],
+      [
+        "Dogger Bank wind",
+        "H",
+        "+24.12",
+        "+21.70",
+        "-2.42"
+      ],
+      [
+        "Souapiti/Kaleta, Guinea",
+        "L",
+        "+4.32",
+        "-6.83",
+        "-11.15"
+      ],
+      [
+        "Souapiti/Kaleta, Guinea",
+        "H",
+        "+24.12",
+        "+29.29",
+        "+5.17"
+      ]
+    ],
+    "widths": [
+      1.75,
+      0.5,
+      1,
+      1.2,
+      1.2
+    ],
+    "note": "International reporting portfolio, Renewable records, fixed FY2013 World Bank income classes. Archive fiscal years are retained; pooled endpoints are 2013–2015 and 2020–2022. Amounts are recorded nominal USD on heterogeneous archive/source financial bases. Missing amounts are excluded, not replaced by zero. Baseline is source-informed contract exclusion. Effects are deletion minus baseline share changes, with denominators and provider support recomputed in the already-approved influence outputs. Standard Bank has zero classified-share influence here because its regional amount is retained in observed totals but unallocated by income. The approximately USD1.72bn Guinea package is corroborated and includes Souapiti development and Kaleta restructuring; its influence does not establish an error or justify deletion. Source-treatment effects are reported separately in the SI and are not causal effects."
+  },
+  "figure1": {
+    "file": "Figure_1_annual_allocation.png",
+    "caption": "Figure 1. Annual four-class allocation under the archive reference and two source-informed specifications. International reporting portfolio, Renewable records, fixed FY2013 World Bank income classes. Archive fiscal years are retained; pooled endpoints are 2013–2015 and 2020–2022. Amounts are recorded nominal USD on heterogeneous archive/source financial bases. Missing amounts are excluded, not replaced by zero. Lines show each class’s share of observed amounts with known recipient income for every year from 2013 through 2022; they are not smoothed trends. Source-informed contract exclusion removes the two Dogger export-contract entries; whole-block exclusion additionally removes the unresolved Dogger financing entry. Both apply the same amount, overlap and recipient-geography reconciliations. Standard Bank remains in observed international totals under its documented regional role but outside the classified denominator. Annual amounts, observed/classified denominators, unknown-income amounts and missingness counts accompany every plotted point in figure1_annual_data.csv."
+  },
+  "figure2": {
+    "file": "Figure_2_endpoint_changes_and_levels.png",
+    "caption": "Figure 2. Pooled endpoint share changes and nominal amounts by income class. International reporting portfolio, Renewable records, fixed FY2013 World Bank income classes. Archive fiscal years are retained; pooled endpoints are 2013–2015 and 2020–2022. Amounts are recorded nominal USD on heterogeneous archive/source financial bases. Missing amounts are excluded, not replaced by zero. Panel a shows late-minus-early classified-share changes in percentage points. Panel b joins early (open) and late (filled) pooled nominal amounts; endpoints are sums across three years, not annual averages. Under both source-informed specifications, low-income amounts fall from USD3.013bn to USD2.785bn although their shares rise. Classified denominators (early/late, USD bn) are 23.455/18.156 for the archive, 19.520/14.100 for contract exclusion and 19.520/13.577 for whole-block exclusion. Source-informed early observed totals additionally include USD0.2375bn unallocated regional support; the late unknown-income amount is zero. Full coverage is retained in accompanying CSVs."
+  },
+  "figure3": {
+    "file": "Figure_3_H_provider_accounting.png",
+    "caption": "Figure 3. High-income share-change accounting and Standard Bank regional-completion outer envelopes. International reporting portfolio, Renewable records, fixed FY2013 World Bank income classes. Archive fiscal years are retained; pooled endpoints are 2013–2015 and 2020–2022. Amounts are recorded nominal USD on heterogeneous archive/source financial bases. Missing amounts are excluded, not replaced by zero. Points show the classified-income accounting: provider-country composition, within-provider allocation, entry and exit sum to total change. Horizontal segments for the source-informed cases are exact case-specific regional-completion outer envelopes, not confidence intervals. Completion assigns only Standard Bank’s observed regional amount across the four-class simplex; it changes the denominator relative to the uncompleted classified-share point. It imposes no actual-country eligibility restrictions and is not a bound on total or true finance exposure. Componentwise extrema need not occur together. The enlarged within-provider panel retains the positive contract-exclusion versus negative whole-block contrast throughout the respective outer envelopes. Regional completion is restricted to the original population; the arithmetic-flag-exclusion family is separate."
+  }
+}

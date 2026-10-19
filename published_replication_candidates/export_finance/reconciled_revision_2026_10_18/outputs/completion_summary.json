@@ -1,0 +1,34 @@
+{
+  "protocol_sha256": "171a82601f70cc9f0cc35917fc37205f8f9bce2e6cd76c318e1a3d4c62d375b6",
+  "arithmetic_screen_status": "STOP_REVIEW_ADDITIONAL_RENEWABLE_FLAGS",
+  "arithmetic_execution_gate": "fixed flag membership verified against the public protocol",
+  "status": "passed",
+  "core_G1_cases": 12,
+  "agreement_G1_cases": 6,
+  "vertices_per_case": 4,
+  "panels": [
+    "all_locations",
+    "international_reporting"
+  ],
+  "income_classification": "fixed_FY2013",
+  "interior_point": "U/4 in each class; verification only",
+  "output_rows": {
+    "completion_vertex_allocations": 8640,
+    "completion_vertex_decompositions": 5760,
+    "completion_vertex_provider_decompositions": 80640,
+    "completion_vertex_provider_periods": 96768,
+    "completion_case_manifest": 18,
+    "completion_case_scalar_envelopes": 113184,
+    "completion_union_scalar_envelopes": 18864,
+    "completion_validation": 4680,
+    "completion_interior_verification": 185760,
+    "completion_derivative_verification": 7200,
+    "completion_denominator_reconciliation": 432,
+    "completion_union_endpoint_reporting": 60
+  },
+  "interpretation": "unrestricted-income outer envelope; targeted Standard Bank completion",
+  "joint_set_warning": "Marginal scalar extremes generally cannot be jointly attained. Each case is a separate four-vertex hull; summaries across source cases are unions, not convex mixtures.",
+  "scope_limits": "Conditional on observed amounts, fixed provider/FY, retained source case, and unrestricted four-class completion of Standard Bank only. Excludes missing amounts, other unresolved income, unknown geography, unreviewed amount errors, finance principal, and worldwide exposure.",
+  "count_warning": "Record/component counts are saved at vertices, but are not affine outcomes and receive no scalar completion bounds.",
+  "arithmetic_block_scope": "Q0 only; the arithmetic-screen amendment does not authorize Q1 completion vertices"
+}

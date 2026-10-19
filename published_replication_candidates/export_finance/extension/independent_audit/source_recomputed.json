@@ -1,0 +1,3505 @@
+{
+  "sha256": "deea3370e76b510a06aa632eb17de048598d8476de2d7266fdfde72de1c12936",
+  "sequential": [
+    {
+      "stage": "ECA",
+      "n": 2986,
+      "known_nominal_usd": 543968503919.1461,
+      "missing_amount": 1
+    },
+    {
+      "stage": "stage != Electric Vehicles",
+      "n": 2974,
+      "known_nominal_usd": 543959963459.1461,
+      "missing_amount": 1
+    },
+    {
+      "stage": "sector != Climate",
+      "n": 2973,
+      "known_nominal_usd": 543955858089.1461,
+      "missing_amount": 1
+    },
+    {
+      "stage": "stage != Petrochemical",
+      "n": 2911,
+      "known_nominal_usd": 527447540153.1461,
+      "missing_amount": 1
+    },
+    {
+      "stage": "institutionAbbr != BNDES",
+      "n": 2909,
+      "known_nominal_usd": 526996140153.1461,
+      "missing_amount": 1
+    },
+    {
+      "stage": "institutionAbbr != JICA",
+      "n": 2908,
+      "known_nominal_usd": 526976140153.1461,
+      "missing_amount": 1
+    }
+  ],
+  "primary": {
+    "n": 2908,
+    "known_nominal_usd": 526976140153.1461,
+    "missing_amount": 1
+  },
+  "real2020_sum": 549922047547.7367,
+  "subsequent_exact_duplicate_rows": 16,
+  "all_exact_duplicate_rows": 32,
+  "subsequent_exact_duplicate_usd": 332784098.0,
+  "aggregate_named": {
+    "n": 44,
+    "known_nominal_usd": 116587965382.73816,
+    "missing_amount": 0
+  },
+  "unallocable_regex": {
+    "n": 304,
+    "known_nominal_usd": 123036775382.73816,
+    "missing_amount": 0
+  },
+  "aggregate_outside_unallocable_regex": [],
+  "fx_test_eligible": 2904,
+  "fx_mismatch_1e6relative_1centabsolute": [
+    {
+      "excel_row": 105,
+      "amountUSD": 615360.0,
+      "amountOriginal": 379000,
+      "XR": 1.6236
+    },
+    {
+      "excel_row": 156,
+      "amountUSD": 675000000.0,
+      "amountOriginal": 648050000,
+      "XR": 0.818124
+    },
+    {
+      "excel_row": 265,
+      "amountUSD": 23419438.0,
+      "amountOriginal": 17000000,
+      "XR": 1.37761
+    },
+    {
+      "excel_row": 266,
+      "amountUSD": 235571994.0,
+      "amountOriginal": 171000000,
+      "XR": 1.37761
+    },
+    {
+      "excel_row": 267,
+      "amountUSD": 50971718.0,
+      "amountOriginal": 37000000,
+      "XR": 1.37761
+    },
+    {
+      "excel_row": 280,
+      "amountUSD": 39835518.0,
+      "amountOriginal": 31000000,
+      "XR": 1.285
+    },
+    {
+      "excel_row": 480,
+      "amountUSD": 88167296.0,
+      "amountOriginal": 64000000,
+      "XR": 1.37761
+    },
+    {
+      "excel_row": 500,
+      "amountUSD": 391798354.0,
+      "amountOriginal": 300000000,
+      "XR": 1.306
+    },
+    {
+      "excel_row": 564,
+      "amountUSD": 450173000.0,
+      "amountOriginal": 500000000,
+      "XR": 0.90035
+    },
+    {
+      "excel_row": 581,
+      "amountUSD": 162040000.0,
+      "amountOriginal": 192040000,
+      "XR": 1.0
+    },
+    {
+      "excel_row": 613,
+      "amountUSD": 99188208.0,
+      "amountOriginal": 72000000,
+      "XR": 1.37761
+    },
+    {
+      "excel_row": 761,
+      "amountUSD": 234984491.0,
+      "amountOriginal": 250000000,
+      "XR": 0.9399
+    },
+    {
+      "excel_row": 804,
+      "amountUSD": 225086500.0,
+      "amountOriginal": 250000000,
+      "XR": 0.90035
+    },
+    {
+      "excel_row": 860,
+      "amountUSD": 27552280.0,
+      "amountOriginal": 20000000,
+      "XR": 1.37761
+    },
+    {
+      "excel_row": 861,
+      "amountUSD": 317222.0,
+      "amountOriginal": 202937,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 863,
+      "amountUSD": 142020.0,
+      "amountOriginal": 90855,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 864,
+      "amountUSD": 135228.0,
+      "amountOriginal": 86510,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 866,
+      "amountUSD": 278190.0,
+      "amountOriginal": 177967,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 867,
+      "amountUSD": 99668.0,
+      "amountOriginal": 63761,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 873,
+      "amountUSD": 312631.0,
+      "amountOriginal": 200000,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 874,
+      "amountUSD": 37005.0,
+      "amountOriginal": 23673,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 877,
+      "amountUSD": 17915.0,
+      "amountOriginal": 11461,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 879,
+      "amountUSD": 272572.0,
+      "amountOriginal": 174373,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 883,
+      "amountUSD": 106756.0,
+      "amountOriginal": 68295,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 885,
+      "amountUSD": 29622.0,
+      "amountOriginal": 18950,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 886,
+      "amountUSD": 62282.0,
+      "amountOriginal": 39844,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 888,
+      "amountUSD": 36097.0,
+      "amountOriginal": 23093,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 889,
+      "amountUSD": 161063.0,
+      "amountOriginal": 103037,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 890,
+      "amountUSD": 50021.0,
+      "amountOriginal": 32000,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 895,
+      "amountUSD": 9887.0,
+      "amountOriginal": 6325,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 897,
+      "amountUSD": 62751.0,
+      "amountOriginal": 40144,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 898,
+      "amountUSD": 90460.0,
+      "amountOriginal": 57870,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 899,
+      "amountUSD": 23010.0,
+      "amountOriginal": 14720,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 900,
+      "amountUSD": 31701.0,
+      "amountOriginal": 20280,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 906,
+      "amountUSD": 313465.0,
+      "amountOriginal": 200534,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 907,
+      "amountUSD": 14540.0,
+      "amountOriginal": 9302,
+      "XR": 1.563153
+    },
+    {
+      "excel_row": 934,
+      "amountUSD": 181528137.0,
+      "amountOriginal": 132000000,
+      "XR": 1.3752
+    },
+    {
+      "excel_row": 936,
+      "amountUSD": 95976658.0,
+      "amountOriginal": 100000000,
+      "XR": 0.9598
+    },
+    {
+      "excel_row": 940,
+      "amountUSD": 90034600.0,
+      "amountOriginal": 100000000,
+      "XR": 0.90035
+    },
+    {
+      "excel_row": 941,
+      "amountUSD": 90034600.0,
+      "amountOriginal": 100000000,
+      "XR": 0.90035
+    },
+    {
+      "excel_row": 942,
+      "amountUSD": 90034600.0,
+      "amountOriginal": 100000000,
+      "XR": 0.90035
+    },
+    {
+      "excel_row": 944,
+      "amountUSD": 47605450.0,
+      "amountOriginal": 50000000,
+      "XR": 0.9521
+    },
+    {
+      "excel_row": 948,
+      "amountUSD": 45017300.0,
+      "amountOriginal": 50000000,
+      "XR": 0.90035
+    },
+    {
+      "excel_row": 949,
+      "amountUSD": 45017300.0,
+      "amountOriginal": 50000000,
+      "XR": 0.90035
+    },
+    {
+      "excel_row": 952,
+      "amountUSD": 24710883.0,
+      "amountOriginal": 25000000,
+      "XR": 0.9884
+    },
+    {
+      "excel_row": 953,
+      "amountUSD": 24495395.0,
+      "amountOriginal": 25000000,
+      "XR": 0.9798
+    },
+    {
+      "excel_row": 955,
+      "amountUSD": 23513275.0,
+      "amountOriginal": 25000000,
+      "XR": 0.94053
+    },
+    {
+      "excel_row": 956,
+      "amountUSD": 23513275.0,
+      "amountOriginal": 25000000,
+      "XR": 0.94053
+    },
+    {
+      "excel_row": 958,
+      "amountUSD": 23513275.0,
+      "amountOriginal": 25000000,
+      "XR": 0.94053
+    },
+    {
+      "excel_row": 959,
+      "amountUSD": 22508650.0,
+      "amountOriginal": 25000000,
+      "XR": 0.90035
+    },
+    {
+      "excel_row": 960,
+      "amountUSD": 22508650.0,
+      "amountOriginal": 25000000,
+      "XR": 0.90035
+    },
+    {
+      "excel_row": 961,
+      "amountUSD": 14582928.0,
+      "amountOriginal": 15000000,
+      "XR": 0.9722
+    },
+    {
+      "excel_row": 962,
+      "amountUSD": 14170997.0,
+      "amountOriginal": 15000000,
+      "XR": 0.9447
+    },
+    {
+      "excel_row": 963,
+      "amountUSD": 13505190.0,
+      "amountOriginal": 15000000,
+      "XR": 0.90035
+    },
+    {
+      "excel_row": 964,
+      "amountUSD": 4841349.0,
+      "amountOriginal": 5000000,
+      "XR": 0.9683
+    },
+    {
+      "excel_row": 968,
+      "amountUSD": 1453517.0,
+      "amountOriginal": 1500000,
+      "XR": 0.969
+    },
+    {
+      "excel_row": 970,
+      "amountUSD": 981836.0,
+      "amountOriginal": 1000000,
+      "XR": 0.9818
+    },
+    {
+      "excel_row": 971,
+      "amountUSD": 975039.0,
+      "amountOriginal": 1000000,
+      "XR": 0.975
+    },
+    {
+      "excel_row": 972,
+      "amountUSD": 967352.0,
+      "amountOriginal": 1000000,
+      "XR": 0.9674
+    },
+    {
+      "excel_row": 973,
+      "amountUSD": 956526.0,
+      "amountOriginal": 1000000,
+      "XR": 0.9565
+    },
+    {
+      "excel_row": 974,
+      "amountUSD": 955283.0,
+      "amountOriginal": 1000000,
+      "XR": 0.9553
+    },
+    {
+      "excel_row": 975,
+      "amountUSD": 944733.0,
+      "amountOriginal": 1000000,
+      "XR": 0.9447
+    },
+    {
+      "excel_row": 976,
+      "amountUSD": 491947.0,
+      "amountOriginal": 500000,
+      "XR": 0.9839
+    },
+    {
+      "excel_row": 977,
+      "amountUSD": 484872.0,
+      "amountOriginal": 500000,
+      "XR": 0.9697
+    },
+    {
+      "excel_row": 978,
+      "amountUSD": 483232.0,
+      "amountOriginal": 500000,
+      "XR": 0.9665
+    },
+    {
+      "excel_row": 979,
+      "amountUSD": 471023.0,
+      "amountOriginal": 500000,
+      "XR": 0.942
+    },
+    {
+      "excel_row": 1003,
+      "amountUSD": 454704000.0,
+      "amountOriginal": 500000000,
+      "XR": 0.90941
+    },
+    {
+      "excel_row": 1045,
+      "amountUSD": 225086500.0,
+      "amountOriginal": 250000000,
+      "XR": 0.90035
+    },
+    {
+      "excel_row": 1125,
+      "amountUSD": 263297187.0,
+      "amountOriginal": 194000000,
+      "XR": 1.3572
+    },
+    {
+      "excel_row": 1253,
+      "amountUSD": 182935.0,
+      "amountOriginal": 117368,
+      "XR": 1.558642
+    },
+    {
+      "excel_row": 1254,
+      "amountUSD": 86983.0,
+      "amountOriginal": 55807,
+      "XR": 1.558642
+    },
+    {
+      "excel_row": 1255,
+      "amountUSD": 99998.0,
+      "amountOriginal": 64157,
+      "XR": 1.558642
+    },
+    {
+      "excel_row": 1257,
+      "amountUSD": 250828.0,
+      "amountOriginal": 160927,
+      "XR": 1.558642
+    },
+    {
+      "excel_row": 1259,
+      "amountUSD": 22043429.0,
+      "amountOriginal": 14142073,
+      "XR": 1.558642
+    },
+    {
+      "excel_row": 1264,
+      "amountUSD": 410976.0,
+      "amountOriginal": 263676,
+      "XR": 1.558642
+    },
+    {
+      "excel_row": 1282,
+      "amountUSD": 27586600.0,
+      "amountOriginal": 20000000,
+      "XR": 1.3793
+    },
+    {
+      "excel_row": 1340,
+      "amountUSD": 171500700.0,
+      "amountOriginal": 125000000,
+      "XR": 1.372
+    },
+    {
+      "excel_row": 1429,
+      "amountUSD": 136619487.0,
+      "amountOriginal": 100000000,
+      "XR": 1.3662
+    },
+    {
+      "excel_row": 1434,
+      "amountUSD": 407780000.0,
+      "amountOriginal": 300000000,
+      "XR": 1.36
+    },
+    {
+      "excel_row": 1576,
+      "amountUSD": 289405251.0,
+      "amountOriginal": 172500000,
+      "XR": 1.6777
+    },
+    {
+      "excel_row": 1579,
+      "amountUSD": 92943713.0,
+      "amountOriginal": 100000000,
+      "XR": 0.9294
+    },
+    {
+      "excel_row": 1590,
+      "amountUSD": 91573400.0,
+      "amountOriginal": 100000000,
+      "XR": 0.91573
+    },
+    {
+      "excel_row": 1629,
+      "amountUSD": 89333572.0,
+      "amountOriginal": 100000000,
+      "XR": 0.8933
+    },
+    {
+      "excel_row": 1653,
+      "amountUSD": 87773964.0,
+      "amountOriginal": 100000000,
+      "XR": 0.8777
+    },
+    {
+      "excel_row": 1688,
+      "amountUSD": 87517394.0,
+      "amountOriginal": 100000000,
+      "XR": 0.8752
+    },
+    {
+      "excel_row": 1695,
+      "amountUSD": 87517394.0,
+      "amountOriginal": 100000000,
+      "XR": 0.8752
+    },
+    {
+      "excel_row": 1751,
+      "amountUSD": 262093755.0,
+      "amountOriginal": 210000000,
+      "XR": 1.2481
+    },
+    {
+      "excel_row": 1854,
+      "amountUSD": 798532.0,
+      "amountOriginal": 47000000,
+      "XR": 0.17
+    },
+    {
+      "excel_row": 1907,
+      "amountUSD": 1250000000.0,
+      "amountOriginal": 125000000,
+      "XR": 1.0
+    },
+    {
+      "excel_row": 1908,
+      "amountUSD": 1250000000.0,
+      "amountOriginal": 125000000,
+      "XR": 1.0
+    },
+    {
+      "excel_row": 1924,
+      "amountUSD": 46251330.0,
+      "amountOriginal": 50000000,
+      "XR": 0.925
+    },
+    {
+      "excel_row": 1925,
+      "amountUSD": 45786700.0,
+      "amountOriginal": 50000000,
+      "XR": 0.91573
+    },
+    {
+      "excel_row": 1926,
+      "amountUSD": 45786700.0,
+      "amountOriginal": 50000000,
+      "XR": 0.91573
+    },
+    {
+      "excel_row": 1927,
+      "amountUSD": 45587163.0,
+      "amountOriginal": 50000000,
+      "XR": 0.9117
+    },
+    {
+      "excel_row": 1928,
+      "amountUSD": 45587163.0,
+      "amountOriginal": 50000000,
+      "XR": 0.9117
+    },
+    {
+      "excel_row": 1929,
+      "amountUSD": 45017300.0,
+      "amountOriginal": 50000000,
+      "XR": 0.90035
+    },
+    {
+      "excel_row": 1930,
+      "amountUSD": 44712321.0,
+      "amountOriginal": 50000000,
+      "XR": 0.8942
+    },
+    {
+      "excel_row": 1938,
+      "amountUSD": 23282670.0,
+      "amountOriginal": 25000000,
+      "XR": 0.9313
+    },
+    {
+      "excel_row": 1939,
+      "amountUSD": 23040837.0,
+      "amountOriginal": 25000000,
+      "XR": 0.9216
+    },
+    {
+      "excel_row": 1940,
+      "amountUSD": 23001196.0,
+      "amountOriginal": 25000000,
+      "XR": 0.92
+    },
+    {
+      "excel_row": 1941,
+      "amountUSD": 22906779.0,
+      "amountOriginal": 25000000,
+      "XR": 0.9163
+    },
+    {
+      "excel_row": 1942,
+      "amountUSD": 22735200.0,
+      "amountOriginal": 25000000,
+      "XR": 0.90941
+    },
+    {
+      "excel_row": 1943,
+      "amountUSD": 22624434.0,
+      "amountOriginal": 25000000,
+      "XR": 0.905
+    },
+    {
+      "excel_row": 1944,
+      "amountUSD": 22508650.0,
+      "amountOriginal": 25000000,
+      "XR": 0.90035
+    },
+    {
+      "excel_row": 1945,
+      "amountUSD": 22409466.0,
+      "amountOriginal": 25000000,
+      "XR": 0.8964
+    },
+    {
+      "excel_row": 1946,
+      "amountUSD": 21685765.0,
+      "amountOriginal": 25000000,
+      "XR": 0.8674
+    },
+    {
+      "excel_row": 1953,
+      "amountUSD": 13769610.0,
+      "amountOriginal": 15000000,
+      "XR": 0.91797
+    },
+    {
+      "excel_row": 1959,
+      "amountUSD": 4495473.0,
+      "amountOriginal": 5000000,
+      "XR": 0.8991
+    },
+    {
+      "excel_row": 1961,
+      "amountUSD": 1830262.0,
+      "amountOriginal": 2000000,
+      "XR": 0.9151
+    },
+    {
+      "excel_row": 1962,
+      "amountUSD": 1757315.0,
+      "amountOriginal": 2000000,
+      "XR": 0.8787
+    },
+    {
+      "excel_row": 1963,
+      "amountUSD": 1754386.0,
+      "amountOriginal": 2000000,
+      "XR": 0.8772
+    },
+    {
+      "excel_row": 1964,
+      "amountUSD": 1409815.0,
+      "amountOriginal": 1600000,
+      "XR": 0.8811
+    },
+    {
+      "excel_row": 1965,
+      "amountUSD": 922714.0,
+      "amountOriginal": 1000000,
+      "XR": 0.9227
+    },
+    {
+      "excel_row": 1966,
+      "amountUSD": 921319.0,
+      "amountOriginal": 1000000,
+      "XR": 0.9213
+    },
+    {
+      "excel_row": 1967,
+      "amountUSD": 920048.0,
+      "amountOriginal": 1000000,
+      "XR": 0.92
+    },
+    {
+      "excel_row": 1968,
+      "amountUSD": 919447.0,
+      "amountOriginal": 1000000,
+      "XR": 0.9194
+    },
+    {
+      "excel_row": 1969,
+      "amountUSD": 899038.0,
+      "amountOriginal": 1000000,
+      "XR": 0.899
+    },
+    {
+      "excel_row": 1970,
+      "amountUSD": 895656.0,
+      "amountOriginal": 1000000,
+      "XR": 0.8957
+    },
+    {
+      "excel_row": 1971,
+      "amountUSD": 889601.0,
+      "amountOriginal": 1000000,
+      "XR": 0.8896
+    },
+    {
+      "excel_row": 1972,
+      "amountUSD": 889245.0,
+      "amountOriginal": 1000000,
+      "XR": 0.8892
+    },
+    {
+      "excel_row": 1973,
+      "amountUSD": 888739.0,
+      "amountOriginal": 1000000,
+      "XR": 0.8887
+    },
+    {
+      "excel_row": 1974,
+      "amountUSD": 874202.0,
+      "amountOriginal": 1000000,
+      "XR": 0.8742
+    },
+    {
+      "excel_row": 1975,
+      "amountUSD": 470841.0,
+      "amountOriginal": 500000,
+      "XR": 0.9417
+    },
+    {
+      "excel_row": 1976,
+      "amountUSD": 470079.0,
+      "amountOriginal": 5000000,
+      "XR": 0.9402
+    },
+    {
+      "excel_row": 1977,
+      "amountUSD": 468560.0,
+      "amountOriginal": 500000,
+      "XR": 0.9371
+    },
+    {
+      "excel_row": 1978,
+      "amountUSD": 458135.0,
+      "amountOriginal": 500000,
+      "XR": 0.9163
+    },
+    {
+      "excel_row": 1979,
+      "amountUSD": 455485.0,
+      "amountOriginal": 500000,
+      "XR": 0.911
+    },
+    {
+      "excel_row": 1988,
+      "amountUSD": 368541313.0,
+      "amountOriginal": 500000000,
+      "XR": 0.7371
+    },
+    {
+      "excel_row": 2058,
+      "amountUSD": 82688364.0,
+      "amountOriginal": 100000000,
+      "XR": 0.8269
+    },
+    {
+      "excel_row": 2076,
+      "amountUSD": 18243071.0,
+      "amountOriginal": 15000000,
+      "XR": 1.0
+    },
+    {
+      "excel_row": 2083,
+      "amountUSD": 245138.0,
+      "amountOriginal": 300000,
+      "XR": 0.8171
+    },
+    {
+      "excel_row": 2085,
+      "amountUSD": 163425.0,
+      "amountOriginal": 200000,
+      "XR": 0.8171
+    },
+    {
+      "excel_row": 2086,
+      "amountUSD": 163425.0,
+      "amountOriginal": 200000,
+      "XR": 0.8171
+    },
+    {
+      "excel_row": 2087,
+      "amountUSD": 326851.0,
+      "amountOriginal": 400000,
+      "XR": 0.8171
+    },
+    {
+      "excel_row": 2088,
+      "amountUSD": 163425.0,
+      "amountOriginal": 200000,
+      "XR": 0.8171
+    },
+    {
+      "excel_row": 2089,
+      "amountUSD": 163425.0,
+      "amountOriginal": 200000,
+      "XR": 0.8171
+    },
+    {
+      "excel_row": 2091,
+      "amountUSD": 326851.0,
+      "amountOriginal": 400000,
+      "XR": 0.8171
+    },
+    {
+      "excel_row": 2093,
+      "amountUSD": 1961105.0,
+      "amountOriginal": 2400000,
+      "XR": 0.8171
+    },
+    {
+      "excel_row": 2094,
+      "amountUSD": 7844419.0,
+      "amountOriginal": 9600000,
+      "XR": 0.8171
+    },
+    {
+      "excel_row": 2095,
+      "amountUSD": 408563.0,
+      "amountOriginal": 500000,
+      "XR": 0.8171
+    },
+    {
+      "excel_row": 2096,
+      "amountUSD": 490276.0,
+      "amountOriginal": 600000,
+      "XR": 0.8171
+    },
+    {
+      "excel_row": 2097,
+      "amountUSD": 12338617.0,
+      "amountOriginal": 15100000,
+      "XR": 0.8171
+    },
+    {
+      "excel_row": 2206,
+      "amountUSD": 16808041.0,
+      "amountOriginal": 15000000,
+      "XR": 1.1205
+    },
+    {
+      "excel_row": 2207,
+      "amountUSD": 16808041.0,
+      "amountOriginal": 15000000,
+      "XR": 1.1205
+    },
+    {
+      "excel_row": 2258,
+      "amountUSD": 53690698.0,
+      "amountOriginal": 50000000,
+      "XR": 1.0738
+    },
+    {
+      "excel_row": 2264,
+      "amountUSD": 130801.0,
+      "amountOriginal": 88200,
+      "XR": 1.483
+    },
+    {
+      "excel_row": 2268,
+      "amountUSD": 164553.0,
+      "amountOriginal": 110960,
+      "XR": 1.483
+    },
+    {
+      "excel_row": 2270,
+      "amountUSD": 134102.0,
+      "amountOriginal": 90426,
+      "XR": 1.483
+    },
+    {
+      "excel_row": 2275,
+      "amountUSD": 81922.0,
+      "amountOriginal": 55241,
+      "XR": 1.483
+    },
+    {
+      "excel_row": 2277,
+      "amountUSD": 24618.0,
+      "amountOriginal": 16600,
+      "XR": 1.483
+    },
+    {
+      "excel_row": 2278,
+      "amountUSD": 7135.0,
+      "amountOriginal": 4811,
+      "XR": 1.483
+    },
+    {
+      "excel_row": 2279,
+      "amountUSD": 15386.0,
+      "amountOriginal": 10375,
+      "XR": 1.483
+    },
+    {
+      "excel_row": 2283,
+      "amountUSD": 18468.0,
+      "amountOriginal": 12453,
+      "XR": 1.483
+    },
+    {
+      "excel_row": 2285,
+      "amountUSD": 111806.0,
+      "amountOriginal": 75392,
+      "XR": 1.483
+    },
+    {
+      "excel_row": 2287,
+      "amountUSD": 277449.0,
+      "amountOriginal": 187086,
+      "XR": 1.483
+    },
+    {
+      "excel_row": 2306,
+      "amountUSD": 21648302.0,
+      "amountOriginal": 20000000,
+      "XR": 1.0824
+    },
+    {
+      "excel_row": 2353,
+      "amountUSD": 16821990.0,
+      "amountOriginal": 15000000,
+      "XR": 1.1215
+    },
+    {
+      "excel_row": 2354,
+      "amountUSD": 16821990.0,
+      "amountOriginal": 15000000,
+      "XR": 1.1215
+    },
+    {
+      "excel_row": 2479,
+      "amountUSD": 329250626.0,
+      "amountOriginal": 300000000,
+      "XR": 1.0975
+    },
+    {
+      "excel_row": 2561,
+      "amountUSD": 6563546.0,
+      "amountOriginal": 6000000,
+      "XR": 1.0939
+    },
+    {
+      "excel_row": 2562,
+      "amountUSD": 16408865.0,
+      "amountOriginal": 15000000,
+      "XR": 1.0939
+    },
+    {
+      "excel_row": 2600,
+      "amountUSD": 16838797.0,
+      "amountOriginal": 15000000,
+      "XR": 1.1226
+    },
+    {
+      "excel_row": 2655,
+      "amountUSD": 107575505.0,
+      "amountOriginal": 12894000000,
+      "XR": 0.0083
+    },
+    {
+      "excel_row": 2656,
+      "amountUSD": 108034373.0,
+      "amountOriginal": 12949000000,
+      "XR": 0.0083
+    },
+    {
+      "excel_row": 2657,
+      "amountUSD": 109102286.0,
+      "amountOriginal": 13077000000,
+      "XR": 0.0083
+    },
+    {
+      "excel_row": 2658,
+      "amountUSD": 108977140.0,
+      "amountOriginal": 13062000000,
+      "XR": 0.0083
+    },
+    {
+      "excel_row": 2661,
+      "amountUSD": 55860305.0,
+      "amountOriginal": 50000000,
+      "XR": 1.1172
+    },
+    {
+      "excel_row": 2662,
+      "amountUSD": 16758091.0,
+      "amountOriginal": 15000000,
+      "XR": 1.1172
+    },
+    {
+      "excel_row": 2663,
+      "amountUSD": 16758091.0,
+      "amountOriginal": 15000000,
+      "XR": 1.1172
+    },
+    {
+      "excel_row": 2743,
+      "amountUSD": 1319261214.0,
+      "amountOriginal": 1200000000,
+      "XR": 1.0994
+    },
+    {
+      "excel_row": 2744,
+      "amountUSD": 16490765.0,
+      "amountOriginal": 15000000,
+      "XR": 1.0994
+    },
+    {
+      "excel_row": 2745,
+      "amountUSD": 16490765.0,
+      "amountOriginal": 15000000,
+      "XR": 1.0994
+    },
+    {
+      "excel_row": 2786,
+      "amountUSD": 29496943.0,
+      "amountOriginal": 27500000,
+      "XR": 1.0726
+    },
+    {
+      "excel_row": 2913,
+      "amountUSD": 119663037.0,
+      "amountOriginal": 14560000000,
+      "XR": 0.0082
+    },
+    {
+      "excel_row": 2914,
+      "amountUSD": 119663037.0,
+      "amountOriginal": 14560000000,
+      "XR": 0.0082
+    },
+    {
+      "excel_row": 2970,
+      "amountUSD": 167289904.0,
+      "amountOriginal": 153000000,
+      "XR": 1.0934
+    },
+    {
+      "excel_row": 2981,
+      "amountUSD": 162766145.0,
+      "amountOriginal": 18500000000,
+      "XR": 0.0088
+    },
+    {
+      "excel_row": 2984,
+      "amountUSD": 108217491.0,
+      "amountOriginal": 12300000000,
+      "XR": 0.0088
+    },
+    {
+      "excel_row": 3008,
+      "amountUSD": 41827004.0,
+      "amountOriginal": 50000000,
+      "XR": 0.8365
+    },
+    {
+      "excel_row": 3010,
+      "amountUSD": 40544595.0,
+      "amountOriginal": 50000000,
+      "XR": 0.8109
+    },
+    {
+      "excel_row": 3011,
+      "amountUSD": 39710589.0,
+      "amountOriginal": 50000000,
+      "XR": 0.7942
+    },
+    {
+      "excel_row": 3012,
+      "amountUSD": 38699690.0,
+      "amountOriginal": 50000000,
+      "XR": 0.774
+    },
+    {
+      "excel_row": 3013,
+      "amountUSD": 38678734.0,
+      "amountOriginal": 50000000,
+      "XR": 0.7736
+    },
+    {
+      "excel_row": 3015,
+      "amountUSD": 37988150.0,
+      "amountOriginal": 50000000,
+      "XR": 0.7598
+    },
+    {
+      "excel_row": 3016,
+      "amountUSD": 37958730.0,
+      "amountOriginal": 50000000,
+      "XR": 0.7592
+    },
+    {
+      "excel_row": 3020,
+      "amountUSD": 20293361.0,
+      "amountOriginal": 25000000,
+      "XR": 0.8117
+    },
+    {
+      "excel_row": 3021,
+      "amountUSD": 18975332.0,
+      "amountOriginal": 25000000,
+      "XR": 0.759
+    },
+    {
+      "excel_row": 3022,
+      "amountUSD": 18939394.0,
+      "amountOriginal": 25000000,
+      "XR": 0.7576
+    },
+    {
+      "excel_row": 3024,
+      "amountUSD": 18732204.0,
+      "amountOriginal": 25000000,
+      "XR": 0.7493
+    },
+    {
+      "excel_row": 3025,
+      "amountUSD": 17926287.0,
+      "amountOriginal": 25000000,
+      "XR": 0.7171
+    },
+    {
+      "excel_row": 3026,
+      "amountUSD": 17918835.0,
+      "amountOriginal": 25000000,
+      "XR": 0.7168
+    },
+    {
+      "excel_row": 3028,
+      "amountUSD": 11474382.0,
+      "amountOriginal": 15000000,
+      "XR": 0.765
+    },
+    {
+      "excel_row": 3029,
+      "amountUSD": 11249438.0,
+      "amountOriginal": 15000000,
+      "XR": 0.75
+    },
+    {
+      "excel_row": 3030,
+      "amountUSD": 4054460.0,
+      "amountOriginal": 5000000,
+      "XR": 0.8109
+    },
+    {
+      "excel_row": 3031,
+      "amountUSD": 3840688.0,
+      "amountOriginal": 5000000,
+      "XR": 0.7681
+    },
+    {
+      "excel_row": 3033,
+      "amountUSD": 3824794.0,
+      "amountOriginal": 5000000,
+      "XR": 0.765
+    },
+    {
+      "excel_row": 3034,
+      "amountUSD": 3760699.0,
+      "amountOriginal": 50000000,
+      "XR": 0.7521
+    },
+    {
+      "excel_row": 3035,
+      "amountUSD": 3750938.0,
+      "amountOriginal": 5000000,
+      "XR": 0.7502
+    },
+    {
+      "excel_row": 3044,
+      "amountUSD": 413976.0,
+      "amountOriginal": 500000,
+      "XR": 0.828
+    },
+    {
+      "excel_row": 3045,
+      "amountUSD": 409789.0,
+      "amountOriginal": 500000,
+      "XR": 0.8196
+    },
+    {
+      "excel_row": 3046,
+      "amountUSD": 408898.0,
+      "amountOriginal": 500000,
+      "XR": 0.8178
+    },
+    {
+      "excel_row": 3047,
+      "amountUSD": 400522.0,
+      "amountOriginal": 500000,
+      "XR": 0.801
+    },
+    {
+      "excel_row": 3048,
+      "amountUSD": 399329.0,
+      "amountOriginal": 500000,
+      "XR": 0.7987
+    },
+    {
+      "excel_row": 3049,
+      "amountUSD": 376098.0,
+      "amountOriginal": 500000,
+      "XR": 0.7522
+    },
+    {
+      "excel_row": 3066,
+      "amountUSD": 186704000.0,
+      "amountOriginal": 250000000,
+      "XR": 0.74682
+    },
+    {
+      "excel_row": 3067,
+      "amountUSD": 178775744.0,
+      "amountOriginal": 250000000,
+      "XR": 0.7151
+    },
+    {
+      "excel_row": 3076,
+      "amountUSD": 77017868.0,
+      "amountOriginal": 100000000,
+      "XR": 0.7702
+    },
+    {
+      "excel_row": 3077,
+      "amountUSD": 77017868.0,
+      "amountOriginal": 100000000,
+      "XR": 0.7702
+    },
+    {
+      "excel_row": 3165,
+      "amountUSD": 102175.0,
+      "amountOriginal": 140000,
+      "XR": 0.72982
+    },
+    {
+      "excel_row": 3169,
+      "amountUSD": 6270000.0,
+      "amountOriginal": 6270000,
+      "XR": 0.72982
+    },
+    {
+      "excel_row": 3183,
+      "amountUSD": 158138000.0,
+      "amountOriginal": 145000000,
+      "XR": 1.09061
+    },
+    {
+      "excel_row": 3286,
+      "amountUSD": 102444022.0,
+      "amountOriginal": 7000000000,
+      "XR": 0.0146
+    },
+    {
+      "excel_row": 3315,
+      "amountUSD": 14791100.0,
+      "amountOriginal": 980000000,
+      "XR": 0.01509
+    },
+    {
+      "excel_row": 3317,
+      "amountUSD": 158603000.0,
+      "amountOriginal": 110388848,
+      "XR": 1.43677
+    },
+    {
+      "excel_row": 3318,
+      "amountUSD": 183907.0,
+      "amountOriginal": 128000,
+      "XR": 1.43677
+    },
+    {
+      "excel_row": 3321,
+      "amountUSD": 276504.0,
+      "amountOriginal": 192448,
+      "XR": 1.43677
+    },
+    {
+      "excel_row": 3322,
+      "amountUSD": 1608600.0,
+      "amountOriginal": 1119597,
+      "XR": 1.43677
+    },
+    {
+      "excel_row": 3330,
+      "amountUSD": 36350.0,
+      "amountOriginal": 25300,
+      "XR": 1.43677
+    },
+    {
+      "excel_row": 3332,
+      "amountUSD": 1264360.0,
+      "amountOriginal": 880000,
+      "XR": 1.43677
+    },
+    {
+      "excel_row": 3360,
+      "amountUSD": 382990000.0,
+      "amountOriginal": 340000000,
+      "XR": 1.12644
+    },
+    {
+      "excel_row": 3378,
+      "amountUSD": 153654000.0,
+      "amountOriginal": 192700000,
+      "XR": 0.79737
+    },
+    {
+      "excel_row": 3386,
+      "amountUSD": 4137503017.0,
+      "amountOriginal": 3600000000,
+      "XR": 1.1493
+    },
+    {
+      "excel_row": 3391,
+      "amountUSD": 74532310.0,
+      "amountOriginal": 100000000,
+      "XR": 0.7453
+    },
+    {
+      "excel_row": 3524,
+      "amountUSD": 69084600.0,
+      "amountOriginal": 100000000,
+      "XR": 0.6908
+    },
+    {
+      "excel_row": 3525,
+      "amountUSD": 68666200.0,
+      "amountOriginal": 100000000,
+      "XR": 0.6867
+    },
+    {
+      "excel_row": 3565,
+      "amountUSD": 756717000.0,
+      "amountOriginal": 80000000000,
+      "XR": 0.00946
+    },
+    {
+      "excel_row": 3723,
+      "amountUSD": 284755000.0,
+      "amountOriginal": 19000000000,
+      "XR": 0.01499
+    },
+    {
+      "excel_row": 3730,
+      "amountUSD": 122446000.0,
+      "amountOriginal": 12700000000,
+      "XR": 0.00964
+    },
+    {
+      "excel_row": 3745,
+      "amountUSD": 188484803.0,
+      "amountOriginal": 252400000,
+      "XR": 0.7468
+    },
+    {
+      "excel_row": 3966,
+      "amountUSD": 137753000.0,
+      "amountOriginal": 9200000000,
+      "XR": 0.01497
+    },
+    {
+      "excel_row": 3967,
+      "amountUSD": 53987100.0,
+      "amountOriginal": 6200000000,
+      "XR": 0.00871
+    },
+    {
+      "excel_row": 3972,
+      "amountUSD": 92497800.0,
+      "amountOriginal": 10300000000,
+      "XR": 0.00898
+    },
+    {
+      "excel_row": 3978,
+      "amountUSD": 62115600.0,
+      "amountOriginal": 6900000000,
+      "XR": 0.009
+    },
+    {
+      "excel_row": 3982,
+      "amountUSD": 39781700.0,
+      "amountOriginal": 50000000,
+      "XR": 0.79563
+    },
+    {
+      "excel_row": 3983,
+      "amountUSD": 39781700.0,
+      "amountOriginal": 50000000,
+      "XR": 0.79563
+    },
+    {
+      "excel_row": 3987,
+      "amountUSD": 38441800.0,
+      "amountOriginal": 50000000,
+      "XR": 0.76884
+    },
+    {
+      "excel_row": 3988,
+      "amountUSD": 38440600.0,
+      "amountOriginal": 50000000,
+      "XR": 0.76881
+    },
+    {
+      "excel_row": 3989,
+      "amountUSD": 38325924.0,
+      "amountOriginal": 50000000,
+      "XR": 0.7665
+    },
+    {
+      "excel_row": 3990,
+      "amountUSD": 38313883.0,
+      "amountOriginal": 50000000,
+      "XR": 0.7663
+    },
+    {
+      "excel_row": 4000,
+      "amountUSD": 36934700.0,
+      "amountOriginal": 50000000,
+      "XR": 0.7387
+    },
+    {
+      "excel_row": 4006,
+      "amountUSD": 19890800.0,
+      "amountOriginal": 25000000,
+      "XR": 0.79563
+    },
+    {
+      "excel_row": 4010,
+      "amountUSD": 18925056.0,
+      "amountOriginal": 25000000,
+      "XR": 0.757
+    },
+    {
+      "excel_row": 4014,
+      "amountUSD": 18454270.0,
+      "amountOriginal": 25000000,
+      "XR": 0.7382
+    },
+    {
+      "excel_row": 4015,
+      "amountUSD": 18174945.0,
+      "amountOriginal": 25000000,
+      "XR": 0.727
+    },
+    {
+      "excel_row": 4018,
+      "amountUSD": 3978170.0,
+      "amountOriginal": 5000000,
+      "XR": 0.79563
+    },
+    {
+      "excel_row": 4052,
+      "amountUSD": 690846.0,
+      "amountOriginal": 1000000,
+      "XR": 0.6908
+    },
+    {
+      "excel_row": 4053,
+      "amountUSD": 369085.0,
+      "amountOriginal": 500000,
+      "XR": 0.7382
+    },
+    {
+      "excel_row": 4060,
+      "amountUSD": 356270.0,
+      "amountOriginal": 500000,
+      "XR": 0.7125
+    },
+    {
+      "excel_row": 4067,
+      "amountUSD": 198608000.0,
+      "amountOriginal": 250000000,
+      "XR": 0.79443
+    },
+    {
+      "excel_row": 4068,
+      "amountUSD": 194519000.0,
+      "amountOriginal": 250000000,
+      "XR": 0.77808
+    },
+    {
+      "excel_row": 4069,
+      "amountUSD": 183577000.0,
+      "amountOriginal": 250000000,
+      "XR": 0.73431
+    },
+    {
+      "excel_row": 4093,
+      "amountUSD": 86365.0,
+      "amountOriginal": 120000,
+      "XR": 0.71971
+    },
+    {
+      "excel_row": 4094,
+      "amountUSD": 172730.0,
+      "amountOriginal": 240000,
+      "XR": 0.71971
+    },
+    {
+      "excel_row": 4200,
+      "amountUSD": 79168.0,
+      "amountOriginal": 110000,
+      "XR": 0.71971
+    },
+    {
+      "excel_row": 4201,
+      "amountUSD": 79168.0,
+      "amountOriginal": 110000,
+      "XR": 0.71971
+    },
+    {
+      "excel_row": 4214,
+      "amountUSD": 195588000.0,
+      "amountOriginal": 186000000,
+      "XR": 1.05155
+    },
+    {
+      "excel_row": 4314,
+      "amountUSD": 41001600.0,
+      "amountOriginal": 50000000,
+      "XR": 0.82003
+    },
+    {
+      "excel_row": 4356,
+      "amountUSD": 40308700.0,
+      "amountOriginal": 50000000,
+      "XR": 0.80617
+    },
+    {
+      "excel_row": 4366,
+      "amountUSD": 1348550.0,
+      "amountOriginal": 1080000,
+      "XR": 1.24866
+    },
+    {
+      "excel_row": 4367,
+      "amountUSD": 1977430.0,
+      "amountOriginal": 1583639,
+      "XR": 1.24866
+    },
+    {
+      "excel_row": 4369,
+      "amountUSD": 1997860.0,
+      "amountOriginal": 1600000,
+      "XR": 1.24866
+    },
+    {
+      "excel_row": 4372,
+      "amountUSD": 92848.0,
+      "amountOriginal": 74358,
+      "XR": 1.24866
+    },
+    {
+      "excel_row": 4373,
+      "amountUSD": 81896.0,
+      "amountOriginal": 65587,
+      "XR": 1.24866
+    },
+    {
+      "excel_row": 4374,
+      "amountUSD": 77807.0,
+      "amountOriginal": 62312,
+      "XR": 1.24866
+    },
+    {
+      "excel_row": 4376,
+      "amountUSD": 2768570.0,
+      "amountOriginal": 2217230,
+      "XR": 1.24866
+    },
+    {
+      "excel_row": 4377,
+      "amountUSD": 32339.0,
+      "amountOriginal": 25899,
+      "XR": 1.24866
+    },
+    {
+      "excel_row": 4388,
+      "amountUSD": 40068600.0,
+      "amountOriginal": 50000000,
+      "XR": 0.80137
+    },
+    {
+      "excel_row": 4421,
+      "amountUSD": 39971600.0,
+      "amountOriginal": 50000000,
+      "XR": 0.79943
+    },
+    {
+      "excel_row": 4424,
+      "amountUSD": 39721600.0,
+      "amountOriginal": 50000000,
+      "XR": 0.79443
+    },
+    {
+      "excel_row": 4452,
+      "amountUSD": 39665100.0,
+      "amountOriginal": 50000000,
+      "XR": 0.7933
+    },
+    {
+      "excel_row": 4457,
+      "amountUSD": 39455900.0,
+      "amountOriginal": 50000000,
+      "XR": 0.78912
+    },
+    {
+      "excel_row": 4461,
+      "amountUSD": 39091600.0,
+      "amountOriginal": 50000000,
+      "XR": 0.78183
+    },
+    {
+      "excel_row": 4466,
+      "amountUSD": 39091600.0,
+      "amountOriginal": 50000000,
+      "XR": 0.78183
+    },
+    {
+      "excel_row": 4547,
+      "amountUSD": 38898400.0,
+      "amountOriginal": 50000000,
+      "XR": 0.77797
+    },
+    {
+      "excel_row": 4559,
+      "amountUSD": 38895300.0,
+      "amountOriginal": 50000000,
+      "XR": 0.77791
+    },
+    {
+      "excel_row": 4560,
+      "amountUSD": 38839800.0,
+      "amountOriginal": 50000000,
+      "XR": 0.7768
+    },
+    {
+      "excel_row": 4571,
+      "amountUSD": 38826600.0,
+      "amountOriginal": 50000000,
+      "XR": 0.77653
+    },
+    {
+      "excel_row": 4581,
+      "amountUSD": 90864800.0,
+      "amountOriginal": 10100000000,
+      "XR": 0.009
+    },
+    {
+      "excel_row": 4584,
+      "amountUSD": 61176300.0,
+      "amountOriginal": 6800000000,
+      "XR": 0.009
+    },
+    {
+      "excel_row": 4609,
+      "amountUSD": 38555300.0,
+      "amountOriginal": 50000000,
+      "XR": 0.77111
+    },
+    {
+      "excel_row": 4708,
+      "amountUSD": 23000000.0,
+      "amountOriginal": 20394100,
+      "XR": 1.189046504
+    },
+    {
+      "excel_row": 4717,
+      "amountUSD": 114403000.0,
+      "amountOriginal": 87910650,
+      "XR": 1.30136
+    },
+    {
+      "excel_row": 4774,
+      "amountUSD": 143871.0,
+      "amountOriginal": 120000,
+      "XR": 1.19893
+    },
+    {
+      "excel_row": 4825,
+      "amountUSD": 93918000.0,
+      "amountOriginal": 80000000,
+      "XR": 1.17398
+    },
+    {
+      "excel_row": 4842,
+      "amountUSD": 95779400.0,
+      "amountOriginal": 10745000000,
+      "XR": 0.00891
+    },
+    {
+      "excel_row": 4879,
+      "amountUSD": 91299900.0,
+      "amountOriginal": 80000000,
+      "XR": 1.14125
+    },
+    {
+      "excel_row": 4887,
+      "amountUSD": 37700900.0,
+      "amountOriginal": 50000000,
+      "XR": 0.75402
+    },
+    {
+      "excel_row": 4993,
+      "amountUSD": 147308000.0,
+      "amountOriginal": 125000000,
+      "XR": 1.17846
+    },
+    {
+      "excel_row": 5052,
+      "amountUSD": 37136900.0,
+      "amountOriginal": 50000000,
+      "XR": 0.74274
+    },
+    {
+      "excel_row": 5053,
+      "amountUSD": 37107100.0,
+      "amountOriginal": 50000000,
+      "XR": 0.74214
+    },
+    {
+      "excel_row": 5072,
+      "amountUSD": 36813200.0,
+      "amountOriginal": 50000000,
+      "XR": 0.73626
+    },
+    {
+      "excel_row": 5082,
+      "amountUSD": 36509400.0,
+      "amountOriginal": 50000000,
+      "XR": 0.73019
+    },
+    {
+      "excel_row": 5088,
+      "amountUSD": 36408700.0,
+      "amountOriginal": 50000000,
+      "XR": 0.72817
+    },
+    {
+      "excel_row": 5099,
+      "amountUSD": 389000.0,
+      "amountOriginal": 500000,
+      "XR": 0.779
+    },
+    {
+      "excel_row": 5100,
+      "amountUSD": 778000.0,
+      "amountOriginal": 1000000,
+      "XR": 0.779
+    },
+    {
+      "excel_row": 5122,
+      "amountUSD": 20351100.0,
+      "amountOriginal": 25000000,
+      "XR": 0.81404
+    },
+    {
+      "excel_row": 5123,
+      "amountUSD": 20206800.0,
+      "amountOriginal": 25000000,
+      "XR": 0.80827
+    },
+    {
+      "excel_row": 5126,
+      "amountUSD": 19871800.0,
+      "amountOriginal": 25000000,
+      "XR": 0.79487
+    },
+    {
+      "excel_row": 5127,
+      "amountUSD": 19671600.0,
+      "amountOriginal": 25000000,
+      "XR": 0.78686
+    },
+    {
+      "excel_row": 5130,
+      "amountUSD": 19507900.0,
+      "amountOriginal": 25000000,
+      "XR": 0.78032
+    },
+    {
+      "excel_row": 5131,
+      "amountUSD": 19473100.0,
+      "amountOriginal": 25000000,
+      "XR": 0.77892
+    },
+    {
+      "excel_row": 5132,
+      "amountUSD": 19446800.0,
+      "amountOriginal": 25000000,
+      "XR": 0.77787
+    },
+    {
+      "excel_row": 5135,
+      "amountUSD": 18918900.0,
+      "amountOriginal": 25000000,
+      "XR": 0.75676
+    },
+    {
+      "excel_row": 5136,
+      "amountUSD": 18650600.0,
+      "amountOriginal": 25000000,
+      "XR": 0.74602
+    },
+    {
+      "excel_row": 5137,
+      "amountUSD": 18532100.0,
+      "amountOriginal": 25000000,
+      "XR": 0.74128
+    },
+    {
+      "excel_row": 5140,
+      "amountUSD": 18366800.0,
+      "amountOriginal": 25000000,
+      "XR": 0.73467
+    },
+    {
+      "excel_row": 5142,
+      "amountUSD": 11937700.0,
+      "amountOriginal": 15000000,
+      "XR": 0.79585
+    },
+    {
+      "excel_row": 5143,
+      "amountUSD": 10981400.0,
+      "amountOriginal": 15000000,
+      "XR": 0.73209
+    },
+    {
+      "excel_row": 5144,
+      "amountUSD": 4889980.0,
+      "amountOriginal": 6500000,
+      "XR": 0.7523
+    },
+    {
+      "excel_row": 5145,
+      "amountUSD": 3998510.0,
+      "amountOriginal": 5000000,
+      "XR": 0.7997
+    },
+    {
+      "excel_row": 5146,
+      "amountUSD": 3889840.0,
+      "amountOriginal": 5000000,
+      "XR": 0.77797
+    },
+    {
+      "excel_row": 5147,
+      "amountUSD": 3889360.0,
+      "amountOriginal": 5000000,
+      "XR": 0.77787
+    },
+    {
+      "excel_row": 5149,
+      "amountUSD": 3761520.0,
+      "amountOriginal": 5000000,
+      "XR": 0.7523
+    },
+    {
+      "excel_row": 5150,
+      "amountUSD": 3655260.0,
+      "amountOriginal": 5000000,
+      "XR": 0.73105
+    },
+    {
+      "excel_row": 5151,
+      "amountUSD": 1554570.0,
+      "amountOriginal": 2000000,
+      "XR": 0.77729
+    },
+    {
+      "excel_row": 5179,
+      "amountUSD": 4681228620.0,
+      "amountOriginal": 6222688620,
+      "XR": 1.0
+    },
+    {
+      "excel_row": 5184,
+      "amountUSD": 198516000.0,
+      "amountOriginal": 250000000,
+      "XR": 0.79407
+    },
+    {
+      "excel_row": 5185,
+      "amountUSD": 194604000.0,
+      "amountOriginal": 250000000,
+      "XR": 0.77842
+    },
+    {
+      "excel_row": 5186,
+      "amountUSD": 193884000.0,
+      "amountOriginal": 250000000,
+      "XR": 0.77554
+    },
+    {
+      "excel_row": 5187,
+      "amountUSD": 193323000.0,
+      "amountOriginal": 250000000,
+      "XR": 0.77329
+    },
+    {
+      "excel_row": 5206,
+      "amountUSD": 76474000.0,
+      "amountOriginal": 100000000,
+      "XR": 76474.0
+    },
+    {
+      "excel_row": 5223,
+      "amountUSD": 38920900.0,
+      "amountOriginal": 50000000,
+      "XR": 0.77842
+    },
+    {
+      "excel_row": 5230,
+      "amountUSD": 38436600.0,
+      "amountOriginal": 50000000,
+      "XR": 0.76873
+    },
+    {
+      "excel_row": 5273,
+      "amountUSD": 38103700.0,
+      "amountOriginal": 50000000,
+      "XR": 0.76207
+    },
+    {
+      "excel_row": 5284,
+      "amountUSD": 148037000.0,
+      "amountOriginal": 130000000,
+      "XR": 1.13875
+    },
+    {
+      "excel_row": 5303,
+      "amountUSD": 37655600.0,
+      "amountOriginal": 50000000,
+      "XR": 0.75311
+    },
+    {
+      "excel_row": 5339,
+      "amountUSD": 37063900.0,
+      "amountOriginal": 50000000,
+      "XR": 0.74128
+    },
+    {
+      "excel_row": 5379,
+      "amountUSD": 2083760.0,
+      "amountOriginal": 2870000,
+      "XR": 0.78049
+    },
+    {
+      "excel_row": 5380,
+      "amountUSD": 217814.0,
+      "amountOriginal": 300000,
+      "XR": 0.78049
+    },
+    {
+      "excel_row": 5381,
+      "amountUSD": 9032030.0,
+      "amountOriginal": 12440000,
+      "XR": 0.78049
+    },
+    {
+      "excel_row": 5382,
+      "amountUSD": 145209.0,
+      "amountOriginal": 200000,
+      "XR": 0.78049
+    },
+    {
+      "excel_row": 5383,
+      "amountUSD": 450149.0,
+      "amountOriginal": 620000,
+      "XR": 0.78049
+    },
+    {
+      "excel_row": 5384,
+      "amountUSD": 486452.0,
+      "amountOriginal": 670000,
+      "XR": 0.78049
+    },
+    {
+      "excel_row": 5385,
+      "amountUSD": 363024.0,
+      "amountOriginal": 500000,
+      "XR": 0.78049
+    },
+    {
+      "excel_row": 5401,
+      "amountUSD": 238945000.0,
+      "amountOriginal": 210000000,
+      "XR": 1.13783
+    },
+    {
+      "excel_row": 5513,
+      "amountUSD": 43645.0,
+      "amountOriginal": 31156,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5515,
+      "amountUSD": 36079.0,
+      "amountOriginal": 25755,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5516,
+      "amountUSD": 399457.0,
+      "amountOriginal": 285155,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5517,
+      "amountUSD": 133265.0,
+      "amountOriginal": 95132,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5518,
+      "amountUSD": 23482.0,
+      "amountOriginal": 16763,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5521,
+      "amountUSD": 48695.0,
+      "amountOriginal": 34761,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5522,
+      "amountUSD": 192141.0,
+      "amountOriginal": 137161,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5523,
+      "amountUSD": 76525.0,
+      "amountOriginal": 54628,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5526,
+      "amountUSD": 162324.0,
+      "amountOriginal": 115876,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5528,
+      "amountUSD": 23807.0,
+      "amountOriginal": 16995,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5529,
+      "amountUSD": 63427.0,
+      "amountOriginal": 45278,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5530,
+      "amountUSD": 157442.0,
+      "amountOriginal": 112391,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5531,
+      "amountUSD": 209393.0,
+      "amountOriginal": 149477,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5532,
+      "amountUSD": 179308.0,
+      "amountOriginal": 128000,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5534,
+      "amountUSD": 28525.0,
+      "amountOriginal": 20363,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5537,
+      "amountUSD": 11177900.0,
+      "amountOriginal": 7979438,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5540,
+      "amountUSD": 71479.0,
+      "amountOriginal": 51026,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5543,
+      "amountUSD": 315480.0,
+      "amountOriginal": 225208,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 5624,
+      "amountUSD": 7760100.0,
+      "amountOriginal": 6500000,
+      "XR": 1.19391
+    },
+    {
+      "excel_row": 5625,
+      "amountUSD": 336269000.0,
+      "amountOriginal": 247754898,
+      "XR": 1.35727
+    },
+    {
+      "excel_row": 5694,
+      "amountUSD": 19857400.0,
+      "amountOriginal": 25000000,
+      "XR": 0.7943
+    },
+    {
+      "excel_row": 5697,
+      "amountUSD": 19749800.0,
+      "amountOriginal": 25000000,
+      "XR": 0.78999
+    },
+    {
+      "excel_row": 5711,
+      "amountUSD": 19559100.0,
+      "amountOriginal": 25000000,
+      "XR": 0.78236
+    },
+    {
+      "excel_row": 5720,
+      "amountUSD": 19539100.0,
+      "amountOriginal": 25000000,
+      "XR": 0.78156
+    },
+    {
+      "excel_row": 5721,
+      "amountUSD": 19539100.0,
+      "amountOriginal": 25000000,
+      "XR": 0.78156
+    },
+    {
+      "excel_row": 5749,
+      "amountUSD": 19478100.0,
+      "amountOriginal": 25000000,
+      "XR": 0.77912
+    },
+    {
+      "excel_row": 5750,
+      "amountUSD": 19478100.0,
+      "amountOriginal": 25000000,
+      "XR": 0.77912
+    },
+    {
+      "excel_row": 5756,
+      "amountUSD": 19478100.0,
+      "amountOriginal": 25000000,
+      "XR": 0.77912
+    },
+    {
+      "excel_row": 5761,
+      "amountUSD": 19452400.0,
+      "amountOriginal": 25000000,
+      "XR": 0.7781
+    },
+    {
+      "excel_row": 5788,
+      "amountUSD": 1120970.0,
+      "amountOriginal": 124000000,
+      "XR": 0.00904
+    },
+    {
+      "excel_row": 5799,
+      "amountUSD": 107716000.0,
+      "amountOriginal": 12000000000,
+      "XR": 0.00898
+    },
+    {
+      "excel_row": 5808,
+      "amountUSD": 19375400.0,
+      "amountOriginal": 25000000,
+      "XR": 0.77502
+    },
+    {
+      "excel_row": 5823,
+      "amountUSD": 19374600.0,
+      "amountOriginal": 25000000,
+      "XR": 0.77498
+    },
+    {
+      "excel_row": 5842,
+      "amountUSD": 19316200.0,
+      "amountOriginal": 25000000,
+      "XR": 0.77265
+    },
+    {
+      "excel_row": 5855,
+      "amountUSD": 19301600.0,
+      "amountOriginal": 25000000,
+      "XR": 0.77206
+    },
+    {
+      "excel_row": 5876,
+      "amountUSD": 19215200.0,
+      "amountOriginal": 25000000,
+      "XR": 0.76861
+    },
+    {
+      "excel_row": 5889,
+      "amountUSD": 19188700.0,
+      "amountOriginal": 25000000,
+      "XR": 0.76755
+    },
+    {
+      "excel_row": 5896,
+      "amountUSD": 19162700.0,
+      "amountOriginal": 25000000,
+      "XR": 0.76651
+    },
+    {
+      "excel_row": 5898,
+      "amountUSD": 19162700.0,
+      "amountOriginal": 25000000,
+      "XR": 0.76651
+    },
+    {
+      "excel_row": 5994,
+      "amountUSD": 5127930.0,
+      "amountOriginal": 4400000,
+      "XR": 1.16544
+    },
+    {
+      "excel_row": 6011,
+      "amountUSD": 1389050000.0,
+      "amountOriginal": 1200000000,
+      "XR": 1.15754
+    },
+    {
+      "excel_row": 6023,
+      "amountUSD": 951048000.0,
+      "amountOriginal": 733492623,
+      "XR": 1.2966
+    },
+    {
+      "excel_row": 6037,
+      "amountUSD": 89358700.0,
+      "amountOriginal": 68186602,
+      "XR": 1.3105
+    },
+    {
+      "excel_row": 6060,
+      "amountUSD": 3970010.0,
+      "amountOriginal": 5000000,
+      "XR": 0.794
+    },
+    {
+      "excel_row": 6095,
+      "amountUSD": 159297000.0,
+      "amountOriginal": 140000000,
+      "XR": 1.0
+    },
+    {
+      "excel_row": 6200,
+      "amountUSD": 778293000.0,
+      "amountOriginal": 589829480,
+      "XR": 1.31952
+    },
+    {
+      "excel_row": 6201,
+      "amountUSD": 322012000.0,
+      "amountOriginal": 244036718,
+      "XR": 1.31952
+    },
+    {
+      "excel_row": 6204,
+      "amountUSD": 34040600.0,
+      "amountOriginal": 26080870,
+      "XR": 1.30519
+    },
+    {
+      "excel_row": 6205,
+      "amountUSD": 11508500.0,
+      "amountOriginal": 15000000,
+      "XR": 0.76723
+    },
+    {
+      "excel_row": 6215,
+      "amountUSD": 4655120.0,
+      "amountOriginal": 6000000,
+      "XR": 0.77585
+    },
+    {
+      "excel_row": 6220,
+      "amountUSD": 3830770.0,
+      "amountOriginal": 5000000,
+      "XR": 0.76616
+    },
+    {
+      "excel_row": 6221,
+      "amountUSD": 3814260.0,
+      "amountOriginal": 5000000,
+      "XR": 0.76285
+    },
+    {
+      "excel_row": 6222,
+      "amountUSD": 3810280.0,
+      "amountOriginal": 5000000,
+      "XR": 0.76206
+    },
+    {
+      "excel_row": 6235,
+      "amountUSD": 279129.0,
+      "amountOriginal": 199258,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 6237,
+      "amountUSD": 265367.0,
+      "amountOriginal": 340000,
+      "XR": 0.78049
+    },
+    {
+      "excel_row": 6252,
+      "amountUSD": 119821.0,
+      "amountOriginal": 85535,
+      "XR": 1.40084
+    },
+    {
+      "excel_row": 6254,
+      "amountUSD": 93659.0,
+      "amountOriginal": 120000,
+      "XR": 0.78049
+    },
+    {
+      "excel_row": 6256,
+      "amountUSD": 7805.0,
+      "amountOriginal": 10000,
+      "XR": 0.78049
+    },
+    {
+      "excel_row": 6263,
+      "amountUSD": 4526739573.0,
+      "amountOriginal": 5286239573,
+      "XR": 1.0
+    },
+    {
+      "excel_row": 6265,
+      "amountUSD": 190056000.0,
+      "amountOriginal": 250000000,
+      "XR": 0.76023
+    },
+    {
+      "excel_row": 6266,
+      "amountUSD": 189767000.0,
+      "amountOriginal": 250000000,
+      "XR": 0.75907
+    },
+    {
+      "excel_row": 6268,
+      "amountUSD": 188474000.0,
+      "amountOriginal": 250000000,
+      "XR": 0.7539
+    },
+    {
+      "excel_row": 6270,
+      "amountUSD": 113000000.0,
+      "amountOriginal": 150000000,
+      "XR": 0.75334
+    },
+    {
+      "excel_row": 6271,
+      "amountUSD": 111376000.0,
+      "amountOriginal": 150000000,
+      "XR": 0.74251
+    },
+    {
+      "excel_row": 6291,
+      "amountUSD": 38277300.0,
+      "amountOriginal": 50000000,
+      "XR": 0.76555
+    },
+    {
+      "excel_row": 6294,
+      "amountUSD": 38020900.0,
+      "amountOriginal": 50000000,
+      "XR": 0.76042
+    },
+    {
+      "excel_row": 6299,
+      "amountUSD": 37893700.0,
+      "amountOriginal": 50000000,
+      "XR": 0.75787
+    },
+    {
+      "excel_row": 6300,
+      "amountUSD": 37809600.0,
+      "amountOriginal": 50000000,
+      "XR": 0.75619
+    },
+    {
+      "excel_row": 6301,
+      "amountUSD": 37736200.0,
+      "amountOriginal": 50000000,
+      "XR": 0.75472
+    },
+    {
+      "excel_row": 6302,
+      "amountUSD": 37736200.0,
+      "amountOriginal": 50000000,
+      "XR": 0.75472
+    },
+    {
+      "excel_row": 6303,
+      "amountUSD": 37679900.0,
+      "amountOriginal": 50000000,
+      "XR": 0.7536
+    },
+    {
+      "excel_row": 6304,
+      "amountUSD": 37617200.0,
+      "amountOriginal": 50000000,
+      "XR": 0.75234
+    },
+    {
+      "excel_row": 6305,
+      "amountUSD": 37599600.0,
+      "amountOriginal": 50000000,
+      "XR": 0.75199
+    },
+    {
+      "excel_row": 6306,
+      "amountUSD": 37577800.0,
+      "amountOriginal": 50000000,
+      "XR": 0.75156
+    },
+    {
+      "excel_row": 6307,
+      "amountUSD": 37296700.0,
+      "amountOriginal": 50000000,
+      "XR": 0.74593
+    },
+    {
+      "excel_row": 6308,
+      "amountUSD": 37193300.0,
+      "amountOriginal": 50000000,
+      "XR": 0.74387
+    },
+    {
+      "excel_row": 6310,
+      "amountUSD": 37149300.0,
+      "amountOriginal": 50000000,
+      "XR": 0.74299
+    },
+    {
+      "excel_row": 6311,
+      "amountUSD": 37023900.0,
+      "amountOriginal": 50000000,
+      "XR": 0.74048
+    },
+    {
+      "excel_row": 6312,
+      "amountUSD": 36975700.0,
+      "amountOriginal": 50000000,
+      "XR": 0.73952
+    },
+    {
+      "excel_row": 6353,
+      "amountUSD": 18760300.0,
+      "amountOriginal": 25000000,
+      "XR": 0.75041
+    },
+    {
+      "excel_row": 6366,
+      "amountUSD": 18648400.0,
+      "amountOriginal": 25000000,
+      "XR": 0.74593
+    },
+    {
+      "excel_row": 6367,
+      "amountUSD": 18574800.0,
+      "amountOriginal": 25000000,
+      "XR": 0.74299
+    },
+    {
+      "excel_row": 6369,
+      "amountUSD": 18511900.0,
+      "amountOriginal": 25000000,
+      "XR": 0.74048
+    },
+    {
+      "excel_row": 6405,
+      "amountUSD": 17165800.0,
+      "amountOriginal": 15000000,
+      "XR": 1.14438
+    },
+    {
+      "excel_row": 6406,
+      "amountUSD": 57219200.0,
+      "amountOriginal": 50000000,
+      "XR": 1.14438
+    },
+    {
+      "excel_row": 6408,
+      "amountUSD": 902730.0,
+      "amountOriginal": 1280000,
+      "XR": 0.70526
+    },
+    {
+      "excel_row": 6409,
+      "amountUSD": 176314.0,
+      "amountOriginal": 250000,
+      "XR": 0.70526
+    },
+    {
+      "excel_row": 6410,
+      "amountUSD": 246840.0,
+      "amountOriginal": 350000,
+      "XR": 0.70526
+    },
+    {
+      "excel_row": 6443,
+      "amountUSD": 3420970.0,
+      "amountOriginal": 3000000,
+      "XR": 1.14032
+    },
+    {
+      "excel_row": 6479,
+      "amountUSD": 17216000.0,
+      "amountOriginal": 15000000,
+      "XR": 1.14774
+    },
+    {
+      "excel_row": 6480,
+      "amountUSD": 17216000.0,
+      "amountOriginal": 15000000,
+      "XR": 1.14774
+    },
+    {
+      "excel_row": 6569,
+      "amountUSD": 11189000.0,
+      "amountOriginal": 15000000,
+      "XR": 0.74593
+    },
+    {
+      "excel_row": 6580,
+      "amountUSD": 9928210.0,
+      "amountOriginal": 7623340,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6581,
+      "amountUSD": 281306.0,
+      "amountOriginal": 216000,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6582,
+      "amountUSD": 154198.0,
+      "amountOriginal": 118400,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6583,
+      "amountUSD": 208375.0,
+      "amountOriginal": 160000,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6585,
+      "amountUSD": 1416950.0,
+      "amountOriginal": 1088000,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6586,
+      "amountUSD": 1498620.0,
+      "amountOriginal": 1150706,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6587,
+      "amountUSD": 46572.0,
+      "amountOriginal": 35760,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6588,
+      "amountUSD": 161491.0,
+      "amountOriginal": 124000,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6589,
+      "amountUSD": 159407.0,
+      "amountOriginal": 122400,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6590,
+      "amountUSD": 24746.0,
+      "amountOriginal": 19001,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6591,
+      "amountUSD": 320481.0,
+      "amountOriginal": 246080,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6592,
+      "amountUSD": 520938.0,
+      "amountOriginal": 400000,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6593,
+      "amountUSD": 7985.0,
+      "amountOriginal": 6131,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6594,
+      "amountUSD": 24207.0,
+      "amountOriginal": 18587,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6595,
+      "amountUSD": 95371.0,
+      "amountOriginal": 73230,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6596,
+      "amountUSD": 382306.0,
+      "amountOriginal": 293552,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6597,
+      "amountUSD": 2629180.0,
+      "amountOriginal": 2018807,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6598,
+      "amountUSD": 132038.0,
+      "amountOriginal": 101385,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6602,
+      "amountUSD": 98930.0,
+      "amountOriginal": 75963,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6603,
+      "amountUSD": 152424.0,
+      "amountOriginal": 117038,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6604,
+      "amountUSD": 278702.0,
+      "amountOriginal": 214000,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6605,
+      "amountUSD": 260469.0,
+      "amountOriginal": 200000,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6606,
+      "amountUSD": 371240.0,
+      "amountOriginal": 285055,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6607,
+      "amountUSD": 840528.0,
+      "amountOriginal": 645396,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6608,
+      "amountUSD": 287304.0,
+      "amountOriginal": 220605,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6609,
+      "amountUSD": 377059.0,
+      "amountOriginal": 289523,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6610,
+      "amountUSD": 285131.0,
+      "amountOriginal": 218937,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6611,
+      "amountUSD": 51586.0,
+      "amountOriginal": 39610,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6613,
+      "amountUSD": 276894.0,
+      "amountOriginal": 212612,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6614,
+      "amountUSD": 325926.0,
+      "amountOriginal": 250261,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6616,
+      "amountUSD": 82193800.0,
+      "amountOriginal": 63112176,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6618,
+      "amountUSD": 56407600.0,
+      "amountOriginal": 43312317,
+      "XR": 1.30234
+    },
+    {
+      "excel_row": 6647,
+      "amountUSD": 52021700.0,
+      "amountOriginal": 44960697,
+      "XR": 1.15705
+    },
+    {
+      "excel_row": 6669,
+      "amountUSD": 16805500.0,
+      "amountOriginal": 15000000,
+      "XR": 1.12037
+    },
+    {
+      "excel_row": 6671,
+      "amountUSD": 16805500.0,
+      "amountOriginal": 15000000,
+      "XR": 1.12037
+    },
+    {
+      "excel_row": 6672,
+      "amountUSD": 16805500.0,
+      "amountOriginal": 15000000,
+      "XR": 1.12037
+    },
+    {
+      "excel_row": 6673,
+      "amountUSD": 16805500.0,
+      "amountOriginal": 15000000,
+      "XR": 1.12037
+    },
+    {
+      "excel_row": 6733,
+      "amountUSD": 16725800.0,
+      "amountOriginal": 15000000,
+      "XR": 1.11506
+    },
+    {
+      "excel_row": 6735,
+      "amountUSD": 16725800.0,
+      "amountOriginal": 15000000,
+      "XR": 1.11506
+    },
+    {
+      "excel_row": 6754,
+      "amountUSD": 45019000.0,
+      "amountOriginal": 40000000,
+      "XR": 1.12548
+    },
+    {
+      "excel_row": 6884,
+      "amountUSD": 911307000.0,
+      "amountOriginal": 96666000000,
+      "XR": 0.00943
+    },
+    {
+      "excel_row": 6904,
+      "amountUSD": 16477700.0,
+      "amountOriginal": 15000000,
+      "XR": 1.09851
+    },
+    {
+      "excel_row": 6943,
+      "amountUSD": 4700000000.0,
+      "amountOriginal": 5000000000,
+      "XR": 1.0
+    },
+    {
+      "excel_row": 6981,
+      "amountUSD": 3804440.0,
+      "amountOriginal": 5000000,
+      "XR": 0.76089
+    },
+    {
+      "excel_row": 6989,
+      "amountUSD": 3781570.0,
+      "amountOriginal": 5000000,
+      "XR": 0.75632
+    },
+    {
+      "excel_row": 6991,
+      "amountUSD": 3774910.0,
+      "amountOriginal": 5000000,
+      "XR": 0.75498
+    },
+    {
+      "excel_row": 6994,
+      "amountUSD": 294898000.0,
+      "amountOriginal": 230000000,
+      "XR": 1.28216
+    },
+    {
+      "excel_row": 7015,
+      "amountUSD": 412653.0,
+      "amountOriginal": 370000,
+      "XR": 1.11528
+    },
+    {
+      "excel_row": 7063,
+      "amountUSD": 3759140.0,
+      "amountOriginal": 5000000,
+      "XR": 0.75183
+    },
+    {
+      "excel_row": 7075,
+      "amountUSD": 3749740.0,
+      "amountOriginal": 5000000,
+      "XR": 0.74995
+    },
+    {
+      "excel_row": 7079,
+      "amountUSD": 16523800.0,
+      "amountOriginal": 15000000,
+      "XR": 1.10159
+    },
+    {
+      "excel_row": 7196,
+      "amountUSD": 48947100.0,
+      "amountOriginal": 44000000,
+      "XR": 1.11243
+    },
+    {
+      "excel_row": 7212,
+      "amountUSD": 224295000.0,
+      "amountOriginal": 200000000,
+      "XR": 1.12147
+    },
+    {
+      "excel_row": 7213,
+      "amountUSD": 62488700.0,
+      "amountOriginal": 47600000,
+      "XR": 1.31279
+    },
+    {
+      "excel_row": 7222,
+      "amountUSD": 1499130.0,
+      "amountOriginal": 2000000,
+      "XR": 0.74956
+    },
+    {
+      "excel_row": 7226,
+      "amountUSD": 332908000.0,
+      "amountOriginal": 37000000000,
+      "XR": 0.009
+    },
+    {
+      "excel_row": 7263,
+      "amountUSD": 381911.0,
+      "amountOriginal": 500000,
+      "XR": 0.76382
+    },
+    {
+      "excel_row": 7264,
+      "amountUSD": 380551.0,
+      "amountOriginal": 500000,
+      "XR": 0.7611
+    },
+    {
+      "excel_row": 7265,
+      "amountUSD": 380142.0,
+      "amountOriginal": 500000,
+      "XR": 0.76028
+    },
+    {
+      "excel_row": 7266,
+      "amountUSD": 379842.0,
+      "amountOriginal": 500000,
+      "XR": 0.75968
+    },
+    {
+      "excel_row": 7267,
+      "amountUSD": 379677.0,
+      "amountOriginal": 500000,
+      "XR": 0.75935
+    },
+    {
+      "excel_row": 7269,
+      "amountUSD": 374807.0,
+      "amountOriginal": 500000,
+      "XR": 0.74961
+    },
+    {
+      "excel_row": 7270,
+      "amountUSD": 372839.0,
+      "amountOriginal": 500000,
+      "XR": 0.74568
+    },
+    {
+      "excel_row": 7271,
+      "amountUSD": 372663.0,
+      "amountOriginal": 500000,
+      "XR": 0.74533
+    },
+    {
+      "excel_row": 7272,
+      "amountUSD": 372612.0,
+      "amountOriginal": 500000,
+      "XR": 0.74523
+    },
+    {
+      "excel_row": 7273,
+      "amountUSD": 371224.0,
+      "amountOriginal": 500000,
+      "XR": 0.74245
+    },
+    {
+      "excel_row": 7274,
+      "amountUSD": 370194.0,
+      "amountOriginal": 500000,
+      "XR": 0.74039
+    },
+    {
+      "excel_row": 7282,
+      "amountUSD": 2954403248.6500006,
+      "amountOriginal": 1436717263.3000002,
+      "XR": 1.0
+    },
+    {
+      "excel_row": 7290,
+      "amountUSD": 224150000.0,
+      "amountOriginal": 315000000,
+      "XR": 0.71469
+    },
+    {
+      "excel_row": 7305,
+      "amountUSD": 51894500.0,
+      "amountOriginal": 75000000,
+      "XR": 0.69193
+    },
+    {
+      "excel_row": 7311,
+      "amountUSD": 36520300.0,
+      "amountOriginal": 50000000,
+      "XR": 0.73041
+    },
+    {
+      "excel_row": 7315,
+      "amountUSD": 18723100.0,
+      "amountOriginal": 25000000,
+      "XR": 0.74892
+    },
+    {
+      "excel_row": 7319,
+      "amountUSD": 11233900.0,
+      "amountOriginal": 15000000,
+      "XR": 0.74892
+    },
+    {
+      "excel_row": 7360,
+      "amountUSD": 3801920.0,
+      "amountOriginal": 5000000,
+      "XR": 0.76039
+    },
+    {
+      "excel_row": 7415,
+      "amountUSD": 16822100.0,
+      "amountOriginal": 15000000,
+      "XR": 1.12147
+    },
+    {
+      "excel_row": 7416,
+      "amountUSD": 56073600.0,
+      "amountOriginal": 50000000,
+      "XR": 1.12147
+    },
+    {
+      "excel_row": 7417,
+      "amountUSD": 56073600.0,
+      "amountOriginal": 50000000,
+      "XR": 1.12147
+    },
+    {
+      "excel_row": 7419,
+      "amountUSD": 546995.0,
+      "amountOriginal": 780000,
+      "XR": 0.70128
+    },
+    {
+      "excel_row": 7420,
+      "amountUSD": 10519100.0,
+      "amountOriginal": 15000000,
+      "XR": 0.70128
+    },
+    {
+      "excel_row": 7421,
+      "amountUSD": 350638.0,
+      "amountOriginal": 500000,
+      "XR": 0.70128
+    },
+    {
+      "excel_row": 7422,
+      "amountUSD": 245446.0,
+      "amountOriginal": 350000,
+      "XR": 0.70128
+    },
+    {
+      "excel_row": 7423,
+      "amountUSD": 7012750.0,
+      "amountOriginal": 10000000,
+      "XR": 0.70128
+    },
+    {
+      "excel_row": 7505,
+      "amountUSD": 409864485.0,
+      "amountOriginal": 445235790000,
+      "XR": 0.0
+    },
+    {
+      "excel_row": 7533,
+      "amountUSD": 16534100.0,
+      "amountOriginal": 15000000,
+      "XR": 1.10227
+    },
+    {
+      "excel_row": 7534,
+      "amountUSD": 16534100.0,
+      "amountOriginal": 15000000,
+      "XR": 1.10227
+    },
+    {
+      "excel_row": 7583,
+      "amountUSD": 110466722.0,
+      "amountOriginal": 120000000000,
+      "XR": 0.0
+    },
+    {
+      "excel_row": 7590,
+      "amountUSD": 16499300.0,
+      "amountOriginal": 15000000,
+      "XR": 1.09995
+    },
+    {
+      "excel_row": 7591,
+      "amountUSD": 54997700.0,
+      "amountOriginal": 50000000,
+      "XR": 1.09995
+    },
+    {
+      "excel_row": 7602,
+      "amountUSD": 81378.0,
+      "amountOriginal": 66703,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7604,
+      "amountUSD": 27777.0,
+      "amountOriginal": 22768,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7609,
+      "amountUSD": 102597.0,
+      "amountOriginal": 84096,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7614,
+      "amountUSD": 219507.0,
+      "amountOriginal": 179924,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7615,
+      "amountUSD": 42052.0,
+      "amountOriginal": 34469,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7617,
+      "amountUSD": 60194.0,
+      "amountOriginal": 49339,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7619,
+      "amountUSD": 85432.0,
+      "amountOriginal": 70026,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7620,
+      "amountUSD": 182087.0,
+      "amountOriginal": 149252,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7621,
+      "amountUSD": 72322.0,
+      "amountOriginal": 59280,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7622,
+      "amountUSD": 84916.0,
+      "amountOriginal": 69603,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7628,
+      "amountUSD": 238198.0,
+      "amountOriginal": 195244,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7630,
+      "amountUSD": 265570.0,
+      "amountOriginal": 217680,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7632,
+      "amountUSD": 27101.0,
+      "amountOriginal": 22214,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7635,
+      "amountUSD": 271831.0,
+      "amountOriginal": 222812,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7637,
+      "amountUSD": 64847.0,
+      "amountOriginal": 53153,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7641,
+      "amountUSD": 143438.0,
+      "amountOriginal": 117572,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7642,
+      "amountUSD": 81817.0,
+      "amountOriginal": 67063,
+      "XR": 1.22
+    },
+    {
+      "excel_row": 7695,
+      "amountUSD": 110466722.0,
+      "amountOriginal": 120000000000,
+      "XR": 0.0
+    },
+    {
+      "excel_row": 7720,
+      "amountUSD": 55506200.0,
+      "amountOriginal": 50000000,
+      "XR": 1.11012
+    },
+    {
+      "excel_row": 7721,
+      "amountUSD": 222025000.0,
+      "amountOriginal": 200000000,
+      "XR": 1.11012
+    },
+    {
+      "excel_row": 7724,
+      "amountUSD": 222025000.0,
+      "amountOriginal": 200000000,
+      "XR": 1.11012
+    },
+    {
+      "excel_row": 7752,
+      "amountUSD": 4530000.0,
+      "amountOriginal": 4000000,
+      "XR": 1.0
+    },
+    {
+      "excel_row": 7809,
+      "amountUSD": 56140900.0,
+      "amountOriginal": 50000000,
+      "XR": 1.12282
+    },
+    {
+      "excel_row": 7860,
+      "amountUSD": 17754700.0,
+      "amountOriginal": 15000000,
+      "XR": 1.18365
+    },
+    {
+      "excel_row": 7861,
+      "amountUSD": 59182400.0,
+      "amountOriginal": 50000000,
+      "XR": 1.18365
+    },
+    {
+      "excel_row": 7862,
+      "amountUSD": 59182400.0,
+      "amountOriginal": 50000000,
+      "XR": 1.18365
+    },
+    {
+      "excel_row": 7876,
+      "amountUSD": 102466124.0,
+      "amountOriginal": 111308950000,
+      "XR": 0.0
+    },
+    {
+      "excel_row": 7881,
+      "amountUSD": 92055602.0,
+      "amountOriginal": 100000000000,
+      "XR": 0.0
+    },
+    {
+      "excel_row": 7926,
+      "amountUSD": 64438921.0,
+      "amountOriginal": 70000000000,
+      "XR": 0.0
+    },
+    {
+      "excel_row": 7976,
+      "amountUSD": 270000000.0,
+      "amountOriginal": 30000000000,
+      "XR": 0.009089
+    },
+    {
+      "excel_row": 7982,
+      "amountUSD": 89218600.0,
+      "amountOriginal": 76200000,
+      "XR": 1.17085
+    },
+    {
+      "excel_row": 8169,
+      "amountUSD": 767350000.0,
+      "amountOriginal": 549000000,
+      "XR": 1.3977
+    },
+    {
+      "excel_row": 8176,
+      "amountUSD": 32150000.0,
+      "amountOriginal": 738752210000,
+      "XR": 4.3e-05
+    },
+    {
+      "excel_row": 8205,
+      "amountUSD": 719200.0,
+      "amountOriginal": 1000000,
+      "XR": 0.77192
+    },
+    {
+      "excel_row": 8230,
+      "amountUSD": 377156.0,
+      "amountOriginal": 500000,
+      "XR": 0.75431
+    },
+    {
+      "excel_row": 8280,
+      "amountUSD": 348134.0,
+      "amountOriginal": 500000,
+      "XR": 0.69627
+    },
+    {
+      "excel_row": 8518,
+      "amountUSD": 86710000.0,
+      "amountOriginal": 97299990000,
+      "XR": 0.00089
+    },
+    {
+      "excel_row": 8606,
+      "amountUSD": 67460000.0,
+      "amountOriginal": 75699990000,
+      "XR": 0.00089
+    },
+    {
+      "excel_row": 8978,
+      "amountUSD": 24060000.0,
+      "amountOriginal": 26999990000,
+      "XR": 0.00089
+    },
+    {
+      "excel_row": 9081,
+      "amountUSD": 74310000.0,
+      "amountOriginal": 2062500000,
+      "XR": 0.03602
+    },
+    {
+      "excel_row": 9180,
+      "amountUSD": 137984600.0,
+      "amountOriginal": 189800000,
+      "XR": 1.273
+    },
+    {
+      "excel_row": 9189,
+      "amountUSD": 38744.0,
+      "amountOriginal": 30434.81,
+      "XR": 1.273
+    },
+    {
+      "excel_row": 9190,
+      "amountUSD": 2418.0,
+      "amountOriginal": 1899.26,
+      "XR": 1.273
+    },
+    {
+      "excel_row": 9194,
+      "amountUSD": 14636.0,
+      "amountOriginal": 11497.38,
+      "XR": 1.273
+    },
+    {
+      "excel_row": 9198,
+      "amountUSD": 118134.0,
+      "amountOriginal": 92799.92,
+      "XR": 1.273
+    },
+    {
+      "excel_row": 9202,
+      "amountUSD": 129031.0,
+      "amountOriginal": 101360,
+      "XR": 1.273
+    },
+    {
+      "excel_row": 9204,
+      "amountUSD": 154810.0,
+      "amountOriginal": 121610.55,
+      "XR": 1.273
+    },
+    {
+      "excel_row": 9207,
+      "amountUSD": 7062.0,
+      "amountOriginal": 5547.88,
+      "XR": 1.273
+    },
+    {
+      "excel_row": 9212,
+      "amountUSD": 79502.0,
+      "amountOriginal": 62452.37,
+      "XR": 1.273
+    },
+    {
+      "excel_row": 9213,
+      "amountUSD": 41511.0,
+      "amountOriginal": 32608.66,
+      "XR": 1.273
+    },
+    {
+      "excel_row": 9622,
+      "amountUSD": 1790000.0,
+      "amountOriginal": 1630000,
+      "XR": 1.154
+    },
+    {
+      "excel_row": 10302,
+      "amountUSD": 19900000.0,
+      "amountOriginal": 2601540000,
+      "XR": 0.007649
+    },
+    {
+      "excel_row": 10304,
+      "amountUSD": 68900000.0,
+      "amountOriginal": 9000000000,
+      "XR": 0.007636
+    }
+  ],
+  "missing_amount": [
+    {
+      "excel_row": 8281,
+      "project": "Benarix Environmental Inc.",
+      "amountOriginal": 500000,
+      "XR": 0.71309
+    }
+  ],
+  "ratios": {
+    "2001": 0.6841538908354666,
+    "2002": 0.6950047879180882,
+    "2003": 0.7107820566732364,
+    "2004": 0.7298113747024038,
+    "2005": 0.7545720270956876,
+    "2006": 0.7789140988893436,
+    "2007": 0.801133967042894,
+    "2008": 0.8318903035482097,
+    "2009": 0.8289325486342347,
+    "2010": 0.842527402539946,
+    "2011": 0.8691246578103582,
+    "2012": 0.8871097782359938,
+    "2013": 0.9001044519588599,
+    "2014": 0.9147061531992138,
+    "2015": 0.9157912429074768,
+    "2016": 0.9273447114273153,
+    "2017": 0.9470981738938385,
+    "2018": 0.970231835694881,
+    "2019": 0.9878144747747206,
+    "2020": 1.0,
+    "2021": 1.0469785886363732,
+    "2022": 1.1307661892486578,
+    "2023": 1.1773123519271154
+  }
+}

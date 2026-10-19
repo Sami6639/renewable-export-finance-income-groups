@@ -1,0 +1,32 @@
+{
+  "input_sha256": "f62f3c9f5734f52244ce11b49ae07b43b95523fdd5d346e40d40c36b6806b114",
+  "screen_rows": 570,
+  "screen_nominal_usd": 69905103037.43729,
+  "flag_rows": 227,
+  "flag_nominal_usd": 29503412215.0,
+  "top_rows": 10,
+  "top_nominal_usd": 17711920000.0,
+  "windows": {
+    "early": {
+      "international_positive_rows": 132,
+      "international_positive_usd": 23454976749.0,
+      "audited_rows": 5,
+      "audited_recorded_usd": 9835000000.0,
+      "recorded_value_coverage": 0.41931399486121057
+    },
+    "late": {
+      "international_positive_rows": 173,
+      "international_positive_usd": 18156477640.437286,
+      "audited_rows": 5,
+      "audited_recorded_usd": 7876920000.0,
+      "recorded_value_coverage": 0.43383524910453336
+    }
+  },
+  "reviewed_host_supported_rows": 8,
+  "reviewed_host_supported_recorded_usd": 15211920000.0,
+  "reviewed_issuer_ambiguous_rows": 2,
+  "reviewed_issuer_ambiguous_recorded_usd": 2500000000,
+  "exact_original_currency_amount_match_rows": 2,
+  "exact_original_currency_match_archive_converted_usd": 4056920000,
+  "exact_independent_distinct_finance_exposure_verified_rows": 0
+}

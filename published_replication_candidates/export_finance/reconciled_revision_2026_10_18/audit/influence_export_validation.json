@@ -1,0 +1,61 @@
+{
+  "method": "Direct pandas regrouping after physically removing rows; independent explicit endpoint algebra; all-output closure/ledger/rank checks.",
+  "ledger_counts_by_type": {
+    "package": 216,
+    "provider": 1008,
+    "record": 41184
+  },
+  "ledger_status_counts": [
+    {
+      "unit_type": "package",
+      "deletion_status": "already absent",
+      "count": 24
+    },
+    {
+      "unit_type": "package",
+      "deletion_status": "deleted",
+      "count": 180
+    },
+    {
+      "unit_type": "package",
+      "deletion_status": "outside geography panel",
+      "count": 12
+    },
+    {
+      "unit_type": "provider",
+      "deletion_status": "deleted",
+      "count": 1008
+    },
+    {
+      "unit_type": "record",
+      "deletion_status": "already absent",
+      "count": 156
+    },
+    {
+      "unit_type": "record",
+      "deletion_status": "deleted",
+      "count": 37068
+    },
+    {
+      "unit_type": "record",
+      "deletion_status": "outside geography panel",
+      "count": 3960
+    }
+  ],
+  "maximum_endpoint_identity_residual_pp": 2.842170943040401e-14,
+  "direct_regrouping_entity_checks": 1728,
+  "maximum_direct_endpoint_residual_pp": 1.7829487886089623e-14,
+  "annual_rows_validated": 1696320,
+  "direct_annual_class_rows_checked": 69120,
+  "maximum_direct_annual_residual_pp": 7.105427357601002e-15,
+  "ranking_rows_validated": 296856,
+  "concentration_rows_validated": 1512,
+  "status": "PASS",
+  "runtime_seconds": 21.654499322998163,
+  "ranking_status_counts": {
+    "ranked": 267792,
+    "not_in_panel": 29064
+  },
+  "partially_undefined_ranked_vector_count": 0,
+  "all_undefined_deletion_vector_count": 0
+}

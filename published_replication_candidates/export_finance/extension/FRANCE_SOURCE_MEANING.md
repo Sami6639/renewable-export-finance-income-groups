@@ -1,0 +1,15 @@
+Historical prerequisite analysis, superseded for revised interpretation by reconciled_revision_2026_10_18. Retained to document the preceding analysis and replay.
+
+# France reported-mechanism review
+18 October2026. Raw-data labels are preserved. See `france_reported_loan_renewable_source_review.csv` for all10 BPI France/Loan renewable entries in FY2020–2022.
+
+The three largest records concern Dogger Bank and total$4.57995billion. Official BPI's2020 overview describes credit insurance for the project; the independent auditor is documenting transaction-specific primary evidence. The archive's Loan label does not itself establish direct BPI disbursement. Rows7410 and8034 both name A/B in2020 and require distinct-financing-layer/overlap verification; no deduplication was performed.
+
+Conversely, the official Benin Ministry of Economy and Finance's26February2020 announcement identifies a€20.6million credit agreement with Bpifrance Financement, financing15,000 Fonroche streetlights. This supports genuine lending activity within the BPI group for the project corresponding to source row7535, while the exact archive USD amount is not independently reconciled here. Source: https://finances.bj/le-gouvernement-leve-135-milliards-fcfa-206-millions-deuros-pour-le-financement-dinstallations-declairage-public-et-le-benin-devient-le-premier-pays-a-conclure-une-conve/ . French Treasury corroboration: https://www.tresor.economie.gouv.fr/Articles/e76b47ec-c0cf-49b0-8af4-bae192db00a0/files/ff349095-431b-4a7d-8797-9d47a3f4d993 .
+
+Bpifrance Assurance Export's project-financing product protects the lender against loan nonpayment, rather than identifying the insurer as direct lender. Source: https://assurance-export.bpifrance.fr/offre/assurance-financement-de-projet/ . BPI's group credit-export product separately exists and can itself be insured. Consequently neither the archive's label nor a blanket Loan→Guarantee substitution is justified across all10 rows. Four source entries say data provided directly by BPI and cannot be fully independently verified from public transaction documents in this review.
+
+These findings qualify the financial interpretation of already-reproduced accounting. They do not retroactively turn the raw records into invalid observations. The proposed bounded source sensitivity is documented separately before execution.
+
+## Stronger amount-basis finding
+Independent primary-source inspection retrieved BPI's official archive https://www.bpifrance.com/storage/sites/7/2023/05/Liste-contrats-garantis-2004-2022.zip . Its2020Q4 Dogger A/B €2,400million and2021Q3 C €1,180million match the OCI amountOriginal fields. The introduction identifies contract amounts; the quarter tables label the column Montant. This does not establish financing principal or the insured lender exposure. As a result, both amount basis and instrument meaning require qualification. The$523.03million additional A/B record has unresolved financing-layer overlap. No correction or recoding is made without source evidence.

@@ -1,0 +1,352 @@
+[
+  {
+    "path": "manuscript_design/source_reconciliation/additional_fx_flags/primary_source_adjudication_1976_8176_9622.json",
+    "bytes": 3968,
+    "sha256": "11d4dc1f7f8288d31a6d2f2a9bf62b9043cf99ce6554a15b50c827a70ae7e628"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/additional_fx_flags/primary_source_adjudication_1976_8176_9622.md",
+    "bytes": 3413,
+    "sha256": "a0585910f8c07743768147a8cf11ed0d21f1d7362fe1b4dcda6dc4431cb73282"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/additional_fx_flags/uk_9180_primary_review.json",
+    "bytes": 1434,
+    "sha256": "f0a2701f53c721b2b70520d29750a4499c15d302cfa1a18199b1cfb3748ba11a"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/RECONCILIATION.md",
+    "bytes": 11347,
+    "sha256": "7f8eadfd07178ffa4ed400372eea88993c0648735a239230c8e9980b02c89fd8"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/archive_rows.json",
+    "bytes": 4841,
+    "sha256": "fb9e04a3f330afb30e4362078aeb668fba772ded0cf7f82c14aeb27dde3f71ee"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-01.png",
+    "bytes": 50612,
+    "sha256": "1f926024c379dc7c370f6bd49b15800536304ded1c7ec82ef8d9e10a19005cfc"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-01.txt",
+    "bytes": 365,
+    "sha256": "1f6dc0ae1837704fcdf2af292fc2babff1dfe067328f878d8e5194d6baf902ea"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-02.png",
+    "bytes": 84086,
+    "sha256": "8d0d8ad52586247f09b9997f7f1f3a8f02fe2c1320da2085d64878d316ae89ce"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-02.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-03.png",
+    "bytes": 130586,
+    "sha256": "6956142e878b33ffc54e5fdbecb11139db2c7241d65ae02be260a3d2ff5223af"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-03.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-03_fast.txt",
+    "bytes": 1657,
+    "sha256": "d56ec4e48027d984827f128df7097596c7e5a541ac294068f37ea17d5fdf59b0"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-04.png",
+    "bytes": 165508,
+    "sha256": "2de1bc4b9c824d1b483131ab34509f2c5f10a64a0a4734511f201d9261fb7808"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-04.txt",
+    "bytes": 2297,
+    "sha256": "26f12bfcb11e1416eca9e3aa7a5d305727af09b847a2ecf58ff1d26734e2494f"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-05.png",
+    "bytes": 136452,
+    "sha256": "c1462689445e3ba5ce3a8a28a971aa5ca0ac05b4ec46b9eff5462c09ebe52525"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-05.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-06.png",
+    "bytes": 119578,
+    "sha256": "ef698a6d6bbcfe75bda1a05ab741bde6ae2cad1a1a4491a7848a1c44bb4eca6b"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-06.txt",
+    "bytes": 1609,
+    "sha256": "3e1e8021f3f4f0c8f75075539860aaa35efd1db4a495fe4f6bb5a189f77de68a"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-07.png",
+    "bytes": 153873,
+    "sha256": "71cadcfd073e631640d8167219f3f25072c78dff1507235b9e21d4e239703740"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-07.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-08.png",
+    "bytes": 146569,
+    "sha256": "62f1fa5cadb59d09bdf5c69c23ec5472913f9b635f57175fe6d57a78a311f911"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-08.txt",
+    "bytes": 2056,
+    "sha256": "12f0b77d49993c8712072bff952cec0d11bb1b4e4f88fc70d51d30cf5cab765c"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-09.png",
+    "bytes": 140665,
+    "sha256": "5f3f4ddf59527df5870d064c0abc81d55fa60bc31646d02fb8140b2c6e7e6435"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-09.txt",
+    "bytes": 1905,
+    "sha256": "e56af3bbbc26d9d0cb07492aa5c45a68ac5dab5f57b76c6cf1e47709fbe217c0"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-10.png",
+    "bytes": 131098,
+    "sha256": "0ae04c2f16f4c1d52e77008b87d6e6f45721bdd4c220c5a4a453ab5dbcfab1ae"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-10.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-11.png",
+    "bytes": 127691,
+    "sha256": "8bb62321f7ea5e5fef4191bc2733e6ef180cdf0bddae4346132134cc100db3f0"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-11.txt",
+    "bytes": 1673,
+    "sha256": "5b03dba11b651f8cdaa8e165bcd8a3ab828883ce52466913c9da7729ca88669e"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-12.png",
+    "bytes": 137461,
+    "sha256": "6ad48458fa185077b1039c52b0ea581dc7730402777d852e718bb1f0201451ad"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-12.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-13.png",
+    "bytes": 142619,
+    "sha256": "1e54c23ea44714a56df42397c59e2493dc9b90a6fe21cd113d2a2e7bc63a2d38"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-36.png",
+    "bytes": 150250,
+    "sha256": "75471dd4c1daf352e7b77a7ba77886a59bf65ba546cf73e89a5b3001050f9f6f"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-37.png",
+    "bytes": 178785,
+    "sha256": "d5f239c5e678734a35793b46c648d349868cee10cdbe44f322585b43cd839af2"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl-38.png",
+    "bytes": 163948,
+    "sha256": "30b4c18f58633b464d16b11aed4952f28f6c0ef157a7c7488d26168eee6f26fd"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl_2015.pdf",
+    "bytes": 2540704,
+    "sha256": "184eee6d57375e7b5f12bef58205c085a80c19cef9e14c9f551a8493e76d58b0"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/bcl_2015.txt",
+    "bytes": 60,
+    "sha256": "3145aa55a01a70f7e2f8603ac9c64e90a3985b0a61048089ccfcd4405b808206"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/manifest.json",
+    "bytes": 772,
+    "sha256": "dcc8ba4ab307eb27af7d248f7e9ef57bcddceba5dbba422619f580b204e79c90"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc-01.png",
+    "bytes": 57744,
+    "sha256": "4b0565bd72d76457bbcf10dc87ccf8102fdf30137a6ff15561c22925faffcbce"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc-02.png",
+    "bytes": 70886,
+    "sha256": "fb20aae59c40bdd799a79318a411cb856c6c99c5755467d2a69cff5c30662757"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc-03.png",
+    "bytes": 120532,
+    "sha256": "c89b29aa5103c7a2fd77a87d83e5cdd1a368892c3156fdb094df8cae7afef822"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc-04.png",
+    "bytes": 136925,
+    "sha256": "89cf21432152aa91c2847e7bce8a6bd44fdb9ae56018b3412d8d30757d212fe8"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc-05.png",
+    "bytes": 121437,
+    "sha256": "1de937ee020d648e731121ac07a92247223a2570ad4269686d3db56a1639d7fb"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc-06.png",
+    "bytes": 121751,
+    "sha256": "20b7cda55dbd7b33a0ef17ec3b847a914d953e31f6b7d81a06636d6a175d1066"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc-07.png",
+    "bytes": 124814,
+    "sha256": "3de6dfb26c348a160fc988f27db24022491668be0c267883dd05bb8b3302cbcc"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc-08.png",
+    "bytes": 142594,
+    "sha256": "6e9c872d71ef3c5cfdac85d66e00c1895acf9e2bedf864667bcc10e4ee716195"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc-09.png",
+    "bytes": 126011,
+    "sha256": "4e3a68f06d2c2fe03e8df790c9d129ecae8199f2f46427b328df70c9db809665"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc-10.png",
+    "bytes": 145291,
+    "sha256": "95098071ace146fd4d2a783d5772e4ae337883a38cbcc23d66ade040c13efc0e"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc-24.png",
+    "bytes": 134102,
+    "sha256": "29526b671802f4f7ca382b2d7b9d7da148bc9873696bfac5b1326f482bd26b99"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc-25.png",
+    "bytes": 72824,
+    "sha256": "825054525cce67e798bb65f0e171f9688f69d5ac445bb10e5aa0e48187877a3e"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc-26.png",
+    "bytes": 77239,
+    "sha256": "6b3021cfdcff6193b61a54b28b4dcfbacf2953f7b0015eaf13416c3865a72666"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc_2014.pdf",
+    "bytes": 1721010,
+    "sha256": "277ffcba6e32ae94a4d0fc2eff7b9353d8853d1e9e86aafddce1c8a47b31545c"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/pbc_2014.txt",
+    "bytes": 46,
+    "sha256": "8c3f6c4fabe89d5e019fe9a615a9f4e4265de63ab538bddc0574a368acf01ebe"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/uegcl_2015.pdf",
+    "bytes": 4168365,
+    "sha256": "d29d24f2c714c1ea8d3b2060fcf8fb77f5c1ba4e938f06b0542e207bb712de6b"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/karuma/uegcl_2015.txt",
+    "bytes": 200273,
+    "sha256": "31e63e19a80f4e105bbda0581604c69a42fbb2d7791227e326b42ebfa4e5228d"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/RECONCILIATION.md",
+    "bytes": 8487,
+    "sha256": "4575d909fd1ed22b4cb90ee0ac1d4e84e8f0c90193c6c578ac69afd559037e18"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/jbic_2015_statistics.pdf",
+    "bytes": 1031765,
+    "sha256": "14b646fd58a0afe38c7fafd787a23fbb40aba7a974a37f9fec2c5b4a0b56897a"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/jbic_2015_statistics.txt",
+    "bytes": 625384,
+    "sha256": "680a4327ac81de1d8048753c9f8c5445304f7384572c00c976fec5de89db84ea"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/jbic_africa2019_failed.html",
+    "bytes": 23173,
+    "sha256": "bb668210f821b0e4532e31f3e757bcbe330dec0408b75a3050e9f3539ceef2c6"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/jbic_africa_en_failed.html",
+    "bytes": 23173,
+    "sha256": "bb668210f821b0e4532e31f3e757bcbe330dec0408b75a3050e9f3539ceef2c6"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/jbic_africa_failed.html",
+    "bytes": 29196,
+    "sha256": "0dceba2b47550bcce75c789ddeb29dd5e411772564f19d3989298836c7c8ee03"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/jbic_africa_portuguese.pdf",
+    "bytes": 2135527,
+    "sha256": "fbb26f5c6fd7f3d4bb22f59f40819ff46499ae79bf71f8a4f32a73c70efc4b01"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/jbic_africa_portuguese.txt",
+    "bytes": 87861,
+    "sha256": "7013bfa46d7761137c01d3a38ed5cfe1b33ee3ae6ec6c9e1e439fa72d53192f9"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/jbic_africa_spread6_7.png",
+    "bytes": 2317346,
+    "sha256": "3514f2dbc93034bda2166aa35498e08649d5babc36045382290e8e528b306cc3"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/jbic_environment_spread3_4.png",
+    "bytes": 1429666,
+    "sha256": "9aaa13b4ef90e4c67255e00816a2f89df28c0aeb55ca0dc8d61c7105de33c493"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/jbic_environmental_sustainability_ndl.pdf",
+    "bytes": 816694,
+    "sha256": "85bfa97b55c468f9b1b76e56d36e66f41ee77ac20771bed1685c31fce3449178"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/jbic_environmental_sustainability_ndl.txt",
+    "bytes": 60871,
+    "sha256": "e015d846357940bfe7946629df0ecadc37a4d737564e0b3af52458d12692d9d5"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/jbic_printed98.png",
+    "bytes": 261122,
+    "sha256": "d1c949d74612c910198a80632f4ca0455498e999536eb8af83bbd89de55bc53a"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/manifest.json",
+    "bytes": 2533,
+    "sha256": "9fdc7f3f0e81ab441d0bf07da4994c0f0932b83afa4954c5678021439f0bddcd"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/row_reconciliation.csv",
+    "bytes": 541,
+    "sha256": "369130ead61c51b859b487356706e4843f019a39201f6678aa6ea7164ce7acdd"
+  },
+  {
+    "path": "manuscript_design/source_reconciliation/standard_bank/standardbank_2015_failed.html",
+    "bytes": 509561,
+    "sha256": "29dac2443125503a4005e3ba4498d08a0076eb79e3a57a363d8cfdec817f981c"
+  }
+]

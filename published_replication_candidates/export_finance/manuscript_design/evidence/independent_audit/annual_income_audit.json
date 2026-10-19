@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "independent_method": "Python standard-library csv reader, row filters, math.fsum; no import or execution of builder; no fitted models or changed classifications",
+  "checks": 10096,
+  "errors": [],
+  "max_absolute_numeric_difference_above_one": 1.52587890625e-05,
+  "class_rows": 480,
+  "coverage_rows": 96,
+  "prior_endpoint_cells_checked": 56,
+  "known_international_records": 1988,
+  "all_source_records": 2908,
+  "unclassified_known_international_records": 0,
+  "missing_nominal_known_international_records": 1,
+  "source_sha256": "f62f3c9f5734f52244ce11b49ae07b43b95523fdd5d346e40d40c36b6806b114",
+  "quarantine_rows": [
+    7410,
+    8034,
+    8413
+  ],
+  "scope": "FY2013\u20132022 Renewable/Fossil, fixed FY2013 income, nominal and once-deflated 2020 USD; early FY2013\u201315 and late FY2020\u201322",
+  "interpretation": "Recorded heterogeneous values by reported recipient countries. Missing amounts counted but excluded from numeric sums; an empty class sum is an accounting zero, not an imputed missing amount. Unclassified conditional-classified shares are intentionally undefined (blank).",
+  "chart_input_review": "Builder inspected: figures 1 and SI use complete annual grid; figure 2 uses nominal full-technology/geography changes; figure 3 uses previously audited provider decomposition; figure 4 uses nominal renewable pooled endpoints. USD/1e9 for bn; fractions*100 for shares and percentage points. No new model or recoding found.",
+  "bridge_status": "Reviewed separately in documentary_review.json"
+}

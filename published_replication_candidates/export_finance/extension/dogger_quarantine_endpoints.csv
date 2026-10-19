@@ -1,0 +1,5 @@
+scenario,window,entries,recorded_nominal_usd,allocable_recorded_nominal_usd,high_income_recorded_nominal_usd,high_share_allocable,missing_amount_entries,amount_basis
+Unaltered archive,early,132,23454976749.0,23454976749.0,2556213120.0,0.10898382664604363,0,Mixed recorded source values; remainder not comprehensively validated financing principal
+Unaltered archive,late,175,18156477640.437286,18156477640.437286,9303519633.0,0.5124077377365102,1,Mixed recorded source values; remainder not comprehensively validated financing principal
+All three Dogger records quarantined,early,132,23454976749.0,23454976749.0,2556213120.0,0.10898382664604363,0,Mixed recorded source values; remainder not comprehensively validated financing principal
+All three Dogger records quarantined,late,172,13576527640.437284,13576527640.437284,4723569633.0,0.34792177779913236,1,Mixed recorded source values; remainder not comprehensively validated financing principal

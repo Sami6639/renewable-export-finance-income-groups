@@ -1,0 +1,46 @@
+{
+  "reviewed": "2026-10-18",
+  "source_row": 8129,
+  "files": [
+    {
+      "file": "RECONCILIATION.md",
+      "bytes": 7896,
+      "sha256": "b6f0fe88d0ae5111608cd5ecce06a5ffa9c732dd2bca00517828762f9ffdc416"
+    },
+    {
+      "file": "guinea_debt_bulletin_2020q2.pdf",
+      "bytes": 713397,
+      "sha256": "2c5d8c3d659f0ac43a6999c00aeec394901e4ba4a8df93cc3306685ffb833de5"
+    },
+    {
+      "file": "guinea_debt_bulletin_2020q2.txt",
+      "bytes": 44380,
+      "sha256": "cda54d8a49252513ea7b485efdf3bd7bec03d990e08d7d52ca2e7603d2c626d8"
+    },
+    {
+      "file": "guinea_debt_bulletin_2020q4.pdf",
+      "bytes": 753586,
+      "sha256": "d7600960f69e15c409da0f9b4d612500ccc78e04cbd336b1889c9d1f07ae1a65"
+    },
+    {
+      "file": "guinea_debt_bulletin_2020q4.txt",
+      "bytes": 44265,
+      "sha256": "cb6984a42706b35176f76e2672dc26da6b69c74ca1c679eced7e9b37e1a4190b"
+    },
+    {
+      "file": "sylla_2018.html",
+      "bytes": 120052,
+      "sha256": "f95047d58c724747c1697cc86092969b333f4ecc3bfd157e7604a35954f14e1d"
+    },
+    {
+      "file": "wb_imf_dsa_2021.pdf",
+      "bytes": 490566,
+      "sha256": "70e4ebd4945839c5ea936639511b63e3e100efc6663b53da5fcf0f642dab1725"
+    },
+    {
+      "file": "wb_imf_dsa_2021.txt",
+      "bytes": 136477,
+      "sha256": "6b29464a3d286aead01ba6c44cc0dddd8a32efe4d7eccbdff66a5fb890cf8863"
+    }
+  ]
+}

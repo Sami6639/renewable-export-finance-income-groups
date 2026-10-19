@@ -1,0 +1,23 @@
+{
+  "records": 33,
+  "journal_articles": 24,
+  "source_owner_reports_data": 9,
+  "all_journal_dois_crossref_verified": true,
+  "unique_dois": 26,
+  "max_claim_words": 23,
+  "missing_final_pagination": [
+    "R08",
+    "R24"
+  ],
+  "partial_pagination": [],
+  "quartile_verified_records": [
+    "R01",
+    "R09",
+    "R12",
+    "R14",
+    "R15",
+    "R19",
+    "R20"
+  ],
+  "verified_on": "2026-10-18"
+}

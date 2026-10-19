@@ -1,0 +1,1681 @@
+{
+  "package": "oci_reproducibility_v2",
+  "version": "2",
+  "date": "2026-10-18",
+  "files": [
+    {
+      "path": "CODE_PROVENANCE.json",
+      "bytes": 6803,
+      "sha256": "9271bdc71f753ba9c2e1f3d8eee744bd8f7b8817afd241c0d1c52dbf70b266d9",
+      "part": "core"
+    },
+    {
+      "path": "OUTPUT_PROVENANCE.json",
+      "bytes": 18340,
+      "sha256": "fa78c82d65f096ec2e721cdf5e1be719d511f5b21e224420d40e3a9de8519f3a",
+      "part": "core"
+    },
+    {
+      "path": "PACKAGE_VALIDATION.json",
+      "bytes": 2807,
+      "sha256": "6cc60c12a25f76fe599eb571685f1f4d98cbf16a9e075651e1a0bb20a497109d",
+      "part": "core"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6352,
+      "sha256": "8c5dfc2d54aeb383b351497bb5f2d478e541277363a0bb4b65169fc9f78049cd",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/FRANCE_SOURCE_MEANING.md",
+      "bytes": 3045,
+      "sha256": "72fbabc9e9d720314d62090951bcae256aa57625ed72e6c69adb507d10e91956",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/GATE_ONE_REPORT.md",
+      "bytes": 8303,
+      "sha256": "7f2850bf0767d227ce24cb7813447eb578b31f8a5f82b9da91159fbacdbe8e4f",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/RESULTS.md",
+      "bytes": 20625,
+      "sha256": "42bf57631618f896860f8e48e4cdf637495e1451ccc8f5986a9ca139a7fca56d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/allocation_cell_accounting.csv",
+      "bytes": 266353,
+      "sha256": "beca6c7b1456b274b2c53f29ba10d2441731d30529235b0354ba1d319fda1d80",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/allocation_change_bounds.csv",
+      "bytes": 8977,
+      "sha256": "365223e3649a2ce38f40421b12679ef82e3b2b8a0098f7f4e11816981376164b",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/allocation_coverage_bounds.csv",
+      "bytes": 15063,
+      "sha256": "8450c8f5e6009914d06623b39bfd5d81fe498e6d57eb21b7f5e02fbdf25e751f",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/allocation_decomposition.csv",
+      "bytes": 6690,
+      "sha256": "058bd26f694a57a8268270128242e34d87cb137dd377c348e1b59693b0a27034",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/annual_coverage.csv",
+      "bytes": 643,
+      "sha256": "75ccedb997b8d35f0c9dd0688c187cd9e2ef6b32d8efeacd8149ce0aef3f8ee3",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/annual_instrument_coverage.csv",
+      "bytes": 1934,
+      "sha256": "ce0464c7e45b0235cf4ac1449ef46f7e5a6c20f5bdef47d38ce4000ac36f2000",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/annual_technology_coverage.csv",
+      "bytes": 2350,
+      "sha256": "b243eaaad09e10045b6a6da5a98be9fcf1a712a28115a403c6f661664c580955",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/audit_extension.py",
+      "bytes": 8994,
+      "sha256": "3aa6583fab83c1ee8de8edcb2275849111ce42008c69fcb492b87789a0f18646",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/audit_manifest.json",
+      "bytes": 1840,
+      "sha256": "e71b3470813daf55f5a57459884731b4c07b4848086f1faee1adf295a741c283",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/coverage_reconciliation.csv",
+      "bytes": 586,
+      "sha256": "238f7c7cad1766c169651ac79b0ad10d5bbe6d7188c50ef381e6e85817e03506",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/cpi_validated.csv",
+      "bytes": 557,
+      "sha256": "bf58623898f0ff6506a0cd91e36cf8e170ade775103b58959c41fb12d4f31b42",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/decompose_allocation.py",
+      "bytes": 6796,
+      "sha256": "fdd7d79bca0a9181c1fa864465325b5b9ce1986d974fd78064f82bdf68a8eb2d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/decompose_provider_only.py",
+      "bytes": 5951,
+      "sha256": "7e00708498dd355fc7a2e32567efebf183ad6b20027d7c420387fe4d5519de9b",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/decompose_provider_only_quarantine.py",
+      "bytes": 6543,
+      "sha256": "8f26557939097469b404716929dafb5a9f5ca9b622b0d54bab85b7237a8b6b24",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/decompose_technology_geography.py",
+      "bytes": 6320,
+      "sha256": "a205347bea262d87e6927034163156a9ed2d8f7aab9e9d202cce75f15e6decd1",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/dogger_quarantine_change_envelope.csv",
+      "bytes": 211,
+      "sha256": "196cfb5a7a7aab22be9a2d504a6fcab27322ae9deb48bb87a3455bd2117165c4",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/dogger_quarantine_endpoints.csv",
+      "bytes": 945,
+      "sha256": "229212238118031d9ce3d01a6590dc0f2266dd8fbbd477c2011bcb88a03624ae",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/full_technology_geography_changes.csv",
+      "bytes": 5583,
+      "sha256": "f9302547c08c377e394279070eb0381a51dbd8c6d9230f96f5d60078e1778ec2",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/full_technology_geography_coverage.csv",
+      "bytes": 9530,
+      "sha256": "8c4d9c1f6dee174fdbcfdeabea92c55c199324730f3160507133a144b56e69bc",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/income_mapping_freeze.json",
+      "bytes": 845,
+      "sha256": "63d8e9d7ce25ad6c8f6d30d633102f7e725312928f09204cd7f12d30d6aecbb2",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/FRANCE_SOURCE_AUDIT.md",
+      "bytes": 4910,
+      "sha256": "0ebdbea55ba2546da66aa07a3283c450a4cab7a27b5c10aca722dffee44d7118",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/annual_recomputed.csv",
+      "bytes": 458,
+      "sha256": "2164890c7f86e6a143a822111e620c81eb5221688ec53f8aa3d2dc8f6c3f94b0",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/decomposition_check.json",
+      "bytes": 90,
+      "sha256": "ac334cd2703106551dd50a7d052e16a513aec6d88d3ab0626288f7378e26ef33",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/provider_only_check.json",
+      "bytes": 149,
+      "sha256": "00708220880e06ef318f37bb146f9e70028fd8d6c473d4eb13d727b264395b79",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/provider_only_quarantine_check.json",
+      "bytes": 149,
+      "sha256": "00708220880e06ef318f37bb146f9e70028fd8d6c473d4eb13d727b264395b79",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/quarantine_check.json",
+      "bytes": 141,
+      "sha256": "e86e0eb50e3080965e4e6ef3cf832eaf0d8c7eb7d43784fcfc33324211cc7ce4",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/recompute.py",
+      "bytes": 2443,
+      "sha256": "d382e4fac1d0811621640f7cd2dcc2fe2e1eb77db1d6c5bfae5681b7114d15ec",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/recompute_decomposition.py",
+      "bytes": 3328,
+      "sha256": "be7a1ba872e9f3b1ff97f42a8aff17a1aab7cb94d504d98d6811b46de3542b6e",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/recompute_provider_only.py",
+      "bytes": 4459,
+      "sha256": "62d97fed151e9a156c6b33bbd3a1b8c21e385c960acd1e897bb823e35294bcaa",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/recompute_provider_only_quarantine.py",
+      "bytes": 4546,
+      "sha256": "970730c862c31174948db38cf77c7e56e01da39f41c36db16c2f9657872c4fda",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/recompute_si.py",
+      "bytes": 1751,
+      "sha256": "2970fe930e58fe71055639d3cfa7420368cbb80a382dcbcabe97e27796114754",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/recompute_stratified.py",
+      "bytes": 4474,
+      "sha256": "18b42232554aa1609a5bb7c352413aec66b17ebbb5077ad21fc9070568865806",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/recompute_technology.py",
+      "bytes": 3348,
+      "sha256": "beeb1c1d7f763827dbd43bb2c7ceba11b9edf8fdac7e4432010182bff35d88b2",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/si_recomputed.csv",
+      "bytes": 2792,
+      "sha256": "8a7ba5a9b041f87764b9f03ae27992495d715a8f9a149d6139981b9a9f1171c8",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/source_recomputed.json",
+      "bytes": 71238,
+      "sha256": "6d1592fd59745f0d0a17d331d7eeb8bd2e3ab9e448e789fdfeb205ca7ee9704d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/stratified_check.json",
+      "bytes": 150,
+      "sha256": "7ee21fce2033ee20c4aba8fde8d698018a7dae50c5e2beae1875b56606619f8d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/independent_audit/technology_check.json",
+      "bytes": 99,
+      "sha256": "87f820ded6395fc771bd414f6cca5e2394ff0ccb33980123ee20dcb930074dd4",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/international_renewable_fossil_allocation.pdf",
+      "bytes": 34934,
+      "sha256": "b1fcd716c2f94680c61534c0e783645512d04fa964e3942cef5f98ce2dd79eb7",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/international_renewable_fossil_allocation.png",
+      "bytes": 220186,
+      "sha256": "5c60d57605003d3807cee1d74db8cae2a1d360a22d354d8d4a1bc43c0341b085",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/plot_international_allocation.py",
+      "bytes": 2991,
+      "sha256": "c62425a5ba99fc2a038dc7dce700778eedee2f7f14685fec42c6f63420b71f06",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/prepare_income_mapping.py",
+      "bytes": 5414,
+      "sha256": "019e9861ef234ba29d56a20e541231c1982489883fdaa392415a82101ba08e3f",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/provider_coverage.csv",
+      "bytes": 972,
+      "sha256": "37d179ba7edf46d6fa4a97eaaefaf50a0dd97847e5c1b966af082a7618789855",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/provider_only_cells.csv",
+      "bytes": 23203,
+      "sha256": "1487bdb5fc171ee981ae937d2e53ae99376bf544c000393feade8ea9bc43baec",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/provider_only_decomposition.csv",
+      "bytes": 2995,
+      "sha256": "c71c992fd88215b0c58d405b315a561df1a304ba26e4f378a248361730045a41",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/provider_only_endpoints.csv",
+      "bytes": 4268,
+      "sha256": "39118892ed6025c40315f582d8c457a4eae64454ebe590a58fed4a0672ad01b1",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/provider_only_quarantine_cells.csv",
+      "bytes": 23083,
+      "sha256": "80ad8bcac5638c35ce0b689619aec0467c5d3dae4a537b6cfb5016811a691033",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/provider_only_quarantine_decomposition.csv",
+      "bytes": 3021,
+      "sha256": "23c613ea269dabb410bef05083225709e530fc0a7f57ce18f7b9174c19564a39",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/provider_only_quarantine_endpoints.csv",
+      "bytes": 4275,
+      "sha256": "6118a54d9cd229c7cbba0c74e03397a04fae015603a3abdbe3624ba586c8e3a5",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/provider_only_quarantine_signed_cell_contributions_sorted.csv",
+      "bytes": 26910,
+      "sha256": "a6f19c279ce545d1633c65bf08b30521aceaed51213da6845436beabafd5dbe2",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/provider_only_signed_cell_contributions_sorted.csv",
+      "bytes": 27098,
+      "sha256": "5f0bd3eac14f47e8cd65c7f7476bde2966a39dca8bbf7ab47f44eed9e1c16bac",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/published_si_fig1_reconstruction.csv",
+      "bytes": 3315,
+      "sha256": "541d63f1a501a11c9fd0049f97f6462772bf3fc5f77c3798054c4ee5032b089a",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/quarantine_flagged_source_rows.py",
+      "bytes": 2776,
+      "sha256": "1a53f28baf6bfc89a21075d3b3f0bf4b10a90ff556e194653b1f6f6f1953c79b",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/recipient_mapping_review.csv",
+      "bytes": 11196,
+      "sha256": "8f7a7836a1d4212375df7c7507988326b9fcbe2c9c2124e2ef7a78d17a265a3a",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/sample_flow.csv",
+      "bytes": 490,
+      "sha256": "fcfbda0f1c3233752c7849a0d579e71aa1f856b12da1dcfbe2815eaf86a44864",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/source_hashes.json",
+      "bytes": 2122,
+      "sha256": "ccdac8b1f27c43560837947f6cdb03a99c328c42829654010aee27e986d75df1",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/technology_allocation_cells.csv",
+      "bytes": 267191,
+      "sha256": "7dadfdd1246893313941a5a485fa852f45cb0e0299fb1ea0a24be9bc717471bd",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/technology_allocation_decomposition.csv",
+      "bytes": 20423,
+      "sha256": "de8fe94e56b50422ab9bc4777aafed0d47378707a65c085518399117681d9efb",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/technology_allocation_endpoints.csv",
+      "bytes": 28208,
+      "sha256": "608bae8f6391e4652785231ff1f6b479f5d608d66213fba1265242817cf82ed1",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/technology_diagnostics.py",
+      "bytes": 3027,
+      "sha256": "26d3e0bea0123492e1a1bff06de2970a0ab6317bc27523ab6fad658cac71ef08",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/technology_signed_cell_contributions_sorted.csv",
+      "bytes": 314353,
+      "sha256": "715c7a177ecb2231a181183cf0e8c38658c801e01595ba297f51e762aa6c3a3d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/DISPLAY_PLAN_AND_CAPTIONS.md",
+      "bytes": 10318,
+      "sha256": "0e04429e065dfd9cfecaf6061cc40c58b7a07242e88a72cc37ca03535b60e206",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/README.md",
+      "bytes": 1917,
+      "sha256": "13f1360e5f99caee92d154ae85dc8910225cc89d81b1ac3ec7b313c8b93a598d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/SCOPE_BRIDGE.md",
+      "bytes": 5659,
+      "sha256": "ebad517ef43c3be179d3547f5d2f2b0b309a8b5692f81da8431a3eb7b9d1f33c",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/annual_and_window_coverage.csv",
+      "bytes": 14633,
+      "sha256": "196b6784b5f744e4dd6eb2549bcc9859b7b391cd50326917b01dec3463b38539",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/build_evidence.py",
+      "bytes": 10834,
+      "sha256": "2c49c0eab492fae93c0693f09f72a5f74d7de53e87fb522e358cd4f38a7293c9",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/figure1_annual_allocation.pdf",
+      "bytes": 18799,
+      "sha256": "4a697db5405da9db89c89ffbf02040281e4deca2c8cea6b1da708f814f00ac05",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/figure1_annual_allocation.png",
+      "bytes": 296192,
+      "sha256": "c6a7de76c2b9e9a108c4e0c4c6ce3b323322445535c580f55b11e4809245dbc7",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/figure2_complete_comparators.pdf",
+      "bytes": 13940,
+      "sha256": "6e4380efc469c84085a3376c99bab30d04727b77803ffc77ed199a2ba238c004",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/figure2_complete_comparators.png",
+      "bytes": 78671,
+      "sha256": "cab9c5221fa6761b1b082c0f1d6c7b3b4b089f235db7a13eb4cb55e685d9df86",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/figure3_provider_accounting.pdf",
+      "bytes": 12901,
+      "sha256": "4f865c7608f2bc458f47f3f62b920697543c1cd8943bfe1c058ed4413e4899ea",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/figure3_provider_accounting.png",
+      "bytes": 73824,
+      "sha256": "c80a72ec21a5c228e65c2c48bde9d68874834220bc59907fec0b983c96745c4f",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/figure4_source_scenarios.pdf",
+      "bytes": 13163,
+      "sha256": "36845cf20e33d8d69b03e881d907a38b251aae205449310b550b04062f79a27d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/figure4_source_scenarios.png",
+      "bytes": 85947,
+      "sha256": "857ee483b595b5b93bf070d74394cbfb94be8ce9896c4f81c01a6c46fc92cc21",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/income_class_annual_and_windows.csv",
+      "bytes": 81691,
+      "sha256": "966e504b9ab10ed1f07a701af68a0b22cd932a97d845b4084b2f64f7eb5ff5d9",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/independent_audit/annual_income_audit.json",
+      "bytes": 1550,
+      "sha256": "f9614ad888db0d00570c4a95cd169899b02dcca49585d3f6aa7e9d9be8656bed",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/independent_audit/check_evidence.py",
+      "bytes": 8872,
+      "sha256": "3f7f4429c0e86bc412f43b14540ce532cd6b08f11fb5991a821fb257d57601dc",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/si_full_income_path_nominal.pdf",
+      "bytes": 17004,
+      "sha256": "1515529d34efecc5ee54786bcd392b5edd6c07f4a0266e6a70fa855d39817d17",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/si_full_income_path_nominal.png",
+      "bytes": 342913,
+      "sha256": "bc57589c5a717abdffb2d069287dea4b8680c90447cdf4d07d8e386954c1ff13",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/si_full_income_path_real2020.pdf",
+      "bytes": 16778,
+      "sha256": "fcdb0f4cd527b776fd5ff9738fda031f495561c6a60f22a0f13a420696ea6d68",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/si_full_income_path_real2020.png",
+      "bytes": 346531,
+      "sha256": "3c14bc9d6156a237611363513bf6791f6fbc4de9a939b351f77542643028696e",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/table1_data_coverage.csv",
+      "bytes": 5327,
+      "sha256": "6fac53169f595271052f2dd948268357ccae47c84c11c3fe47f87f940052551e",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/table2_allocation_comparators.csv",
+      "bytes": 2889,
+      "sha256": "d03f4dbe6583f6a62e9a0f919630b8bf907509fe43326548e7296037f558c204",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/table3_provider_country_scenarios.csv",
+      "bytes": 751,
+      "sha256": "5d63d4882c41aa4629a6fdaa5568bbbef5355abc17342dd207b8be0f402bed1d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/table4_source_scenario_endpoints.csv",
+      "bytes": 825,
+      "sha256": "b13c9f42de7e08522d7c78a76eb04c01b866e282af66911ad343448ee6938dc0",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/evidence/values_ledger.json",
+      "bytes": 13663,
+      "sha256": "8f6a491f72f3c4f82d55b250b0bea13fe20adf786e60abf5f21120498dc14229",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/references/HISTORICAL_REGISTRY_VALIDATION.json",
+      "bytes": 402,
+      "sha256": "51b736cd9ceef112dd0dcec96099d93b5f30a7c76d12a240c762533bd4f139d0",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/references/README.md",
+      "bytes": 390,
+      "sha256": "2890ea49390ee3e7d147845357da050d689b17e3f2a4f74eead52798b349aa6d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/references/REFERENCE_LIST.md",
+      "bytes": 6611,
+      "sha256": "b87d47fb1247be55fcf83b1d67a354b275bb6234ce27bc540a2bed8cf5a3ce1a",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/references/crossref_verified_metadata.json",
+      "bytes": 643671,
+      "sha256": "9261a08adfd9eb4fd58055e38a03433fcedd887acc9ddd870c9c9aa8c3f4df32",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/references/fetch_crossref.py",
+      "bytes": 1244,
+      "sha256": "b4708109ada0dc026e070e34f6bec1f958ec5f18219c9613cc518b1aa24f77b7",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/references/manuscript_bibliography.json",
+      "bytes": 39543,
+      "sha256": "a7e182906861b481f4b7632c0fd10a422a50e6dbf0b27c82199d59b24c4ae1f7",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/DISPLAY_GUIDE.md",
+      "bytes": 11056,
+      "sha256": "175269f9fc37e3d6a6b2a4db510fe83e4ac806c86afd1f97b0bf290da09d03f3",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/DISPLAY_QA.json",
+      "bytes": 713,
+      "sha256": "98da2256a5a4d0b67f66be9de419513b4ee19b88d28e71b7faccef0e5cf5f162",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Figure_1_annual_allocation.pdf",
+      "bytes": 26056,
+      "sha256": "5d547e0f960a45d4eeb20b5f4c3442feff1d30a523e361295f1bfa71bbfc4d55",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Figure_1_annual_allocation.png",
+      "bytes": 277561,
+      "sha256": "fa3bf14599ec22edc6fda206fdd76ec3678212143296efeb39c51326c30c665b",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Figure_2_endpoint_changes_and_levels.pdf",
+      "bytes": 26142,
+      "sha256": "9badb3886ce4c6a97b6668da004336ee43c4d642b939c56cf5dd201d1c6b88ad",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Figure_2_endpoint_changes_and_levels.png",
+      "bytes": 147425,
+      "sha256": "1448cc1c275641ca85953f3b99714172534c1f427a133fb1cc3c6993a0b150cd",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Figure_3_H_provider_accounting.pdf",
+      "bytes": 23822,
+      "sha256": "9ec416fe3992403052609b64626a1e9465a2074a5780e9a69148410a2b681716",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Figure_3_H_provider_accounting.png",
+      "bytes": 144814,
+      "sha256": "41c067a45d129882c55dc7a65b86e4e009b3751c81cf6518e9cf02681ba463d0",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/SI_Q0_all_endpoint_accounting.csv",
+      "bytes": 34699,
+      "sha256": "1d773ef54587d6716fe8818fe83797af0fcab9b992d65ad6b6f73d3c5dce330c",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/SI_Q0_regional18_endpoint_envelopes.csv",
+      "bytes": 107105,
+      "sha256": "5ba72cb733f6ac7590e15015b99c44643e21d53ddfab066921beaa0fcd488668",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/SI_Q1_all_endpoint_accounting.csv",
+      "bytes": 26968,
+      "sha256": "fe5ed1b4cca2d1e4c26268c635198860e7faceb2d367fa3340523b91a92c335f",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/SI_annual_Q0_core24_agreement12.csv",
+      "bytes": 267390,
+      "sha256": "49929fc084d6b36b32aef1228324291a8482b137c65e0c6ccbf51e1dac01fb6f",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/SI_annual_Q1_core24.csv",
+      "bytes": 216148,
+      "sha256": "9c349d865874e16025994bc2c6bf101a0ead84ad1b6cb6cadf964149049a515c",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/SI_documented_source_contrasts.csv",
+      "bytes": 140641,
+      "sha256": "60f5b592b44c37fc7b19d9e711ca055df5cffb647cfd1135aad6ac60baf16bbe",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/SI_influence_membership_and_amounts.csv",
+      "bytes": 1095,
+      "sha256": "6b9457a54bb28ee35b81510d41cb0e06f5753f84cacf5fec8e1f501eefe945d5",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/SI_scope_and_denominators.csv",
+      "bytes": 400,
+      "sha256": "0c33d7ab56fb3c5eb7c2c6ffbc3b747238cd3658f9d4eece14d805eb9350bda0",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/SOURCE_HASHES.json",
+      "bytes": 5451,
+      "sha256": "0173fd5f05df9cb69c4c3afc303e331255eb4eea6c436b09722dd35ddc59f7a1",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Table_1_source_operations.csv",
+      "bytes": 1085,
+      "sha256": "7a0af1946f7051a278ffbe222dee7434433ad06859debf669c633291af985ddd",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Table_1_source_operations.pdf",
+      "bytes": 23690,
+      "sha256": "a8dda69b903cc795e2030023bf7f407de3c8baf1de83d70befc5dd08bbc642b0",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Table_1_source_operations.png",
+      "bytes": 355302,
+      "sha256": "1d193e604a4f5214ddb9eb6c3885a3df8417efc2d2fdd1a12a739dfb4982f0ad",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Table_2_separate_family_share_envelopes.csv",
+      "bytes": 2189,
+      "sha256": "a9a7b5a766e5d1e3bdd5e3a5e83760248f0cd91a82a40779cfbd1fcfa649b2a1",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Table_2_separate_family_share_envelopes.pdf",
+      "bytes": 24181,
+      "sha256": "8ef88bc062234317874bac775e262cad2140ebd3e66469aba8921311a6a0c439",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Table_2_separate_family_share_envelopes.png",
+      "bytes": 253295,
+      "sha256": "47714052e2df635c491bd4b7ed3cb361dfb2b3b790b144c443a8a1ab4b2537f0",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Table_3_record_and_package_influence.csv",
+      "bytes": 4439,
+      "sha256": "3ea2607abc5d47b9f1e5fdc2554cb7d0132d1f99611be702c3473d1dfe0b10ec",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Table_3_record_and_package_influence.pdf",
+      "bytes": 24459,
+      "sha256": "15bffae7159c53853271f254778fc14cfaa24281c1640205aa7baf3acc220983",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/Table_3_record_and_package_influence.png",
+      "bytes": 191568,
+      "sha256": "4c7779586abea272d3e0f5dffef39dd6e21bcd0e50c30147a427c7a3b7eb43ec",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/VALUE_LEDGER.csv",
+      "bytes": 7635,
+      "sha256": "9cd4781c2bdf793d502dccb3aa692bdf552471a2f0ca7976abc4a415cd257404",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/assemble_display_metadata.py",
+      "bytes": 10965,
+      "sha256": "44ebde3ca026e376c70322eb921b4db7f848fede02e8a96626b804f25c3c7828",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/build_displays.py",
+      "bytes": 17382,
+      "sha256": "17e8340fd68d3e306874a2e1a237e4a72510e66f35a1dd4007dac517762e17ff",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/display_manifest.json",
+      "bytes": 10296,
+      "sha256": "c3d1782bc2ce1619d70a2e515a137fb65118816cc45baf07764e78d4ab661ab1",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/figure1_annual_data.csv",
+      "bytes": 21905,
+      "sha256": "6a52fa6882e4348f821d733730644c7b12d1a95d51706e5aeab258060bd39615",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/figure2_endpoint_changes.csv",
+      "bytes": 3104,
+      "sha256": "7778c64ebeacb902492969f44a9e7ae2b29428f83312af23a335cd3dd92650ab",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/figure2_nominal_levels.csv",
+      "bytes": 4869,
+      "sha256": "1def242a1d56579cfef599b2f55a8bda26cb9352e64f609a74a03572afd5b144",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/figure3_H_accounting.csv",
+      "bytes": 963,
+      "sha256": "ef68844ea2430da1028c93328998723047e8b125f354abd6532e0dc283cd660b",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/figure3_H_regional_outer_envelopes.csv",
+      "bytes": 3113,
+      "sha256": "d84fc2c7b671a88a50af197214620e78c99264b119b37de94fa2df8ea58ba4e8",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/table_data.json",
+      "bytes": 3226,
+      "sha256": "5e5f1afffbb899b06869839fc146658848ae0ccf6b1e5582324748bc8a1101c9",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/references/manuscript_bibliography.json",
+      "bytes": 39543,
+      "sha256": "a7e182906861b481f4b7632c0fd10a422a50e6dbf0b27c82199d59b24c4ae1f7",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_reconciliation/additional_fx_flags/primary_source_adjudication_1976_8176_9622.json",
+      "bytes": 3968,
+      "sha256": "11d4dc1f7f8288d31a6d2f2a9bf62b9043cf99ce6554a15b50c827a70ae7e628",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_reconciliation/additional_fx_flags/primary_source_adjudication_1976_8176_9622.md",
+      "bytes": 3413,
+      "sha256": "a0585910f8c07743768147a8cf11ed0d21f1d7362fe1b4dcda6dc4431cb73282",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_reconciliation/additional_fx_flags/uk_9180_primary_review.json",
+      "bytes": 1434,
+      "sha256": "f0a2701f53c721b2b70520d29750a4499c15d302cfa1a18199b1cfb3748ba11a",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_reconciliation/argentina1586/RECONCILIATION.md",
+      "bytes": 5139,
+      "sha256": "7ab9c2bd41241d242ead960f39e5d5a3f2b0848f954caed0cf9c7e084f9ec04c",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_reconciliation/argentina1586/checksums.json",
+      "bytes": 387,
+      "sha256": "651c8e77fd52d09166e6c146ce039194d3c13d438387c1e134c7c28a40bc8aa5",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_reconciliation/argentina1586/reconciliation_result.json",
+      "bytes": 687,
+      "sha256": "b6a05f6af7e943b856091483b4ab34d1ca3c476c7ad30f731c87f760d9078eb2",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_reconciliation/guinea8129/RECONCILIATION.md",
+      "bytes": 7896,
+      "sha256": "b6f0fe88d0ae5111608cd5ecce06a5ffa9c732dd2bca00517828762f9ffdc416",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_reconciliation/guinea8129/manifest.json",
+      "bytes": 1355,
+      "sha256": "b4b4ebfd07fbb9a2633919cf231c4ec3852c02e5690cf9d0898bf0016c896804",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_reconciliation/karuma/RECONCILIATION.md",
+      "bytes": 11347,
+      "sha256": "7f8eadfd07178ffa4ed400372eea88993c0648735a239230c8e9980b02c89fd8",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_reconciliation/karuma/manifest.json",
+      "bytes": 772,
+      "sha256": "dcc8ba4ab307eb27af7d248f7e9ef57bcddceba5dbba422619f580b204e79c90",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_reconciliation/standard_bank/RECONCILIATION.md",
+      "bytes": 8487,
+      "sha256": "4575d909fd1ed22b4cb90ee0ac1d4e84e8f0c90193c6c578ac69afd559037e18",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_reconciliation/standard_bank/manifest.json",
+      "bytes": 2533,
+      "sha256": "9fdc7f3f0e81ab441d0bf07da4994c0f0932b83afa4954c5678021439f0bddcd",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_reconciliation/standard_bank/row_reconciliation.csv",
+      "bytes": 541,
+      "sha256": "369130ead61c51b859b487356706e4843f019a39201f6678aa6ea7164ce7acdd",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_validation/VALIDATION_REPORT.md",
+      "bytes": 8493,
+      "sha256": "a0d0602386172c605ba38863a3e5f7a8dea116ee15dab46875be537a9f4a6167",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_validation/all_positive_renewable_text_screen.csv",
+      "bytes": 185604,
+      "sha256": "932bc20560442cb2443f15712953d08be651dade7343d6289687bba3e9772054",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_validation/build_validation.py",
+      "bytes": 3831,
+      "sha256": "47b9333fa495b0a9c12538c1b01bbc7d6409b21adc86a13958dd08a8d759df4b",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_validation/country_alias_dictionary.csv",
+      "bytes": 24721,
+      "sha256": "036e154c0f07a2978f5f614389e37ac4b647b5a419de6b85a10c89a7a51e02f0",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_validation/country_conflict_triggers.csv",
+      "bytes": 91284,
+      "sha256": "c314323d8683b4919f2d1c3b6c49a552dfe22539fe63d136404cbe1e6e469814",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_validation/finalize_validation.py",
+      "bytes": 1401,
+      "sha256": "c5d02780afb49c9e966908528932d8e28d5ee97c9ae9277993124c5755f05365",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_validation/official_source_registry.csv",
+      "bytes": 3105,
+      "sha256": "9bbb6f070a3067050926bf0d1d88040a96816a33539a19054039ca65b2013126",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_validation/screen_summary.json",
+      "bytes": 1135,
+      "sha256": "05a6862665876108c40516c0e54cc1c98f1de0a65cb8a06ed2236c3cbb398e8c",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_validation/top10_source_audit_ledger.csv",
+      "bytes": 2768,
+      "sha256": "d24a0e49eda51f4998fec9c7f78940a0064b023ba048245a9db8417120aa9afa",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/source_validation/write_audit.py",
+      "bytes": 6259,
+      "sha256": "584edc7169b76a04146e062769fc20b10f6e8ffae5d3a69dec66f5a26cc0ead0",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/OUTPUT_GUIDE.md",
+      "bytes": 4025,
+      "sha256": "22e1dfd989f11acd63fa47bd0f2d94cca258bd220b4fa43e455c2e3227ab0020",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/audit/archive_reproduction.csv",
+      "bytes": 579,
+      "sha256": "850a7aafd0269c6e0bb06cf723c66e11a8a088ba4de51a0a001024330a931a81",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/audit/arithmetic_consistency_all_rows.csv",
+      "bytes": 309668,
+      "sha256": "7116716c53e40355c56ed28b9a6288fe0561cc40c157babe4a81b14c832a9132",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/audit/arithmetic_flagged_rows.csv",
+      "bytes": 4104,
+      "sha256": "190ce1a3b15684b30e69e2ff11628c28480f87790145d704cc41b75b126826b9",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/audit/arithmetic_gate.json",
+      "bytes": 296,
+      "sha256": "c08d34d9f2d5e7df745c6a14a9fd01d90d948539d259154e8d953619d245a8f7",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/audit/arithmetic_quarantine_scope.json",
+      "bytes": 229,
+      "sha256": "dce55b0f1ef55e7d674fb0f9e07ea3b084eff933f449246e467998ed04550509",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/audit/arithmetic_summary.csv",
+      "bytes": 2076,
+      "sha256": "dc44702ad215e7fd13a9fe502a9cebfa1850ec1559bcfd19642db4886da227fe",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/audit/influence_export_validation.json",
+      "bytes": 1641,
+      "sha256": "c0fcd2525d5b194ad48778333b250cb7ebefd40dde454e8460bf541caac9c37d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/audit/influence_named_specification_summary.json",
+      "bytes": 36788,
+      "sha256": "882ed7da3356d8359063a5eb1ef1eeec41c43957b912fec807387bfd69684b47",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/audit/interaction_closure.csv",
+      "bytes": 273570,
+      "sha256": "03ed27c5e9ef22fc5a8bca111f23d9b36a2ddae7775a9ccd72cd474154e535db",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/audit/transformation_invariants.csv",
+      "bytes": 799,
+      "sha256": "cc06bd37db515261384e60fdbfb6d15fa1318da4239a436aff2e21f1ef5a3b96",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/completion.py",
+      "bytes": 28196,
+      "sha256": "215e8323cd3f7b51179342af4b2b2b25808b3212ba6b410391e4b77b85cc88be",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/core.py",
+      "bytes": 8363,
+      "sha256": "869e1c2241551cbc996d84ed87f764c0f1fa5710993fbcd446973a5dd6daf62b",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/effects.py",
+      "bytes": 5003,
+      "sha256": "620201b445321c696a66b69fb91e1295afbe86f1c46f85d7f2ee0c788268bd35",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/influence.py",
+      "bytes": 31942,
+      "sha256": "e898d25bbe620b7698e7dc94e7544fe104df313f800f1ac1cc4c932ccfd35b62",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/public_integrity.py",
+      "bytes": 425,
+      "sha256": "624636e46b180f9e69638d3db9b5b37d1b251135bcb18fc5b70ebf455182a4b8",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/quarantine.py",
+      "bytes": 3863,
+      "sha256": "14717b50cad59656ff7c2af01a0fdada36cda396f060b882a6a8217f4297f93f",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/run_revision.py",
+      "bytes": 6884,
+      "sha256": "8f1920090736b3c0cde2a3e0d52b11a845e743f4a79b38633c912f457875e010",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/screen.py",
+      "bytes": 2521,
+      "sha256": "aa8ecd9e7f71ff8f516a378e41a4282299de1cbb77d5da43d1ca56e40976f370",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/validate_transforms.py",
+      "bytes": 2551,
+      "sha256": "795635a388d87ebde02b984a3f3fd20f211352f8a5d99b8a7a4389efe78a3470",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/verify_influence_exports.py",
+      "bytes": 8604,
+      "sha256": "171ddbf237a5f984792770335a413ec6b3946221d3720aafa659d234207c516a",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/FINAL_INDEPENDENT_AUDIT.json",
+      "bytes": 838,
+      "sha256": "3f5cfb68c8684a8ebc76a5844bfecc1cc9245b6ce4e1351044e8e0076c3091e0",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_completion.py",
+      "bytes": 3596,
+      "sha256": "db3dc9ab7d55e6524aaa08b7b940e0baa509172eefe865a5f78a33a85c515ebc",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_completion_attainers.py",
+      "bytes": 1870,
+      "sha256": "5eddde366aa78fca56c24c25fed692270a77b4b99f65006a80d9800f9dfa6231",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_envelopes.py",
+      "bytes": 5381,
+      "sha256": "73b25bc1d11a18889af8db607bb9fed7c985b4af35a5776acdb576a593a26e2f",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_identities_bounds.py",
+      "bytes": 1881,
+      "sha256": "494b470f4a514be9f0bdb1e4b0b1569bc3334c96b8f8c6a2858ac6da1bfee142",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_influence.py",
+      "bytes": 3967,
+      "sha256": "2be7c8585255751ccb6e93a1756857faae85cbb42152401afb8ae3ea1af811cc",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_metadata.py",
+      "bytes": 4009,
+      "sha256": "8eba1be6b48de3a5b55e56eda96494666ada0d453d05a22031f2482ba605ce90",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_outcomes.py",
+      "bytes": 6087,
+      "sha256": "88c131c3284a8aa158b77f69deece07a3a4fec86da4665083e1bec7ab643f5b7",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_quarantine_attainers.py",
+      "bytes": 1844,
+      "sha256": "a30cd72eecec06f89f1655962d16281053a11ea7eea7ed26867b938da48689f7",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_reporting_summaries.py",
+      "bytes": 4650,
+      "sha256": "4cef9c0bd6fccb710818fedf98d8df4b86c818072695da15cdefdccfd7246eda",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audited_output_hashes.json",
+      "bytes": 6071,
+      "sha256": "30d6a37015b2936b276f5d6940bc65b4df263e747332c512726c8fc4db273b22",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/compare_core.py",
+      "bytes": 1742,
+      "sha256": "ea12e4368f85b17059f849ff8ca16ee12622597d778ab88b603d88dcbe4a0dc2",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/completion_attainer_validation.csv",
+      "bytes": 119,
+      "sha256": "0d31863d1c7f15d2ebbe95b77cabfa5860f0678be3ef45436b58092cb38d4e9d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/completion_output_comparison.csv",
+      "bytes": 800,
+      "sha256": "5459227f4167e0156e796281c950aa151d9554f66c4e0b0e14a6892f9bf2af2f",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/core_output_comparison.csv",
+      "bytes": 2316,
+      "sha256": "c8db0ed2ff79ffdc7f7e6b274028e838cd3e83584776d69b9c6f4093b51bd49d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/endpoint_bound_validation.json",
+      "bytes": 39,
+      "sha256": "bcf4dd323e51819d4455edca01af862c8f44fe000a6c110bf2b7b56fc65fd320",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/envelope_effect_interaction_comparison.csv",
+      "bytes": 2637,
+      "sha256": "2168fa2745ce84ddcb43c97cf56fb20d3b16e1088a3e043e18fb48e052ea683d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/full_influence_comparison.csv",
+      "bytes": 392,
+      "sha256": "e889ae94d89574b9074c4946dd00da2dab27a8319b2ccb376396d430b74dca18",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/gate_comparison.json",
+      "bytes": 230,
+      "sha256": "64a3aad085082e459149f5fa832f46cef0223c41cacdd37a27afb0e00f5ef1da",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/historical_corner_comparison.csv",
+      "bytes": 1479,
+      "sha256": "a57787b40e31e87e464522e494b78490c26b0987c2f873f4ef2a8f8fc7420f54",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_affine_validation.csv",
+      "bytes": 119337,
+      "sha256": "3908b80ec1f3dfda5485181893ed4aec4029e9899321173e683bba89425598ec",
+      "part": "influence_annual"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_allocation.csv",
+      "bytes": 1713528,
+      "sha256": "43ba13bce26be1fe54192ec3cc2630cdb3a70a755866514d5b9a55229e167931",
+      "part": "influence_annual"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_arithmetic_screen.csv",
+      "bytes": 266295,
+      "sha256": "9e9e252dd5302271c483c981c554ab59d88f2e95991eda128dbc1fd4959c3f48",
+      "part": "influence_annual"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_code_hashes.json",
+      "bytes": 1052,
+      "sha256": "6a5682ee4bcb6c14fddc08c6377d9a4b1c568e5375bed28ac54632d5de595cb8",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_completion_allocation.csv",
+      "bytes": 1117830,
+      "sha256": "4254db44fd13f7039c4d654915a1b36501073a8baa43b09070e1167c51b21775",
+      "part": "influence_annual"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_completion_decomposition.csv",
+      "bytes": 745751,
+      "sha256": "b946bac158791fd23f5e6fb23b95d40324205dae02680bacea7ac57100a312bf",
+      "part": "influence_annual"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_completion_provider_contributions.csv",
+      "bytes": 6967306,
+      "sha256": "3fba5602dde5489ddb955bd449082c06d54eccc0a07cd33558654ed9ff8febac",
+      "part": "influence_annual"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_decomposition.csv",
+      "bytes": 1119340,
+      "sha256": "a9e2148210d763656f730ffc3110688a2319bcbe0c07c208dffb11efe56b6bbb",
+      "part": "influence_annual"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_gate_audit.json",
+      "bytes": 313,
+      "sha256": "59945474ce771bdde4e77ca7c8d8e1aaa09041b0285e112d486b179639ebffa4",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_identity_validation.json",
+      "bytes": 294,
+      "sha256": "2e8f992afe0d83c85a3b5dcebfbf20f249a655ef32eb138833b7da5119f9b701",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_provider_contributions.csv",
+      "bytes": 10915920,
+      "sha256": "1339bf7a7eeae284c9e7bdbc15a7b123e6ca56f154af1ccc08e71b50ccacc16b",
+      "part": "influence_annual"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/lineage_coverage_secondary_validation.csv",
+      "bytes": 362,
+      "sha256": "9210d938f18f4f5f27eb9df5e6508d6173d5319ed1f0ae914e4c62d065652aa5",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/quarantine_attainer_validation.json",
+      "bytes": 56,
+      "sha256": "55d2547277ce716213f358f40c017bb8bfc99b43ad7b1b756b8f564d647f92b7",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/reporting_summary_validation.csv",
+      "bytes": 452,
+      "sha256": "70119eec8bf13b577e416cc615f626b340ad76200d66201ec30d3df507e267a1",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/verify_raw_screen.py",
+      "bytes": 2143,
+      "sha256": "9a0cca39522419628c751da2d83ac2898587af571fb34f58822362f7c95647be",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/workbook_independent_arithmetic_screen.csv",
+      "bytes": 256721,
+      "sha256": "ca87c47f55ee5f096de97aecd0a64257cc50c7f62f63d28cc905965df04a44c6",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/agreement_overlay_allocation_differences.csv",
+      "bytes": 963001,
+      "sha256": "badb3b03ce609b2026536ca5a5b66e4a701e8ead691b6105be3cc650733dee59",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/agreement_overlay_decomposition_differences.csv",
+      "bytes": 843678,
+      "sha256": "9b6a5c81a242554ff090513d0b19ca34c4de672ffd4948b88e44edc69073901b",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/all_scalar_outcomes.csv",
+      "bytes": 7020679,
+      "sha256": "fcbd38d7efa192e0a620e7c291235da74a65bbcb6c400ebdf0ebe44e1c240311",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/allocation.csv",
+      "bytes": 1370430,
+      "sha256": "a2094218c03fe3772363ee8405c41512a25158c90ce068458ca0695f08216d25",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/anchored_factorial_interactions.csv",
+      "bytes": 4459361,
+      "sha256": "d5b0bad5eafee4ca71a43f194a2aa3944a4b37dde6f8bb87ef32dc2f7b278bc2",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_allocation.csv",
+      "bytes": 1138023,
+      "sha256": "b3f5bd9adbd8b911154a38e65ab84187344dbed35b8f527f799b25cabb3ed48e",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_coverage_joint.csv",
+      "bytes": 1828267,
+      "sha256": "ea1115c6208a07c94bc0d3088a8f065f8443fa21994e485b9d357fcfad174cb8",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_coverage_marginals.csv",
+      "bytes": 540584,
+      "sha256": "0681382aacd155290fad80ab215e0e1e0bdaf7914d608dd975797b0d41e36c58",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_decomposition.csv",
+      "bytes": 962433,
+      "sha256": "9f7bdeaf8c9419093a214e0fb1489ec1678c73ea24e6b729782b8e2157bade03",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_envelopes.csv",
+      "bytes": 3019544,
+      "sha256": "4b20c6b964eb5b9c73364ecdb391c28b0d06d338f7dd7f7149892ad1a9e0d15a",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_paired_effects.csv",
+      "bytes": 8117060,
+      "sha256": "102809c1f17e12878675f9960d3f9093c556bdd09f17673a68ae75c3d004ca04",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_provider_contributions.csv",
+      "bytes": 9259249,
+      "sha256": "e0e59d1e55177d44330d3e68937f4a29ef7d53dffe8567f1be76a3e743c8d476",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_transformation_lineage.csv",
+      "bytes": 12081233,
+      "sha256": "e6a7e423ba04fc2941c74723fefeb1692542fc8811fe822e6eab3b29d8a1573f",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_case_manifest.csv",
+      "bytes": 4351,
+      "sha256": "81fa1de7ebd2013f02ae6b3e90bb6260c314f4292cd0be254838260b99075f5a",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_case_scalar_envelopes.csv",
+      "bytes": 33610201,
+      "sha256": "d46dd11bf101d22765074e7675c2d2148ae649412ca9cf596fdc85ed70fe99c9",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_denominator_reconciliation.csv",
+      "bytes": 107619,
+      "sha256": "4b549286752410a64a2bb4bc6c27dee837739cc818981e9849fe37183ae2b973",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_derivative_verification.csv",
+      "bytes": 1828438,
+      "sha256": "dd176782eaf57db4cf66410e757e1734cc9c710e02e7547716f40d490278bc51",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_interior_verification.csv",
+      "bytes": 42819233,
+      "sha256": "8df4599cbcacded9829f3bcda7fb4daeff0e0c22f5ead888f609106d25bce817",
+      "part": "influence_annual"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_summary.json",
+      "bytes": 1940,
+      "sha256": "82f15385aa0c81500666f159ac654eac7791778258b67a7a2f2a1ada478dd87d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_union_endpoint_reporting.csv",
+      "bytes": 52745,
+      "sha256": "40fdc02c976141cd4cc7797668b9f2c1c26c08456995be28043c015335237481",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_union_scalar_envelopes.csv",
+      "bytes": 36141263,
+      "sha256": "8072930ab03b76bb310b6fb74fd909917ddfe11b4774a9c8aa17ad7730674ff1",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_validation.csv",
+      "bytes": 977811,
+      "sha256": "d9d09be8b0c6116cf35ec0d36ea0ce40e3e53278197ec144679e3a095843b33d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_vertex_allocations.csv",
+      "bytes": 3071626,
+      "sha256": "3f6018cd522bf9fc6d8596c682643b0673b402a9f1400ade8c7bdae3fcc0d947",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_vertex_decompositions.csv",
+      "bytes": 1957865,
+      "sha256": "f243260bd19d5361dff7307e3c96f863246345516e615d8a6593dfe1214c0761",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_vertex_provider_decompositions.csv",
+      "bytes": 26813754,
+      "sha256": "b297beb5b9837bc497e219349ceee2f901fafb1709335962f9a6255fa39be143",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_vertex_provider_periods.csv",
+      "bytes": 23447860,
+      "sha256": "f5e963722d10df543a7aafebe58e7acd25928093e477881306a4009f2d35ccca",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/coverage_joint.csv",
+      "bytes": 1933760,
+      "sha256": "e9665e590ff1a7bcf9d5264c5b12f71c44e5fd364bb7d7e203d02342232d0733",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/coverage_marginals.csv",
+      "bytes": 608598,
+      "sha256": "d8a675f1c1e275c21542b885e2434af6334ee3675b3d17baae740654f2cbff6c",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/decomposition.csv",
+      "bytes": 1216891,
+      "sha256": "f0c740e4e23b02d96b0e82458ac383ea5dee9bf1b0787de94214ca4f298f1925",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/endpoints.csv",
+      "bytes": 132444,
+      "sha256": "f8d986abe2cfd1c416016f980804db6be971f5e97959e200220be182d660a639",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/factor_effect_ranges.csv",
+      "bytes": 3241508,
+      "sha256": "1eef55e332ade1950c597f6770ee9d4bd24139c84f4179eb4b6033f261497efe",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/INFLUENCE_METADATA.json",
+      "bytes": 5088,
+      "sha256": "6e4720be1ad23967d62eeedaefec213af79836256742087c336ff07c2612058d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/endpoint_recorded_value_concentration.csv",
+      "bytes": 58509,
+      "sha256": "d3fab73d7048973b9b91ddb15f314adb9a46fc60b2c4d998208ba343747d5079",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/endpoint_recorded_value_rankings.csv.gz",
+      "bytes": 560739,
+      "sha256": "d9f19ce34c501abd5c8ebd92290735a85b0a58bde77f908dd9364153df634642",
+      "part": "influence_endpoint_ranks"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/influence_concentration.csv",
+      "bytes": 483191,
+      "sha256": "9487130b03d6bc96195b7ae126875182171762cfeeeee82e82665f21109cc5a8",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/influence_entity_ledger.csv.gz",
+      "bytes": 883704,
+      "sha256": "11f5f310d3a13ab4e7a5f665d7c13fb988db8834e64479cf7b5bade3825598f4",
+      "part": "influence_endpoint_ranks"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/influence_rankings.csv.gz",
+      "bytes": 5300384,
+      "sha256": "31a17023245a8870b669f18366533a8656961b187d6d187040e49f3b08f254b2",
+      "part": "influence_endpoint_ranks"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/package_influence_annual.csv.gz",
+      "bytes": 120162,
+      "sha256": "6be03704596f2f5daa5cb1f69bebce77f39078e12fe3fbacfef34383e843faa8",
+      "part": "influence_annual"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/package_influence_endpoint.csv.gz",
+      "bytes": 39101,
+      "sha256": "c1fc470e94a546dd73e561d60cc6ac91551b3df99ed31999b80ae217fc195e75",
+      "part": "influence_endpoint_ranks"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/provider_influence_annual.csv.gz",
+      "bytes": 1195361,
+      "sha256": "8767c444b00b3e6d2dbdfb8c0d98bf6031916d58230784c8d27e0ec0bb29eb47",
+      "part": "influence_annual"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/provider_influence_endpoint.csv.gz",
+      "bytes": 249111,
+      "sha256": "bf1800ff67d077fffbc00b0bf0bbf8e8f15bc5194757adefd9082b3c0b7a97fa",
+      "part": "influence_endpoint_ranks"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/record_influence_annual.csv.gz",
+      "bytes": 12215731,
+      "sha256": "847ce08b3355ec49ab8a66746d9ad4e3a8e82c8ee8662f6eda99ed8b8a85299b",
+      "part": "influence_annual"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/record_influence_endpoint.csv.gz",
+      "bytes": 6668403,
+      "sha256": "79e9bd2f76a365c31d43c09cab9c415636652af311ddc13934bbe86bad174859",
+      "part": "influence_endpoint_ranks"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/nonrenewable_scope_controls.csv",
+      "bytes": 2503852,
+      "sha256": "b7897393ba1ced1ede35b4f263b9f785e286a1f89840c62de081e68b25692398",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/paired_factor_effects.csv",
+      "bytes": 13127444,
+      "sha256": "36e57b57da1647e06602cc2a4423fd6b7cb9b4e63e2e2089345a1200b39599c0",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/priority_headline_decomposition.csv",
+      "bytes": 2661,
+      "sha256": "ec35d8995b3f541f4daff8c183ff822cc8e486c9cd34a79b91286e30cca66e08",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/provider_contributions.csv",
+      "bytes": 11218273,
+      "sha256": "f8a1f613f338c219262a120b7031f8d0de0898aba87e79175b0afb214c6b97d5",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/rank_stability.csv",
+      "bytes": 172348,
+      "sha256": "30fb24d328e31ac00c4692566dff904caebc9677d2a57705f3ac568737c1251b",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/scenario_envelopes.csv",
+      "bytes": 3637714,
+      "sha256": "e25068c8f745206b88ea6c7650319bb3d1afaebbef5dde620032e4f3d993dd4a",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/secondary_FY2023_endpoint_allocation.csv",
+      "bytes": 149621,
+      "sha256": "2aabc68a1980ea69ec774f3339c715728c0e55d42268fe0d8770df7567bf7bb4",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/secondary_FY2023_endpoint_decomposition.csv",
+      "bytes": 83125,
+      "sha256": "d81e9034edd68c022ce043f6564910e7c95693dd74f8b00c1b0322c1d45db933",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/transformation_lineage.csv",
+      "bytes": 18143069,
+      "sha256": "a2ec85e7290741a3c421b710b221d41997f384b5840486d7ca26d0566869cc34",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/protocol/ANALYSIS_PROTOCOL.md",
+      "bytes": 30797,
+      "sha256": "7834022e03efc32a3b6b6bfdab74c8651c65b73d7b98ae177d98221ca3126382",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/protocol/ARITHMETIC_AMENDMENT.md",
+      "bytes": 7650,
+      "sha256": "598f9b2fe6dbc55c9345477748344485a0de3209a9e44e99808891b25b7f380f",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/protocol/PUBLIC_PROTOCOL_INTEGRITY.json",
+      "bytes": 441,
+      "sha256": "ab813d87de8107fd2a19278e1680613f582e097cb05beed4a0dcbd2d38e4975d",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/protocol/arithmetic_quarantine_manifest.csv",
+      "bytes": 1440,
+      "sha256": "02a8de61e867903625fbdef2a29d8bae832c8ffc57447126dca7ac7f801cd3dd",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/protocol/preflight_input_hashes.json",
+      "bytes": 708,
+      "sha256": "c9abad3237ba9a52cf07f08ec2250718e7044143e7730fea1b11c34a4e1401ea",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/protocol/scenario_manifest.csv",
+      "bytes": 425,
+      "sha256": "3c00387c57ddea772df7c4b3044794e87b1af1168006d1c9259ca634113ed57b",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/protocol/source_evidence_hashes.json",
+      "bytes": 13336,
+      "sha256": "558ffa9e6ad311d1536486e604207c59afac1f966e0bbce6bd75ca00859c9aac",
+      "part": "core"
+    },
+    {
+      "path": "published_replication_candidates/export_finance/zenodo_metadata.json",
+      "bytes": 3923,
+      "sha256": "452da94590f5d27e18e4f94f5a6923d469ff507c075531e9156f674b414559f5",
+      "part": "core"
+    },
+    {
+      "path": "reproduce.py",
+      "bytes": 1960,
+      "sha256": "880235cd4d12d31950fca38de41a93d172f776a982a827fa4c449f3f0a2bd7ed",
+      "part": "core"
+    },
+    {
+      "path": "reproduce_prerequisites.py",
+      "bytes": 1743,
+      "sha256": "c6fa292a7b193f6bf120f1fb12c253cf42c957fb760daf1d4583cde731607fef",
+      "part": "core"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 62,
+      "sha256": "9ccd14e77fc5e5ff74064422a926daa3cd0b50624ef46f591e3977af9c9d0c26",
+      "part": "core"
+    },
+    {
+      "path": "verify_package.py",
+      "bytes": 801,
+      "sha256": "975fb5497508e8168aab747d3b346dbc600c2da68782bc2e96de231d757b20e6",
+      "part": "core"
+    }
+  ]
+}

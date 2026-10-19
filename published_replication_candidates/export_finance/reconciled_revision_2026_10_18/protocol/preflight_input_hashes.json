@@ -1,0 +1,17 @@
+[
+  {
+    "path": "published_replication_candidates/export_finance/extension/clean_eca_income_mapped.csv",
+    "bytes": 3268441,
+    "sha256": "f62f3c9f5734f52244ce11b49ae07b43b95523fdd5d346e40d40c36b6806b114"
+  },
+  {
+    "path": "published_replication_candidates/export_finance/extension/fx_reconciliation_exceptions.csv",
+    "bytes": 616506,
+    "sha256": "21340566670fcf3e50fa98a4def83ae7f3720ce5d859859f7cebb8e7c2c2686f"
+  },
+  {
+    "path": "published_replication_candidates/export_finance/package/CenskowskyEtAl_ECA_ReplicationPackage/data/OCI Public Finance for Energy Database 2024.xlsx",
+    "bytes": 10567648,
+    "sha256": "deea3370e76b510a06aa632eb17de048598d8476de2d7266fdfde72de1c12936"
+  }
+]

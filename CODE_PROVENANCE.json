@@ -1,0 +1,122 @@
+[
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/completion.py",
+    "audited_sha256": "4d0966fadd088e06873e07fbef996e2ffcf3692f33d47f647bf4a841f9ce7a1c",
+    "distributed_sha256": "215e8323cd3f7b51179342af4b2b2b25808b3212ba6b410391e4b77b85cc88be",
+    "modified": true
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/core.py",
+    "audited_sha256": "869e1c2241551cbc996d84ed87f764c0f1fa5710993fbcd446973a5dd6daf62b",
+    "distributed_sha256": "869e1c2241551cbc996d84ed87f764c0f1fa5710993fbcd446973a5dd6daf62b",
+    "modified": false
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/effects.py",
+    "audited_sha256": "620201b445321c696a66b69fb91e1295afbe86f1c46f85d7f2ee0c788268bd35",
+    "distributed_sha256": "620201b445321c696a66b69fb91e1295afbe86f1c46f85d7f2ee0c788268bd35",
+    "modified": false
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/influence.py",
+    "audited_sha256": "e898d25bbe620b7698e7dc94e7544fe104df313f800f1ac1cc4c932ccfd35b62",
+    "distributed_sha256": "e898d25bbe620b7698e7dc94e7544fe104df313f800f1ac1cc4c932ccfd35b62",
+    "modified": false
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/quarantine.py",
+    "audited_sha256": "1653f3f13d329110b09bba825b1555f9f6ce1a559b475de64a5c21e7dbac2ec6",
+    "distributed_sha256": "14717b50cad59656ff7c2af01a0fdada36cda396f060b882a6a8217f4297f93f",
+    "modified": true
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/run_revision.py",
+    "audited_sha256": "6a385eec7cdf2fe12a3e7627089e8aae78a52c4c269f3031b8821d81ca37c958",
+    "distributed_sha256": "8f1920090736b3c0cde2a3e0d52b11a845e743f4a79b38633c912f457875e010",
+    "modified": true
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/screen.py",
+    "audited_sha256": "e5fdd851c8e77dd1ea60cc4d0f33313679a61e4846ea0656404c262afab0cb51",
+    "distributed_sha256": "aa8ecd9e7f71ff8f516a378e41a4282299de1cbb77d5da43d1ca56e40976f370",
+    "modified": true
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/validate_transforms.py",
+    "audited_sha256": "795635a388d87ebde02b984a3f3fd20f211352f8a5d99b8a7a4389efe78a3470",
+    "distributed_sha256": "795635a388d87ebde02b984a3f3fd20f211352f8a5d99b8a7a4389efe78a3470",
+    "modified": false
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/code/verify_influence_exports.py",
+    "audited_sha256": "171ddbf237a5f984792770335a413ec6b3946221d3720aafa659d234207c516a",
+    "distributed_sha256": "171ddbf237a5f984792770335a413ec6b3946221d3720aafa659d234207c516a",
+    "modified": false
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_completion.py",
+    "audited_sha256": "db3dc9ab7d55e6524aaa08b7b940e0baa509172eefe865a5f78a33a85c515ebc",
+    "distributed_sha256": "db3dc9ab7d55e6524aaa08b7b940e0baa509172eefe865a5f78a33a85c515ebc",
+    "modified": false
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_completion_attainers.py",
+    "audited_sha256": "5eddde366aa78fca56c24c25fed692270a77b4b99f65006a80d9800f9dfa6231",
+    "distributed_sha256": "5eddde366aa78fca56c24c25fed692270a77b4b99f65006a80d9800f9dfa6231",
+    "modified": false
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_envelopes.py",
+    "audited_sha256": "73b25bc1d11a18889af8db607bb9fed7c985b4af35a5776acdb576a593a26e2f",
+    "distributed_sha256": "73b25bc1d11a18889af8db607bb9fed7c985b4af35a5776acdb576a593a26e2f",
+    "modified": false
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_identities_bounds.py",
+    "audited_sha256": "494b470f4a514be9f0bdb1e4b0b1569bc3334c96b8f8c6a2858ac6da1bfee142",
+    "distributed_sha256": "494b470f4a514be9f0bdb1e4b0b1569bc3334c96b8f8c6a2858ac6da1bfee142",
+    "modified": false
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_influence.py",
+    "audited_sha256": "2be7c8585255751ccb6e93a1756857faae85cbb42152401afb8ae3ea1af811cc",
+    "distributed_sha256": "2be7c8585255751ccb6e93a1756857faae85cbb42152401afb8ae3ea1af811cc",
+    "modified": false
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_metadata.py",
+    "audited_sha256": "8eba1be6b48de3a5b55e56eda96494666ada0d453d05a22031f2482ba605ce90",
+    "distributed_sha256": "8eba1be6b48de3a5b55e56eda96494666ada0d453d05a22031f2482ba605ce90",
+    "modified": false
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_outcomes.py",
+    "audited_sha256": "307353b0ea99df5f084b62ef46c0240a375930b022ac59b2cc90c803dd1de2ac",
+    "distributed_sha256": "88c131c3284a8aa158b77f69deece07a3a4fec86da4665083e1bec7ab643f5b7",
+    "modified": true
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_quarantine_attainers.py",
+    "audited_sha256": "a30cd72eecec06f89f1655962d16281053a11ea7eea7ed26867b938da48689f7",
+    "distributed_sha256": "a30cd72eecec06f89f1655962d16281053a11ea7eea7ed26867b938da48689f7",
+    "modified": false
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/audit_reporting_summaries.py",
+    "audited_sha256": "4cef9c0bd6fccb710818fedf98d8df4b86c818072695da15cdefdccfd7246eda",
+    "distributed_sha256": "4cef9c0bd6fccb710818fedf98d8df4b86c818072695da15cdefdccfd7246eda",
+    "modified": false
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/compare_core.py",
+    "audited_sha256": "ea12e4368f85b17059f849ff8ca16ee12622597d778ab88b603d88dcbe4a0dc2",
+    "distributed_sha256": "ea12e4368f85b17059f849ff8ca16ee12622597d778ab88b603d88dcbe4a0dc2",
+    "modified": false
+  },
+  {
+    "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/verify_raw_screen.py",
+    "audited_sha256": "961efbbd60cfa71191bc8d2282f28680cf1ea5efcc424464427101771af88e93",
+    "distributed_sha256": "9a0cca39522419628c751da2d83ac2898587af571fb34f58822362f7c95647be",
+    "modified": true
+  }
+]
