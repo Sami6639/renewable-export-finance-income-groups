@@ -1,0 +1,108 @@
+{
+  "status": "PASS",
+  "checked_utc": "2026-10-19T10:31:50.498604+00:00",
+  "source_commit": "776d41f57ff893ba0d88be8f09035dbbf9d417fa",
+  "clean_run": "Fresh local clone of verified public checkout; numerical directory initially contained scripts only. All five scripts completed with exit code zero.",
+  "csv_comparisons": [
+    {
+      "file": "FY2023_all24_decomposition.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "FY2023_ranges.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "FY2023_selected.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "SI_annual_Q0_core24_agreement12.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "SI_annual_Q1_core24.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "alternative_windows.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "display_traceability.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "endpoint_levels_provenance.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "figure1_annual_data.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "figure2_endpoint_changes.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "figure2_nominal_levels.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "figure3_H_accounting.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "figure3_H_regional_outer_envelopes.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "four_class_main_results.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "provider_H_ranked_full.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "provider_H_top5.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "renewable_geography_coverage.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    },
+    {
+      "file": "within_cancellation.csv",
+      "regenerated_exists": true,
+      "byte_identical": true
+    }
+  ],
+  "csv_count": 18,
+  "traceability_rows": 16,
+  "python": "3.12.14",
+  "packages": {
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "matplotlib": "3.10.8"
+  },
+  "figure_check": "Three PNG and three PDF figures generated. PDF binary equality not required because creation timestamps differ.",
+  "limits": "Reaggregation from public outputs; not original source transaction reconstruction. Benign font cache warnings occurred but figure generation completed."
+}

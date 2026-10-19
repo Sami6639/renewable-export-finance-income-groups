@@ -1,0 +1,287 @@
+{
+  "status": "PASS",
+  "checked_utc": "2026-10-19T16:40:20.724370+00:00",
+  "base_commit": "776d41f57ff893ba0d88be8f09035dbbf9d417fa",
+  "public_HEAD_observed": "776d41f57ff893ba0d88be8f09035dbbf9d417fa",
+  "publication_status": "Prepared update only; extension not present at observed public HEAD",
+  "source_reconstruction": "Reaggregation of verified public analytical outputs, not fresh reconstruction of original source transactions",
+  "csv_regeneration": [
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/FY2023_all24_decomposition.csv",
+      "rows": 96,
+      "sha256": "f0f349a0b91906b82804303419dbf73ccb9459e04ee3e43d04925854faf77d6c",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/FY2023_ranges.csv",
+      "rows": 4,
+      "sha256": "442e6e59582cff63b25f6f1363508e99b1b99a0730bad7064f51e2947875312b",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/FY2023_selected.csv",
+      "rows": 12,
+      "sha256": "b4c3e2aef89cc5f230d4a86c7b90eaf3da650fdadd6a486d65d174986c44592f",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/SI_annual_Q0_core24_agreement12.csv",
+      "rows": 1440,
+      "sha256": "49929fc084d6b36b32aef1228324291a8482b137c65e0c6ccbf51e1dac01fb6f",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/SI_annual_Q1_core24.csv",
+      "rows": 960,
+      "sha256": "9c349d865874e16025994bc2c6bf101a0ead84ad1b6cb6cadf964149049a515c",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/alternative_windows.csv",
+      "rows": 8,
+      "sha256": "45e74ac55391111e50776cd9ca2258c5bc048546ac8fc8f88982e457b2383585",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/display_traceability.csv",
+      "rows": 16,
+      "sha256": "51e1ab3516cb61875e9bcc070aa51ab317cf948e6dcf04c0b19942fec3155b40",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/endpoint_levels_provenance.csv",
+      "rows": 24,
+      "sha256": "1def242a1d56579cfef599b2f55a8bda26cb9352e64f609a74a03572afd5b144",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/figure1_annual_data.csv",
+      "rows": 120,
+      "sha256": "6a52fa6882e4348f821d733730644c7b12d1a95d51706e5aeab258060bd39615",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/figure2_endpoint_changes.csv",
+      "rows": 12,
+      "sha256": "7778c64ebeacb902492969f44a9e7ae2b29428f83312af23a335cd3dd92650ab",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/figure2_nominal_levels.csv",
+      "rows": 24,
+      "sha256": "1def242a1d56579cfef599b2f55a8bda26cb9352e64f609a74a03572afd5b144",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/figure3_H_accounting.csv",
+      "rows": 3,
+      "sha256": "ef68844ea2430da1028c93328998723047e8b125f354abd6532e0dc283cd660b",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/figure3_H_regional_outer_envelopes.csv",
+      "rows": 10,
+      "sha256": "d84fc2c7b671a88a50af197214620e78c99264b119b37de94fa2df8ea58ba4e8",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/four_class_main_results.csv",
+      "rows": 4,
+      "sha256": "ae3619f1be7d111ce426661ef20701afc05536457c486170a427e2419c92f550",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/provider_H_ranked_full.csv",
+      "rows": 28,
+      "sha256": "10f954260b91d8fdd6c011de2346499fa50ffa85bfe4fb7fd1fc194d34352b82",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/provider_H_top5.csv",
+      "rows": 10,
+      "sha256": "fe104e83998bf394c80f7c822a343e217776b958ceed39963b0ddddfc392ccff",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/renewable_geography_coverage.csv",
+      "rows": 15,
+      "sha256": "0f07588f5a8c31a3baa35804ba8d5fcb3ee2cd70d3208c22e52cb978e02f96ed",
+      "byte_identical_to_delivered_extension": true
+    },
+    {
+      "file": "revisions/analytical_extension_2026_10_19/numerical/within_cancellation.csv",
+      "rows": 2,
+      "sha256": "8c94d9ae6c3818f0a0a0907e76f2108d5a407681643321abc1e3eb8459b8b222",
+      "byte_identical_to_delivered_extension": true
+    }
+  ],
+  "SI_table_S10": [
+    {
+      "table": "S10",
+      "comparison": "FY2023 vintage",
+      "case": "D1",
+      "income_class": "L",
+      "display": "-1.07",
+      "value": -1.0743555393534163,
+      "output": "FY2023_selected.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "FY2023 vintage",
+      "case": "D1",
+      "income_class": "LM",
+      "display": "+7.87",
+      "value": 7.870272757581826,
+      "output": "FY2023_selected.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "FY2023 vintage",
+      "case": "D1",
+      "income_class": "UM",
+      "display": "-30.65",
+      "value": -30.651583771543777,
+      "output": "FY2023_selected.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "FY2023 vintage",
+      "case": "D1",
+      "income_class": "H",
+      "display": "+23.86",
+      "value": 23.855666553315366,
+      "output": "FY2023_selected.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "FY2023 vintage",
+      "case": "D2",
+      "income_class": "L",
+      "display": "-0.47",
+      "value": -0.4706958684314366,
+      "output": "FY2023_selected.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "FY2023 vintage",
+      "case": "D2",
+      "income_class": "LM",
+      "display": "+9.23",
+      "value": 9.231979358988855,
+      "output": "FY2023_selected.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "FY2023 vintage",
+      "case": "D2",
+      "income_class": "UM",
+      "display": "-30.28",
+      "value": -30.276790418336613,
+      "output": "FY2023_selected.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "FY2023 vintage",
+      "case": "D2",
+      "income_class": "H",
+      "display": "+21.52",
+      "value": 21.51550692777919,
+      "output": "FY2023_selected.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "Shifted windows",
+      "case": "D1",
+      "income_class": "L",
+      "display": "+1.69",
+      "value": 1.692844011353273,
+      "output": "alternative_windows.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "Shifted windows",
+      "case": "D1",
+      "income_class": "LM",
+      "display": "-9.13",
+      "value": -9.133368884326138,
+      "output": "alternative_windows.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "Shifted windows",
+      "case": "D1",
+      "income_class": "UM",
+      "display": "-25.88",
+      "value": -25.881645089385163,
+      "output": "alternative_windows.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "Shifted windows",
+      "case": "D1",
+      "income_class": "H",
+      "display": "+33.32",
+      "value": 33.322169962358025,
+      "output": "alternative_windows.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "Shifted windows",
+      "case": "D2",
+      "income_class": "L",
+      "display": "+2.50",
+      "value": 2.4950042368336227,
+      "output": "alternative_windows.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "Shifted windows",
+      "case": "D2",
+      "income_class": "LM",
+      "display": "-8.21",
+      "value": -8.209328970255573,
+      "output": "alternative_windows.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "Shifted windows",
+      "case": "D2",
+      "income_class": "UM",
+      "display": "-25.35",
+      "value": -25.34664562509989,
+      "output": "alternative_windows.csv",
+      "pass": true
+    },
+    {
+      "table": "S10",
+      "comparison": "Shifted windows",
+      "case": "D2",
+      "income_class": "H",
+      "display": "+31.06",
+      "value": 31.06097035852184,
+      "output": "alternative_windows.csv",
+      "pass": true
+    }
+  ],
+  "supplied_document_sha256": {
+    "Renewable_Energy_Export_Finance_Revised (1)(2).docx": "53129729543a1b1eee991a45378be556f1291f1f748b5f8be3b8c5536d1fc6c2",
+    "Renewable_Energy_Export_Finance_Supplementary_Information_Revised(2).docx": "67412223fd683bc76c16e3d1dfc896af12b9e4e6b5e4c1af4cb18b99bdf4599e"
+  },
+  "script_changes": "Only repository-relative path resolution in extend.py, coverage.py and traceability.py changed for installed extension folder; scientific computations unchanged",
+  "figures": "Previously delivered, visually inspected figure binaries retained; regenerated numerical display data byte-identical",
+  "scope": "Fixed 2023 classification and shifted endpoint windows remain separate checks; no joint crossed grid"
+}

@@ -1,7 +1,7 @@
 {
   "package": "renewable-energy-export-finance",
-  "version": "revision2-github",
-  "date": "2026-10-18",
+  "version": "revision3-analytical-extension",
+  "date": "2026-10-19",
   "files": [
     {
       "path": ".gitignore",
@@ -35,8 +35,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4139,
-      "sha256": "babaa272e2ff3822923fb35e72ace5e575cfd3bd31f84adb3c5d7308b5a3495b",
+      "bytes": 4693,
+      "sha256": "fcd2b564849a8c965c65e19e6ffe48fe975be71f16cef9b0e60e6b63322d2621",
       "part": "core"
     },
     {
@@ -1705,6 +1705,252 @@
       "path": "verify_package.py",
       "bytes": 801,
       "sha256": "975fb5497508e8168aab747d3b346dbc600c2da68782bc2e96de231d757b20e6",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/MANIFEST.sha256.json",
+      "bytes": 4351,
+      "sha256": "0b00c538bf2e29956ed1a729858bd461f21126c1268ff52594c7b20992d58a59",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/README.md",
+      "bytes": 3437,
+      "sha256": "329ebf4d2a38efa3f6bf2544ced45f29baea8b5f43638b63eacf9883ea7d73b5",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/FY2023_all24_decomposition.csv",
+      "bytes": 22230,
+      "sha256": "f0f349a0b91906b82804303419dbf73ccb9459e04ee3e43d04925854faf77d6c",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/FY2023_ranges.csv",
+      "bytes": 185,
+      "sha256": "442e6e59582cff63b25f6f1363508e99b1b99a0730bad7064f51e2947875312b",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/FY2023_selected.csv",
+      "bytes": 3033,
+      "sha256": "b4c3e2aef89cc5f230d4a86c7b90eaf3da650fdadd6a486d65d174986c44592f",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/Figure_1_annual_allocation.pdf",
+      "bytes": 26056,
+      "sha256": "dc75a2f1c901ad40a8d73440e3635657f91c870eb6bb3b778f07fc3920b41bd5",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/Figure_1_annual_allocation.png",
+      "bytes": 277561,
+      "sha256": "fa3bf14599ec22edc6fda206fdd76ec3678212143296efeb39c51326c30c665b",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/Figure_2_endpoint_changes_and_levels.pdf",
+      "bytes": 26248,
+      "sha256": "df20b212135267611060afd7cda8c972136f062a226541ed9e016c112fb8daca",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/Figure_2_endpoint_changes_and_levels.png",
+      "bytes": 148461,
+      "sha256": "228513a17f74f682d7b26af1beeb2c6f8f940ab398483222f21e4fab631a34a0",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/Figure_3_H_provider_accounting.pdf",
+      "bytes": 24132,
+      "sha256": "e1f6c9af78da1e492da2cf973959388c9172ef98e4d93b90f51c02bae4cd0d9b",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/Figure_3_H_provider_accounting.png",
+      "bytes": 149986,
+      "sha256": "84c7cddd88398fe5122e91ae5cb5eb5d1131f04fe07cbe6de4d8089878f3677f",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/SI_annual_Q0_core24_agreement12.csv",
+      "bytes": 267390,
+      "sha256": "49929fc084d6b36b32aef1228324291a8482b137c65e0c6ccbf51e1dac01fb6f",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/SI_annual_Q1_core24.csv",
+      "bytes": 216148,
+      "sha256": "9c349d865874e16025994bc2c6bf101a0ead84ad1b6cb6cadf964149049a515c",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/alternative_windows.csv",
+      "bytes": 1611,
+      "sha256": "45e74ac55391111e50776cd9ca2258c5bc048546ac8fc8f88982e457b2383585",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/build_revised_figures.py",
+      "bytes": 7508,
+      "sha256": "2e793d30b20c07213796779fb0e6b576585a172ae38316b33c448a3725aa901e",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/complete_traceability.py",
+      "bytes": 4931,
+      "sha256": "61c12adcf3ce9464c0d5d2e4d480fb7fa70012d76283af139b6d08f85297b4bf",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/coverage.py",
+      "bytes": 1529,
+      "sha256": "0a91b9ff5d957b95bdbb6a87e52593119dc02fe1e817349eec82b871735c4cb6",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/display_traceability.csv",
+      "bytes": 6394,
+      "sha256": "51e1ab3516cb61875e9bcc070aa51ab317cf948e6dcf04c0b19942fec3155b40",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/endpoint_levels_provenance.csv",
+      "bytes": 4869,
+      "sha256": "1def242a1d56579cfef599b2f55a8bda26cb9352e64f609a74a03572afd5b144",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/extend.py",
+      "bytes": 6162,
+      "sha256": "06c9469f5b9ca859e1902d7264522619ed8a30e73d7da1670263af3b60ea6937",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/figure1_annual_data.csv",
+      "bytes": 21905,
+      "sha256": "6a52fa6882e4348f821d733730644c7b12d1a95d51706e5aeab258060bd39615",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/figure2_endpoint_changes.csv",
+      "bytes": 3104,
+      "sha256": "7778c64ebeacb902492969f44a9e7ae2b29428f83312af23a335cd3dd92650ab",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/figure2_nominal_levels.csv",
+      "bytes": 4869,
+      "sha256": "1def242a1d56579cfef599b2f55a8bda26cb9352e64f609a74a03572afd5b144",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/figure3_H_accounting.csv",
+      "bytes": 963,
+      "sha256": "ef68844ea2430da1028c93328998723047e8b125f354abd6532e0dc283cd660b",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/figure3_H_regional_outer_envelopes.csv",
+      "bytes": 3113,
+      "sha256": "d84fc2c7b671a88a50af197214620e78c99264b119b37de94fa2df8ea58ba4e8",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/figure_validation.json",
+      "bytes": 364,
+      "sha256": "364e97842d9b663d0969b607235a64813e9ac97166738dad8491b326cc842a83",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/four_class_main_results.csv",
+      "bytes": 1310,
+      "sha256": "ae3619f1be7d111ce426661ef20701afc05536457c486170a427e2419c92f550",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/provider_H_ranked_full.csv",
+      "bytes": 5542,
+      "sha256": "10f954260b91d8fdd6c011de2346499fa50ffa85bfe4fb7fd1fc194d34352b82",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/provider_H_top5.csv",
+      "bytes": 2480,
+      "sha256": "fe104e83998bf394c80f7c822a343e217776b958ceed39963b0ddddfc392ccff",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/renewable_geography_coverage.csv",
+      "bytes": 1674,
+      "sha256": "0f07588f5a8c31a3baa35804ba8d5fcb3ee2cd70d3208c22e52cb978e02f96ed",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/traceability.py",
+      "bytes": 2745,
+      "sha256": "275187a694ca305fb3d13d707d069f8f4010ff018dedff1afadd128363f84fa0",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/verification.json",
+      "bytes": 1000,
+      "sha256": "304a3353d09eb8449d7143be5c25a0d1e92e516706dcc85ab7197ca2624de995",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/numerical/within_cancellation.csv",
+      "bytes": 245,
+      "sha256": "8c94d9ae6c3818f0a0a0907e76f2108d5a407681643321abc1e3eb8459b8b222",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/requirements.txt",
+      "bytes": 46,
+      "sha256": "0bf7466ec8d0bc18d2ecc5db4bae9e132590df827eba743092e88474b4800849",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/verification/R42_public_archive_receipt.json",
+      "bytes": 12848,
+      "sha256": "e8bc4fbd81353ae551faa38004703a34aa1961be46dbef66ca4365b741247077",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/verification/R42_verification_note.txt",
+      "bytes": 3474,
+      "sha256": "77b24bee5643f792e2e5f355584ee57dc63bb3ac4c4db55a1e84b3f29de3751a",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/verification/extension_clean_run.json",
+      "bytes": 2953,
+      "sha256": "9c423c34417303eabee36419220786f7914a915a9a4798f1d48836e36c3e29a2",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/verification/release_alignment.json",
+      "bytes": 9850,
+      "sha256": "3c9db3ca62ce54aa428707f41b86489edd4854c4f2efaa1eb6d7c43e2bb97fc9",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/verification/release_file_map.csv",
+      "bytes": 5801,
+      "sha256": "ae5c5375b35accdc3677ac6fe1d69629fb745406bc3f59bed2acffce7d49a263",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/verification/reproduction_steps.txt",
+      "bytes": 4828,
+      "sha256": "f7af22d59a68329fc2ff184f0da57045c9f0b207f4b9f30747e9b60c01db3f30",
+      "part": "core"
+    },
+    {
+      "path": "revisions/analytical_extension_2026_10_19/verification/source_inventory.json",
+      "bytes": 2350,
+      "sha256": "b8c8a80b1cb17b84cb1d7004be1b56f6cd0dcd6083a1d02d5ae9b8a0ff371667",
       "part": "core"
     }
   ]

@@ -1,0 +1,322 @@
+{
+  "checked_utc": "2026-10-19T10:19:50.039778+00:00",
+  "remote_head": "776d41f57ff893ba0d88be8f09035dbbf9d417fa",
+  "manifest": {
+    "status": "PASS",
+    "files_checked": 284,
+    "optional_missing": 0,
+    "errors": []
+  },
+  "gzip_checks": [
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_provider_contributions.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_transformation_lineage.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_case_scalar_envelopes.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_interior_verification.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_union_scalar_envelopes.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_vertex_provider_decompositions.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_vertex_provider_periods.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/paired_factor_effects.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/provider_contributions.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/transformation_lineage.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/allocation_cell_accounting.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/technology_allocation_cells.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/extension/technology_signed_cell_contributions_sorted.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/SI_annual_Q0_core24_agreement12.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/audit/arithmetic_consistency_all_rows.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/audit/interaction_closure.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_allocation.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_arithmetic_screen.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_completion_allocation.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_completion_decomposition.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_completion_provider_contributions.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/independent_decomposition.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/workbook_independent_arithmetic_screen.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/agreement_overlay_allocation_differences.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/agreement_overlay_decomposition_differences.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/all_scalar_outcomes.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/allocation.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/anchored_factorial_interactions.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_allocation.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_coverage_joint.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_coverage_marginals.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_decomposition.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_envelopes.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_paired_effects.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/arithmetic_quarantine_provider_contributions.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_derivative_verification.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_validation.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_vertex_allocations.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/completion_vertex_decompositions.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/coverage_joint.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/coverage_marginals.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/decomposition.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/factor_effect_ranges.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/influence/influence_concentration.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/nonrenewable_scope_controls.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    },
+    {
+      "path": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/outputs/scenario_envelopes.csv",
+      "compressed_hash_pass": true,
+      "restored_hash_pass": true,
+      "size_pass": true
+    }
+  ],
+  "gzip_count": 46,
+  "local_documentation_links": [
+    {
+      "document": "README.md",
+      "target": "REPRODUCTION.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/protocol/ANALYSIS_PROTOCOL.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/OUTPUT_GUIDE.md",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "published_replication_candidates/export_finance/manuscript_design/revision2/displays/",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "published_replication_candidates/export_finance/reconciled_revision_2026_10_18/independent_audit/FINAL_INDEPENDENT_AUDIT.json",
+      "exists": true
+    },
+    {
+      "document": "README.md",
+      "target": "REPRODUCTION.md",
+      "exists": true
+    }
+  ],
+  "scope": "Fresh remote HEAD and clean checkout identity; checksum checks and in-memory lossless restoration. Full source-input replay not run. Original inputs excluded and must be lawfully acquired separately. New October 19 revision extensions are not present in this public commit."
+}

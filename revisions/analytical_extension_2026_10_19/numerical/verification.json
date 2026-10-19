@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "checks": [
+    "all provider core and agreement contributions recomputed from weights and within shares",
+    "all provider sums match aggregate components",
+    "all four-class annual amounts close to classified denominators",
+    "original endpoint sums reproduced from annual amounts",
+    "all FY2023 endpoint deltas recomputed from nominal levels"
+  ],
+  "source_commit": "776d41f57ff893ba0d88be8f09035dbbf9d417fa",
+  "source_hashes": {
+    "allocation.csv.gz": "02f32f9fba6318d03ef85439968e66daa42b7f1276b4d15737583a2ab48d23a4",
+    "decomposition.csv.gz": "815d3b0ad4064aedc420e22c3292a102ba2736182790e682c63ed4022aca86be",
+    "provider_contributions.csv.gz": "2d67df4520d1913faa6a618560aa8762d871d64e6ab53d7b1edf5085026f75d7",
+    "secondary_FY2023_endpoint_allocation.csv": "2aabc68a1980ea69ec774f3339c715728c0e55d42268fe0d8770df7567bf7bb4",
+    "secondary_FY2023_endpoint_decomposition.csv": "d81e9034edd68c022ce043f6564910e7c95693dd74f8b00c1b0322c1d45db933"
+  }
+}

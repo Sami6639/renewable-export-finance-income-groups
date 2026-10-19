@@ -40,4 +40,9 @@ Values are nominal USD unless explicitly labelled otherwise. Shares are proporti
 
 ## Integrity
 
-`MANIFEST.sha256.json` describes this repository distribution. `COMPRESSED_OUTPUTS.json` records original and compressed hashes. `provenance/original_delivery_manifest.json` preserves the preceding three-part release manifest as historical provenance. Analysis code and numerical outputs are unchanged; packaging documentation and compression differ. SHA-256 checksums detect byte changes and are not digital signatures.
+`MANIFEST.sha256.json` describes this repository distribution. `COMPRESSED_OUTPUTS.json` records original and compressed hashes. `provenance/original_delivery_manifest.json` preserves the preceding three-part release manifest as historical provenance. The original revision-2 analytical code and outputs are preserved. The separately labelled October 19 extension adds selected summaries, a shifted-window test, and revised display mappings. SHA-256 checksums detect byte changes and are not digital signatures.
+
+
+## Revised manuscript extension (19 October 2026)
+
+See [the analytical extension](revisions/analytical_extension_2026_10_19/README.md) for the full fixed-2023 classification summaries, shifted-window comparison, revised display data, file map and reproduction commands. The 2023 classification comparison and alternative time windows are separate checks. The original underlying analytical outputs are unchanged. Verify the distribution before running scripts.

@@ -1,0 +1,37 @@
+R42 PUBLIC ARCHIVE CHECK — 19 October 2026
+
+Repository: https://github.com/Sami6639/renewable-export-finance-income-groups
+Verified public HEAD and checkout: 776d41f57ff893ba0d88be8f09035dbbf9d417fa
+Frozen link: https://github.com/Sami6639/renewable-export-finance-income-groups/tree/776d41f57ff893ba0d88be8f09035dbbf9d417fa
+
+Checks performed:
+- Fresh git ls-remote confirms public HEAD.
+- Clean checkout before checks.
+- verify_package.py --require-all: PASS, 284 files, zero missing/errors.
+- All 46 compressed CSVs decompressed in memory; compressed hashes, restored hashes and byte counts all match COMPRESSED_OUTPUTS.json. No tracked files changed.
+- All six relative documentation links in README/REPRODUCTION resolve.
+- reproduce.py --list-steps successfully enumerates the prerequisite runner and revised analysis/audit commands.
+
+Limits:
+This is a public archive integrity and documentation check, not a fresh end-to-end numerical reproduction. Six original inputs identified in source_hashes.json are excluded from the repository. Their exact historical vintages must be separately acquired and hash-verified. Upstream license differences remain unresolved. The current public commit contains the preceding revision-2 computations; newly generated October 19 revision checks cannot be described as already public. The previous independent numerical audit is present in the public archive; its presence does not mean this check independently reran it.
+
+Required inputs:
+1. CenskowskyEtAl_ECA_ReplicationPackage.zip — Zenodo record 14261240.
+2. OCI Public Finance for Energy Database 2024.xlsx — extracted from that ZIP.
+3. 240918 IMF IFS - US CPI.xlsx — extracted from that ZIP.
+4. 240801 ISO3-ISO2-codes.xlsx — extracted from that ZIP.
+5. SourceData_SupplementaryFigures.xlsx — extracted from that ZIP.
+6. Historical World Bank income workbook — exact vintage in source_hashes.json.
+Exact byte counts and SHA256 hashes are copied into source_inventory.json. Documentary sources are described in official_source_registry.csv and source-reconciliation folders, with evidence locators and limitations; not all external pages have complete retained hashes.
+
+Source links supplied by repository (not newly downloaded in this check):
+https://zenodo.org/records/14261240
+https://doi.org/10.1038/s41467-025-55981-0
+https://ddh-openapi.worldbank.org/resources/DR0095334/download
+https://www.bpifrance.com/storage/sites/7/2023/05/Liste-contrats-garantis-2004-2022.zip
+
+Recommended manuscript correction:
+Keep repository claims specific to code, derived outputs, reconciliation records and source checksums. Do not say original inputs are retained in the public repository or that the entire new revision has been publicly reproduced. SI existing paragraph 'The reproducibility materials retain immutable inputs...' should say 'The analytical workflow identifies immutable input vintages through checksums...' and distinguish local source evidence from public compact ledgers.
+
+Suggested SI verification sentence:
+The public repository was checked on 19 October 2026 at commit 776d41f57ff893ba0d88be8f09035dbbf9d417fa: all 284 manifest entries and all 46 losslessly compressed outputs matched their recorded checksums. This integrity check did not rerun the source-dependent analysis. The original inputs require separate acquisition; the additional revision checks are supplied in the accompanying replication files and are not included in that public commit.

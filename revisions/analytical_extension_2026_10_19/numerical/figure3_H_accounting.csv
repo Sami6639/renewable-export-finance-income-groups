@@ -1,0 +1,4 @@
+pair,early,late,income_class,delta_pp,composition_pp,within_pp,entry_pp,exit_pp,status,common_provider_count,entry_provider_count,exit_provider_count,common_volume_share_early,common_volume_share_late,classified_denominator_early,classified_denominator_late,scenario,case_set,geography,fixed_income_FY
+early_to_late,early,late,H,40.34239110904665,26.155563913485242,14.186827195561419,0.0,0.0,defined,10,1,1,0.9678526890873108,0.9984853890416081,23454976749.0,18156477640.437286,A0O0G0D0,core,international_reporting,2013
+early_to_late,early,late,H,24.11572420277565,23.024663745689637,1.0910604570860114,0.0,0.0,defined,10,1,1,0.9613721655668146,0.9980495841996397,19519976749.0,14099557640.437284,A1O1G1D1,core,international_reporting,2013
+early_to_late,early,late,H,21.69680808316934,22.803755929731878,-1.1069478465625342,0.0,0.0,defined,10,1,1,0.9613721655668146,0.9979744452537266,19519976749.0,13576527640.437284,A1O1G1D2,core,international_reporting,2013

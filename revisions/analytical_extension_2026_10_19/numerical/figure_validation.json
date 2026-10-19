@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "figure_data_unchanged": [
+    "figure1_annual_data.csv",
+    "figure2_endpoint_changes.csv",
+    "figure2_nominal_levels.csv",
+    "figure3_H_accounting.csv",
+    "figure3_H_regional_outer_envelopes.csv"
+  ],
+  "visual_QA": "All three PNGs inspected; distinct circles/squares/triangles and dotted/solid/dashed styles; no clipped labels."
+}
